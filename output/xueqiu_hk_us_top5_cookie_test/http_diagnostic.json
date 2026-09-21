@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "content_type": "text/html",
+  "final_url": "https://xueqiu.com/query/v1/symbol/search/status?symbol=00700&count=3&page=1&sort=reply&source=user",
+  "redirects": [],
+  "cookie_sent_on_final_request": true,
+  "json": false,
+  "challenge_markers": [
+    "aliyun",
+    "waf"
+  ]
+}

@@ -1,0 +1,2 @@
+# Optional browser transport; uses installed Google Chrome.
+playwright>=1.50,<2

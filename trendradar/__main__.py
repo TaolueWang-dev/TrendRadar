@@ -979,6 +979,8 @@ class NewsAnalyzer:
         # 转换为 NewsData 格式并保存到存储后端
         crawl_time = self.ctx.format_time()
         crawl_date = self.ctx.format_date()
+        from trendradar.storage.article_content import save_content
+        save_content(self.ctx.config, crawl_date, results)
         news_data = convert_crawl_results_to_news_data(
             results, id_to_name, failed_ids, crawl_time, crawl_date
         )

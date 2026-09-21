@@ -320,6 +320,7 @@ def _load_ai_filter_config(config_data: Dict) -> Dict:
         "BATCH_SIZE": ai_filter.get("batch_size", 200),
         "BATCH_INTERVAL": ai_filter.get("batch_interval", 5),
         "INTERESTS_FILE": ai_filter.get("interests_file"),  # None = 使用默认 config/ai_interests.txt
+        "FIXED_TAGS_FILE": ai_filter.get("fixed_tags_file"),
         "PROMPT_FILE": ai_filter.get("prompt_file", "prompt.txt"),
         "EXTRACT_PROMPT_FILE": ai_filter.get("extract_prompt_file", "extract_prompt.txt"),
         "UPDATE_TAGS_PROMPT_FILE": ai_filter.get("update_tags_prompt_file", "update_tags_prompt.txt"),

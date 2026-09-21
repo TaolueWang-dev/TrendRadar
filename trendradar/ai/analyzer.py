@@ -334,6 +334,8 @@ class AIAnalyzer:
                             line += f" | 轨迹:{timeline_str}"
 
                         line += self._citation(t, source)
+                        if t.get('content'):
+                            line += '\n  用户讨论正文节选（非核实事实）：' + json.dumps(t['content'][:2000], ensure_ascii=False)
                         news_lines.append(line)
 
                         news_count += 1

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>市场关注热点 Agent · 筛选流程与判断规则</title>
+<style>
+:root{--ink:#182b39;--muted:#566c7a;--line:#dce5e9;--blue:#155e75;--green:#217665;--bg:#f4f7f8;--amber:#94621c}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.8 system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif}main{max-width:1140px;margin:auto;padding:48px 32px 70px}header{background:#112f40;color:white;border-radius:24px;padding:46px;position:relative}header p{color:#c7dce6;max-width:820px}h1{font-size:38px;line-height:1.35;letter-spacing:-1px;margin:14px 0 20px}h2{font-size:27px;line-height:1.4;margin:0 0 20px}h3{font-size:19px;margin:0 0 10px}p{margin:10px 0}a{color:var(--blue)}header a{color:#d5edf5}.eyebrow{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#83c9c4}.meta{font-size:13px;color:var(--muted)}header .meta{color:#aac4d0}.lead{font-size:19px}.pills{display:flex;gap:10px;flex-wrap:wrap;margin-top:25px}.pill{padding:5px 13px;border:1px solid #486474;border-radius:30px;font-size:13px}nav{display:flex;gap:9px;flex-wrap:wrap;margin:22px 0 36px}nav a{padding:7px 14px;text-decoration:none;background:white;border:1px solid var(--line);border-radius:8px;font-size:14px}section{background:white;padding:34px;border:1px solid var(--line);border-radius:18px;margin:24px 0;scroll-margin-top:18px}.kicker{font-size:13px;font-weight:700;color:var(--green);margin-bottom:8px}.callout{border-left:4px solid var(--blue);padding:16px 20px;background:#eef6f9;border-radius:0 10px 10px 0;margin:20px 0}.warning{border-color:var(--amber);background:#fff8eb}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{padding:21px;border:1px solid var(--line);border-radius:12px}.card p{color:var(--muted)}.flow{display:grid;grid-template-columns:1fr 36px 1fr 36px 1fr;gap:0;align-items:stretch;margin:26px 0}.node{padding:19px;border:1px solid #bdd6df;border-radius:12px;background:#f3f9fb}.node b{display:block;margin:7px 0}.node small{color:var(--muted);font-size:13px}.num{color:var(--blue);font-size:12px;font-weight:750;letter-spacing:1px}.arrow{display:grid;place-content:center;color:#6f909e;font-size:27px}.down{text-align:center;font-size:27px;color:#6f909e;margin:-16px 0}.subflow{display:grid;grid-template-columns:1fr 36px 1fr;align-items:stretch}.branch{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px;font-size:13px}.branch span{background:#fff;padding:5px 10px;border:1px solid #cbdce3;border-radius:6px}.table-wrap{overflow:auto}table{border-collapse:collapse;width:100%;font-size:14px}th{text-align:left;background:#edf3f5;color:#335365}td,th{padding:13px 14px;border-bottom:1px solid var(--line);vertical-align:top}th:first-child{width:19%}code{font:13px/1.7 ui-monospace,SFMono-Regular,monospace;background:#edf3f5;padding:2px 5px;border-radius:4px}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#142f3e;color:#d9e8ed;padding:23px;border-radius:12px;font:14px/1.8 ui-monospace,monospace}ul,ol{padding-left:23px}li{margin:6px 0}.badge{font-size:12px;display:inline-block;padding:2px 8px;border-radius:5px;background:#e5f3ed;color:#236754;margin-bottom:8px}.badge.pending{background:#fff2d8;color:#8c601e}.steps{counter-reset:steps}.steps>div{padding:18px 0 18px 48px;position:relative;border-bottom:1px solid var(--line)}.steps>div:before{counter-increment:steps;content:counter(steps);position:absolute;left:0;top:21px;background:#e9f3f6;color:var(--blue);width:30px;height:30px;display:grid;place-content:center;border-radius:50%;font-weight:700}.facts{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:20px 0}.fact{padding:17px;background:#f1f7f8;border-radius:10px}.fact strong{display:block;font-size:30px;color:var(--blue)}.fact span{font-size:13px;color:var(--muted)}details{border:1px solid var(--line);padding:15px 19px;border-radius:10px;margin:12px 0}summary{cursor:pointer;font-weight:650}footer{font-size:13px;color:var(--muted);padding:8px 5px}.toolbar{display:flex;justify-content:flex-end;margin-bottom:15px}button{font:inherit;font-size:13px;padding:8px 15px;border:1px solid #b8cbd5;background:white;border-radius:8px;color:var(--blue);cursor:pointer}.path{overflow-wrap:anywhere;font:12px/1.8 ui-monospace,monospace;color:var(--muted)}.strong{font-weight:750;color:var(--blue)}
+@media(max-width:760px){main{padding:20px 14px}header{padding:27px 23px}h1{font-size:29px}section{padding:24px 19px}.grid{grid-template-columns:1fr}.flow,.subflow{display:flex;flex-direction:column;gap:9px}.arrow{transform:rotate(90deg);height:28px}.down{margin:0}.facts{grid-template-columns:repeat(2,1fr)}}
+@media print{body{background:white;font-size:11pt}main{padding:0;max-width:none}header{background:#eef4f6!important;color:#182b39;padding:25px}header p,header .meta{color:#405965}nav,.toolbar{display:none}section{padding:20px;break-inside:auto}h2,h3{break-after:avoid}.card,.node,tr,.fact{break-inside:avoid}pre{background:#f1f4f5;color:#182b39}a{color:inherit;text-decoration:none}details{display:block}.pill{border-color:#b9cbd5}.flow{grid-template-columns:1fr 25px 1fr 25px 1fr}}
+</style>
+</head>
+<body><main>
+<div class="toolbar"><button type="button" onclick="window.print()">打印 / 保存为 PDF</button></div>
+<header>
+<div class="eyebrow">Market attention · Workflow &amp; evidence</div>
+<h1>市场关注热点 Agent<br>从多渠道榜单，到可追溯的金融话题</h1>
+<p class="lead">把分散在新闻媒体、社区热榜、股票人气榜和财经订阅中的信号，整理成“当前哪些金融议题受到关注、哪些来源正在讨论、有什么值得继续核实”的报告。</p>
+<div class="pills"><span class="pill">多来源发现</span><span class="pill">金融相关性筛选</span><span class="pill">主题归纳</span><span class="pill">原文引用</span></div>
+<p class="meta">说明日期：2026-09-21 · 基于本地现有代码与已完成测试 · 描述口径：全渠道金融 AI 报告模式</p>
+</header>
+<nav aria-label="文档导航"><a href="#position">定位</a><a href="#flow">流程图</a><a href="#sources">采集规则</a><a href="#filter">AI 筛选规则</a><a href="#score">分数含义</a><a href="#agent">为什么是 Agent</a><a href="#limits">边界与改进</a><a href="#evidence">代码与验证</a></nav>
+
+<section id="position"><div class="kicker">01 / 目标与口径</div><h2>回答“市场在关注什么”，并保留判断依据</h2>
+<div class="grid"><div class="card"><h3>当前能够提供</h3><p>从已覆盖渠道中发现金融相关议题，归纳宏观、产业、公司和政策主题，并展示原始新闻链接，帮助读者快速确定后续研究方向。</p></div><div class="card"><h3>需要谨慎解释</h3><p>榜单代表对应平台和样本的关注度。来源覆盖、发布时间、标题表达及模型判断都会影响结果，不能将报告等同于全市场共识或真实资金流向。</p></div></div>
+<div class="callout"><strong>这份文档讲的是最近全渠道报告使用的流程。</strong><br>测试命令 <code>scripts/finance_report.py --all --ai</code> 启用金融 AI 筛选，纳入已启用的 RSS，并临时让雪球走 NewsNow。主配置默认仍是 <code>filter.method: keyword</code>；普通启动还可能受调度设置覆盖，不能认为它与测试模式完全相同。</div>
+</section>
+
+<section id="flow"><div class="kicker">02 / 端到端流程图</div><h2>先获得候选池，再判断相关性，最后归纳关注主题</h2>
+<div class="flow" aria-label="采集到筛选流程"><div class="node"><span class="num">01 · 发现</span><b>多渠道采集</b><small>NewsNow 榜单、东财点击榜、同花顺人气榜、富途资讯、RSS。</small></div><div class="arrow" aria-hidden="true">→</div><div class="node"><span class="num">02 · 整理</span><b>标准化与基础去重</b><small>统一标题、来源、链接、名次；记录采集历史。富途额外按链接去重。</small></div><div class="arrow" aria-hidden="true">→</div><div class="node"><span class="num">03 · 分类</span><b>AI 金融相关性筛选</b><small>原始偏好＋标签目录＋标题与来源名称，输出单标签及相关度。</small></div></div>
+<div class="down" aria-hidden="true">↓</div>
+<div class="flow"><div class="node"><span class="num">04 · 保留</span><b>执行程序过滤</b><small>相关度 ≥ 0.7；current 模式保留最新采集批次条目；RSS 按新鲜度筛选。</small></div><div class="arrow" aria-hidden="true">→</div><div class="node"><span class="num">05 · 分析</span><b>AI 归纳与引用</b><small>最多分析 150 条，形成核心热点、争议、弱信号、RSS 洞察与策略推演。</small></div><div class="arrow" aria-hidden="true">→</div><div class="node"><span class="num">06 · 交付</span><b>可追溯报告</b><small>HTML 展示主题与新闻；总结编号映射为原文链接，支持点击核对。</small></div></div>
+<div class="callout warning"><strong>两种不同判断：</strong>“热点候选”主要由上游榜单或采样范围决定；“是否适合本报告”由金融相关性筛选决定。程序目前没有把各平台热度换算为统一的事件热度分数。</div>
+</section>
+
+<section id="sources"><div class="kicker">03 / 候选新闻从哪里来</div><h2>各渠道的“热”有不同口径</h2><div class="table-wrap"><table><thead><tr><th>渠道</th><th>当前候选池</th><th>名次与范围解释</th></tr></thead><tbody>
+<tr><td>NewsNow 综合榜</td><td>头条、百度、微博、知乎、抖音、贴吧、B站等上游榜单。</td><td>保留返回顺序。不同平台指标不同，部分结果可能来自上游缓存。</td></tr>
+<tr><td>NewsNow 媒体榜</td><td>华尔街见闻、财联社、凤凰、澎湃对应热门资讯。</td><td>反映各媒体的热门内容，不保证文章发布时间都在同一时间窗口。</td></tr>
+<tr><td>雪球</td><td>全渠道测试采用 NewsNow 热门股票，最近测试返回 30 条。</td><td>全市场股票人气榜，另设讨论正文采集渠道；正文直连需有效会话，目前被风控拦截。</td></tr>
+<tr><td>同花顺</td><td>港股每日人气榜，当前限制 50 只。</td><td>股票受关注的线索，不直接说明原因、资金流入或未来涨跌。</td></tr>
+<tr><td>东方财富</td><td>公开页面“网友点击排行榜”，最近测试返回 10 条新闻。</td><td>采用网页原始榜单名次，页面未提供精确点击次数和统计窗口。</td></tr>
+<tr><td>富途</td><td>四个指数关键词＋港美股热门股各前三只；每个关键词最多 10 条；近 48 小时资讯。</td><td>按链接去重后，在采样内按阅读量排序，最多 50 条。不是富途全站热榜。</td></tr>
+<tr><td>RSS</td><td>Hacker News、雅虎财经；当前设置一天内的新鲜度过滤。</td><td>提供新闻与专业信息增量，订阅条目本身不等于热门事件。</td></tr>
+</tbody></table></div><p class="meta">以上为当前配置和适配范围，不是各平台全部可提供的能力。缺失或失败渠道需在报告中披露，不以旧数据冒充成功采集。</p></section>
+
+<section><div class="kicker">2026-09-21 / 正文能力更新</div><h2>雪球新增独立讨论正文渠道</h2><p>保留原热门股票榜，另从前 3 只港美股采样讨论，每只最多 5 条、近 48 小时。新增接口提取正文、作者、时间、原文链接及互动数，正文缺失时不把摘要冒充正文。</p><p>有正文的条目在 AI 筛选和总结中附带最多 2000 字节选；其他渠道仍以标题为主。完整接口正文保存在本地每日 article_content 文件，AI 模式报告提供折叠正文。</p><div class="callout warning">实现与模拟测试已完成；真实雪球接口返回风控页面，尚未成功取得正文。需有效登录会话或人工完成网站验证。下文的历史报告数字不包含新增正文渠道。</div></section><section id="filter"><div class="kicker">04 / 从偏好到筛选</div><h2>一段金融偏好，两阶段模型调用</h2>
+<div class="callout">关注港股、美股市场当前正在讨论的事件和主题，包括宏观经济、货币政策、企业业绩、产业供需、监管政策及资本流动。保留对行业或上市公司有明确关联的科技、地缘政治和政策新闻。排除娱乐八卦、无金融关联的社会新闻、营销内容及缺乏实质信息的讨论。</div>
+<div class="subflow"><div class="node"><span class="num">阶段 A · 提取标签</span><b>金融偏好＋标签提取模板 → 标签目录</b><small>模型生成标签名称、范围说明及顺序。程序分配标签 ID 并存储，后续可复用。</small></div><div class="arrow" aria-hidden="true">→</div><div class="node"><span class="num">阶段 B · 判断新闻</span><b>原始偏好＋标签目录＋新闻 → 分类结果</b><small>每批最多 200 条；输入新闻标题和来源名称；每条最多保留一个标签及一个分数。</small></div></div>
+<div class="steps"><div><h3>标签提取模板决定分类框架</h3><p>要求生成 5～20 个标签，标签名称简洁、描述具体、尽量不重叠，并尽量按用户偏好的先后排列。近期产生了港股市场、美股市场、宏观经济、货币政策、企业业绩、产业供需等标签。</p></div><div><h3>原始偏好继续参与逐条判断</h3><p>分类时再次传入完整金融描述，所以“排除娱乐、营销”等要求没有因为提取标签而丢失。但它们仍是模型需要遵循的语义指令，尚未全部变成独立硬规则。</p></div><div><h3>每条只选一个最相关标签</h3><p>模型选最相关标签；相关程度接近时，优先选择靠前的标签。新闻可能同时涉及 AI 与港股，但报告只归入其中一个类别。无匹配的新闻按要求不返回。</p></div><div><h3>程序执行阈值和有效性检查</h3><p>检查新闻 ID、标签 ID 是否来自输入；将分数限制在 0～1；缺失或无法转为数字时按 0.5 处理；重复候选只留最高分；最终仅保留相关度 ≥ 0.7 的记录。</p></div></div>
+<details><summary>查看一次分类调用的简化示例（分数仅为示意）</summary><pre>输入：
+偏好：关注港美股金融事件，排除娱乐与无实质信息的内容。
+标签：3. 货币政策 —— 央行利率、加息降息、流动性操作。
+新闻：101. [财联社] 美联储宣布下调政策利率
+
+模型返回：
+[{"id": 101, "tag_id": 3, "score": 0.95}]
+
+程序判断：
+ID 合法，并且 0.95 ≥ 0.7 → 保留。</pre></details>
+</section>
+
+<section id="score"><div class="kicker">05 / 分数到底是什么</div><h2>相关度是模型给出的语义评分</h2>
+<p>当前模板只明确了 <strong>1.0＝完全相关、0.5＝部分相关</strong>。模型结合标题、来源名称、标签说明和原始偏好，直接生成分数。代码没有额外使用关键词加权、点击量、向量相似度或模型内部概率来计算相关度。</p>
+<div class="grid"><div class="card"><h3>模型负责判断</h3><p>新闻和关注主题是否有关？最适合哪个标签？相关程度大约多少？这一判断可能受模型版本、标签范围和标题措辞影响。</p></div><div class="card"><h3>程序负责执行</h3><p>编号是否合法、分数格式是否可用、是否达到 0.7、是否属于当前采集批次，以及是否通过对应时间过滤。</p></div></div>
+<div class="callout warning"><strong>0.8 不表示 80% 的真实性或 80% 的投资价值。</strong><br>0.7 是当前配置的经验门槛，尚未经过人工标注样本校准。提高门槛通常会减少保留量，但不保证留下的都是重大事件。</div>
+<div class="table-wrap"><table><thead><tr><th>容易混淆的概念</th><th>实际含义</th><th>当前是否统一计算</th></tr></thead><tbody><tr><td>相关度</td><td>标题与金融偏好及分类标签的相关程度。</td><td>模型输出 0～1，程序以 0.7 过滤。</td></tr><tr><td>平台名次</td><td>对应平台或采样内部的排名。</td><td>保留原口径，未跨平台归一化。</td></tr><tr><td>事件热度</td><td>同一事件覆盖的平台、讨论规模、持续时间和升温速度。</td><td>尚无完整事件级聚合评分。</td></tr><tr><td>可信度 / 投资意义</td><td>事实是否可靠，以及对资产的影响。</td><td>相关度不承担这两项判断。</td></tr></tbody></table></div>
+</section>
+
+<section id="agent"><div class="kicker">06 / 为什么可以作为热点分析 Agent</div><h2>形成“发现 → 筛选 → 归纳 → 可追溯输出”的完整任务流程</h2>
+<p>它可以定位为一个<strong>市场关注热点分析 Agent</strong>：任务目标明确，能调用多个信息源、依据偏好筛选内容，再由模型组织分析结果并附上证据。当前实现属于固定流程驱动的分析 Agent，并没有自主扩展调查或自动验证事实的能力。</p>
+<div class="grid"><div class="card"><span class="badge">已有能力</span><h3>1. 捕捉已显现的关注信号</h3><p>媒体热榜提供财经议题，社区榜单提供讨论线索，股票人气榜提供标的关注线索。多渠道让观察范围更广。</p></div><div class="card"><span class="badge">已有能力</span><h3>2. 用金融偏好降低噪声</h3><p>从综合热点中筛出与港美股、宏观、政策和产业有关的标题，使用户不用逐个平台阅读大量无关内容。</p></div><div class="card"><span class="badge">已有能力</span><h3>3. 将散点信息整理成主题</h3><p>模型把单条标题归纳为核心议题、争议和待核实信号，帮助形成“市场正在谈什么”的阅读提纲。跨平台关联仍是模型归纳，需要核对。</p></div><div class="card"><span class="badge">已有能力</span><h3>4. 为下一步研究提供入口</h3><p>结论后附来源标签，点击打开原文，悬停查看标题。研究者或下游 Agent 可以据此继续查证和补充正文。</p></div></div>
+<div class="callout"><strong>合适的产出：</strong>“在本次覆盖的渠道与时间范围内，这些金融话题值得优先阅读。”<br><strong>合适的下游用途：</strong>作为宏观、新闻或热点 Agent 的候选证据入口；涉及评级和资产影响时，应继续抽取事实、校验时间并分析传导关系。</div>
+<p>目前总结中的 <code>[[S1]]</code> 等编号由模型引用，程序仅将已登记的输入来源映射为链接。不存在或不安全的引用显示“来源待核实”。这保证链接可追溯，但不能自动证明该来源足以支持每个结论。</p>
+</section>
+
+<section id="limits"><div class="kicker">07 / 必须明确的边界</div><h2>当前能发现关注议题，尚不能严格给事件排热度榜</h2>
+<ul><li><strong>主要看标题：</strong>筛选没有逐篇阅读正文，标题缺失的条件、时间和语气可能影响判断。</li><li><strong>不是全市场观测：</strong>候选池受平台、榜单长度、缓存与富途查询关键词限制；“当前”指本次观察窗口。</li><li><strong>跨来源未完全合并事件：</strong>多个媒体转载同一消息可能占多条；原始条数不能直接解释为独立证据数量。</li><li><strong>单次排名不能证明升温：</strong>没有可用历史变化证据时，不应把一次高排名描述成“急升”“资金涌入”或“共识形成”。</li><li><strong>宽泛标签可能保留过多股票条目：</strong>一只股票上榜容易匹配“港股市场”，但它可能不包含实质新闻事件。</li><li><strong>模型总结仍会推断：</strong>原模板包含争议、弱信号和策略建议，部分内容可能超过标题证据能支持的范围。</li></ul>
+<h3>要升级为更严格的市场关注度系统，建议补充</h3><div class="grid"><div class="card"><span class="badge pending">待建设</span><h3>事件层</h3><p>建立事件 ID，识别同一事件的报道与转载；分别统计来源多样性、证据质量和覆盖平台。</p></div><div class="card"><span class="badge pending">待建设</span><h3>时间层</h3><p>保留发布时间、首次采集时间和榜单历史，计算新增度、持续性与关注度变化，并严格控制回放时点。</p></div><div class="card"><span class="badge pending">待建设</span><h3>筛选层</h3><p>分开判断金融相关性、宏观相关性和是否包含可提取事实；用人工样本验证误保留、漏筛及阈值效果。</p></div><div class="card"><span class="badge pending">待建设</span><h3>验证层</h3><p>补充正文与原始公告，核对引用是否支持结论；将观测事实、关注度信号和推断明确区分。</p></div></div>
+</section>
+
+<section id="evidence"><div class="kicker">08 / 实测与实现位置</div><h2>已经跑通的报告，而非待实现的概念</h2>
+<p>2026-09-20 的全信息源报告中，所有已启用渠道成功采集；这是一轮样本的覆盖与运行结果，不是长期准确率证明。</p>
+<div class="facts"><div class="fact"><strong>15 + 2</strong><span>热榜/资讯渠道＋RSS 源</span></div><div class="fact"><strong>359</strong><span>热榜及资讯条目</span></div><div class="fact"><strong>29</strong><span>该轮通过新鲜度过滤的 RSS</span></div><div class="fact"><strong>116</strong><span>该轮最终进入 AI 总结的条目</span></div></div>
+<p>后续在同一热榜样本上重新生成带引用的总结，产生 43 处来源链接，均通过输入来源映射校验。当前总结上限为 150 条，以上两轮均未触发截断。</p>
+<p><a href="../output/all_sources_with_futu/output/html/latest/current.html">查看已生成的全信息源报告 →</a></p>
+<details><summary>代码与配置索引</summary><ul><li>用户偏好：<code>config/custom/ai/finance_test.txt</code></li><li>标签提取模板：<code>config/ai_filter/extract_prompt.txt</code></li><li>新闻分类模板：<code>config/ai_filter/prompt.txt</code></li><li>分类与分数解析：<code>trendradar/ai/filter.py</code></li><li>批量执行、缓存与阈值过滤：<code>trendradar/ai/filter_pipeline.py</code></li><li>金融渠道：<code>trendradar/crawler/financial.py</code>、<code>futu_news.py</code></li><li>总结与来源注册：<code>trendradar/ai/analyzer.py</code></li><li>来源链接渲染：<code>trendradar/ai/formatter.py</code></li><li>全渠道测试入口：<code>scripts/finance_report.py --all --ai</code></li></ul></details>
+</section>
+<footer>本页为筛选机制说明，不修改采集、模型或正式运行配置。流程图、样式与交互均内嵌，无外部脚本或字体依赖，可离线阅读；报告入口需保留项目内的相对目录结构。</footer>
+</main></body></html>

@@ -22,7 +22,7 @@ def main():
     parser.add_argument('--ai', action='store_true')
     parser.add_argument('--reuse', action='store_true')
     parser.add_argument('--all', action='store_true', help='Include all enabled platforms and RSS; use NewsNow for Xueqiu')
-    parser.add_argument('--sources', nargs='+', choices=['ths', 'xueqiu', 'dongcai', 'futu'],
+    parser.add_argument('--sources', nargs='+', choices=['ths', 'xueqiu', 'dongcai', 'futu', 'xueqiu_discussions'],
                         help='Only collect these financial channels')
     parser.add_argument('--output', default=str(ROOT / 'output/financial_channels_test'))
     args = parser.parse_args()
@@ -109,6 +109,8 @@ def main():
             if set(data['names']) != set(analyzer.ctx.platform_ids):
                 raise ValueError('Snapshot sources differ from configuration; collect again')
             results, names, failed = data['results'], data['names'], data['failed']
+            from trendradar.storage.article_content import save_content
+            save_content(cfg, data['crawl_date'], results)
             analyzer.storage_manager.save_news_data(convert_crawl_results_to_news_data(
                 results, names, failed, data['crawl_time'], data['crawl_date']))
         else:

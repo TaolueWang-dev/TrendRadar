@@ -1,0 +1,13 @@
+{
+  "command": [
+    "opencli",
+    "xueqiu",
+    "comments",
+    "00700",
+    "--limit",
+    "3",
+    "-f",
+    "json"
+  ],
+  "error": "timeout_after_40_seconds"
+}

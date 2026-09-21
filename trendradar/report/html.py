@@ -1696,6 +1696,12 @@ def render_html_content(
                 else:
                     stats_html += escaped_title
 
+                if title_data.get('content'):
+                    byline = html_escape(title_data.get('author', '') + ' · ' + title_data.get('published_at', ''))
+                    body = html_escape(title_data['content'])
+                    stats_html += (f'<details class="discussion-body"><summary>展开讨论正文（用户观点）</summary>'
+                                   f'<div>{byline}</div><div style="white-space:pre-wrap">{body}</div></details>')
+
                 stats_html += """
                             </div>
                         </div>

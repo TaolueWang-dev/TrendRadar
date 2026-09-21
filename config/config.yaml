@@ -175,7 +175,7 @@ report:
 # 4.5 筛选策略
 # ===============================================================
 filter:
-  method: "keyword"                     # 筛选方式（二选一）
+  method: "ai"                          # 使用固定标签做 AI 分类
                                        # keyword = 关键词匹配，不调用 AI，不消耗 token，但规则固定
                                        #           词组定义在 config/frequency_words.txt
                                        # ai = AI 智能分类，更灵活但每次运行消耗 token
@@ -190,6 +190,8 @@ filter:
 # 4.6 AI 智能筛选配置（仅 filter.method=ai 时生效）
 # ===============================================================
 ai_filter:
+  fixed_tags_file: "market_watch_tags.json"  # 人工固定标签，跳过 AI 标签生成
+  interests_file: "finance_test.txt"
   batch_size: 200                         # 每批发送给 AI 的标题数，超过此数量自动分批
   batch_interval: 2                       # 分批间隔（秒），避免触发 API 限流，0=不等待
 
@@ -522,3 +524,15 @@ financial_sources:
     per_keyword: 10
     window_hours: 48
     limit: 50
+
+  xueqiu_discussions:
+    enabled: true
+    top_stocks: 3
+    per_stock: 3
+    window_hours: 0
+    symbols: []  # 默认取 NewsNow 热榜中的前 3 只港美股，可填写 [00700, AAPL]
+    cookie_file: /Users/sk/.config/trendradar/xueqiu.cookie  # 可选：自行提供的雪球 Cookie 文件绝对路径，勿提交密钥
+    selection: hk_us_24h
+    transport: http
+    top_per_market: 5
+    sort: reply

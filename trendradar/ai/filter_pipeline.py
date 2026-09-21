@@ -6,15 +6,42 @@ AI 筛选流水线
 标签管理 → 待分类新闻收集 → 批量 AI 分类 → 结果保存 → 报告数据转换
 """
 
+import json
+from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional
 
 from trendradar.ai.filter import AIFilter, AIFilterResult
+from trendradar.storage.article_content import read_content, key as content_key
 from trendradar.utils.time import (
     DEFAULT_TIMEZONE,
     convert_time_for_display,
     format_iso_time_friendly,
     is_within_days,
 )
+
+
+def load_fixed_tags(filename):
+    path = Path(__file__).resolve().parents[2] / 'config' / 'ai_filter' / filename
+    data = json.loads(path.read_text(encoding='utf-8'))
+    if not isinstance(data, dict):
+        raise ValueError('固定标签文件必须是对象')
+    tags = data.get('tags')
+    if not isinstance(tags, list) or not tags:
+        raise ValueError('固定标签列表为空或格式错误')
+    seen = set()
+    normalized = []
+    for tag in tags:
+        if not isinstance(tag, dict) or not isinstance(tag.get('tag'), str) or not isinstance(tag.get('description'), str):
+            raise ValueError('固定标签必须有名称和描述')
+        name, description = tag['tag'].strip(), tag['description'].strip()
+        if not name or not description or name in seen:
+            raise ValueError('固定标签名称重复或内容为空')
+        seen.add(name)
+        normalized.append({'tag': name, 'description': description})
+    scope = data.get('scope', '')
+    if not isinstance(scope, str):
+        raise ValueError('固定标签 scope 必须是文本')
+    return normalized, scope
 
 
 class AIFilterPipeline:
@@ -29,6 +56,7 @@ class AIFilterPipeline:
         self.config = config
         self.storage = storage_manager
         self.get_time = get_time_func
+        self._article_content = read_content(config, get_time_func().strftime('%Y-%m-%d'))
 
         self._ai_config = config.get("AI", {})
         self._filter_config = config.get("AI_FILTER", {})
@@ -93,7 +121,17 @@ class AIFilterPipeline:
         if not interests_content:
             return AIFilterResult(success=False, error="兴趣描述文件为空或不存在")
 
-        current_hash = ai_filter.compute_interests_hash(interests_content, effective_interests_file)
+        fixed_tags = None
+        if filter_config.get('FIXED_TAGS_FILE'):
+            try:
+                fixed_tags, scope = load_fixed_tags(filter_config['FIXED_TAGS_FILE'])
+            except (OSError, ValueError, TypeError) as exc:
+                return AIFilterResult(success=False, error=f'固定标签加载失败：{type(exc).__name__}')
+            interests_content += '\n\n固定标签的标的范围与归类规则（优先于宽泛兴趣描述）：\n' + scope
+        hash_content = interests_content
+        if fixed_tags is not None:
+            hash_content += '\n固定标签模式\n' + json.dumps(fixed_tags, ensure_ascii=False, sort_keys=True)
+        current_hash = ai_filter.compute_interests_hash(hash_content, effective_interests_file)
 
         if self._debug:
             print(f"[AI筛选][DEBUG] 兴趣描述 hash: {current_hash}")
@@ -109,7 +147,9 @@ class AIFilterPipeline:
             print(f"[AI筛选][DEBUG] 数据库存储 hash: {stored_hash}")
             print(f"[AI筛选][DEBUG] hash 对比: stored={stored_hash} vs current={current_hash} → {'匹配' if stored_hash == current_hash else '不匹配'}")
 
-        if stored_hash != current_hash:
+        if fixed_tags is not None and (stored_hash != current_hash or not self.storage.get_active_ai_filter_tags(interests_file=effective_interests_file)):
+            self._save_fixed_tags(fixed_tags, current_hash, effective_interests_file)
+        elif fixed_tags is None and stored_hash != current_hash:
             self._handle_tag_update(
                 ai_filter, interests_content, current_hash, stored_hash,
                 effective_interests_file, filter_config,
@@ -170,6 +210,14 @@ class AIFilterPipeline:
                 print(f"[AI筛选][DEBUG]   {key}: {count} 条")
 
         return self._build_filter_result(all_results, active_tags, total_pending)
+
+    def _save_fixed_tags(self, tags, current_hash, interests_file):
+        version = self.storage.get_latest_ai_filter_tag_version() + 1
+        self.storage.deprecate_all_ai_filter_tags(interests_file=interests_file)
+        self.storage.clear_analyzed_news(interests_file=interests_file)
+        self.storage.save_ai_filter_tags(_with_ordered_priorities(tags, start_priority=1),
+                                        version, current_hash, interests_file=interests_file)
+        print(f'[AI筛选] 固定使用 {len(tags)} 个标签，不调用 AI 生成或更新标签')
 
     def _handle_tag_update(
         self,
@@ -328,7 +376,8 @@ class AIFilterPipeline:
                 time.sleep(batch_interval)
             batch = pending_news[i:i + batch_size]
             titles_for_ai = [
-                {"id": n["id"], "title": n["title"], "source": n.get("source_name", "")}
+                {"id": n["id"], "title": n["title"], "source": n.get("source_name", ""),
+                 "content": self._article_content.get(content_key(n.get('source_id', ''), n['title']), {}).get('content', '')[:2000]}
                 for n in batch
             ]
             batch_results = ai_filter.classify_batch(titles_for_ai, active_tags, interests_content)
@@ -569,6 +618,11 @@ class AIFilterPipeline:
                     "time_display": time_display,
                     "matched_keyword": tag_name,
                 }
+                supplement = self._article_content.get(content_key(item.get('source_id', ''), item.get('title', '')), {})
+                if supplement.get('content'):
+                    title_entry['content'] = supplement['content']
+                    title_entry['author'] = supplement.get('author', '')
+                    title_entry['published_at'] = supplement.get('published_at', '')
 
                 if source_type == "rss":
                     rss_titles.append(title_entry)

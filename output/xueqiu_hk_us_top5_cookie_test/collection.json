@@ -1,0 +1,130 @@
+{
+  "results": {},
+  "names": {
+    "finance-xueqiu-discussions": "雪球讨论正文（采样内按发布时间排序）"
+  },
+  "failed": [
+    "finance-xueqiu-discussions"
+  ],
+  "status": {
+    "finance-xueqiu-discussions": {
+      "symbols": [
+        "00700",
+        "02513",
+        "06951",
+        "01810",
+        "03696",
+        "SNDK",
+        "NVDA",
+        "BABA",
+        "BWET",
+        "MU"
+      ],
+      "stock_ranks": [
+        {
+          "symbol": "00700",
+          "name": "腾讯控股",
+          "market": "HK",
+          "stock_rank": 1,
+          "heat": 22135.0
+        },
+        {
+          "symbol": "02513",
+          "name": "智谱",
+          "market": "HK",
+          "stock_rank": 2,
+          "heat": 19244.0
+        },
+        {
+          "symbol": "06951",
+          "name": "三环集团",
+          "market": "HK",
+          "stock_rank": 3,
+          "heat": 16797.0
+        },
+        {
+          "symbol": "01810",
+          "name": "小米集团-W",
+          "market": "HK",
+          "stock_rank": 4,
+          "heat": 13936.0
+        },
+        {
+          "symbol": "03696",
+          "name": "英矽智能",
+          "market": "HK",
+          "stock_rank": 5,
+          "heat": 11803.0
+        },
+        {
+          "symbol": "SNDK",
+          "name": "闪迪",
+          "market": "US",
+          "stock_rank": 1,
+          "heat": 7600.0
+        },
+        {
+          "symbol": "NVDA",
+          "name": "英伟达",
+          "market": "US",
+          "stock_rank": 2,
+          "heat": 4198.0
+        },
+        {
+          "symbol": "BABA",
+          "name": "阿里巴巴",
+          "market": "US",
+          "stock_rank": 3,
+          "heat": 3807.0
+        },
+        {
+          "symbol": "BWET",
+          "name": "油轮期货指数ETF",
+          "market": "US",
+          "stock_rank": 4,
+          "heat": 3276.0
+        },
+        {
+          "symbol": "MU",
+          "name": "美光科技",
+          "market": "US",
+          "stock_rank": 5,
+          "heat": 2753.0
+        }
+      ],
+      "discussion_sort": "reply",
+      "per_stock_target": 3,
+      "collected_per_stock": {
+        "00700": 0
+      },
+      "unqueried_symbols": [
+        "02513",
+        "06951",
+        "01810",
+        "03696",
+        "SNDK",
+        "NVDA",
+        "BABA",
+        "BWET",
+        "MU"
+      ],
+      "failed_queries": [
+        {
+          "symbol": "00700",
+          "error": "SessionRequiredError"
+        }
+      ],
+      "missing_body": 0,
+      "shortfalls": {
+        "00700": 3
+      },
+      "partial": true,
+      "body_count": 0,
+      "transport": "http",
+      "ok": false,
+      "error": "ValueError"
+    }
+  },
+  "crawl_date": "2026-09-21",
+  "crawl_time": "14-19"
+}

@@ -17,6 +17,7 @@ SOURCES = {
     "xueqiu": ("finance-xueqiu", "雪球股票人气榜（仅关注度）"),
     "dongcai": ("finance-dongcai-hotnews", "东方财富·网友点击排行榜"),
     "futu": ("finance-futu-news", "富途资讯（采样窗口内阅读量排序）"),
+    "xueqiu_discussions": ("finance-xueqiu-discussions", "雪球讨论正文（采样内按发布时间排序）"),
 }
 
 
@@ -128,6 +129,10 @@ class FinancialFetcher:
                         items[title]["ranks"].append(rank)
                     else:
                         items[title] = {"ranks": [rank], "url": row.get("url", ""), "mobileUrl": ""}
+                        for field in ('content', 'content_kind', 'author', 'published_at', 'symbol', 'likes', 'replies', 'retweets',
+                                      'stock_memberships', 'discussion_sort'):
+                            if field in row:
+                                items[title][field] = row[field]
                 if not items:
                     raise ValueError("empty source: no current items")
                 results[source_id] = items
@@ -159,6 +164,12 @@ class FinancialFetcher:
                          "rank": stock.get("order") or index,
                          "url": f"https://stockpage.10jqka.com.cn/HK{symbol}/"})
         return rows
+
+    def fetch_xueqiu_discussions(self, cfg):
+        from trendradar.crawler.xueqiu_discussions import fetch_discussions
+        items, status = fetch_discussions(cfg)
+        self.status['finance-xueqiu-discussions'] = status
+        return items
 
     def fetch_futu(self, cfg):
         from trendradar.crawler.futu_news import RESULT_PREFIX
