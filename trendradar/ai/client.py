@@ -38,6 +38,7 @@ class AIClient:
         self.timeout = config.get("TIMEOUT", 120)
         self.num_retries = config.get("NUM_RETRIES", 2)
         self.fallback_models = config.get("FALLBACK_MODELS", [])
+        self.extra_params = config.get("EXTRA_PARAMS", {}) or {}
 
     def chat(
         self,
@@ -84,12 +85,17 @@ class AIClient:
             params["fallbacks"] = self.fallback_models
 
         # 合并其他额外参数
-        for key, value in kwargs.items():
+        for key, value in self.extra_params.items():
             if key not in params:
+                params[key] = value
+        for key, value in kwargs.items():
+            if key not in params or key in self.extra_params:
                 params[key] = value
 
         # 调用 LiteLLM
         response = completion(**params)
+        if response.choices[0].finish_reason == "length":
+            raise ValueError("AI response truncated; increase max_tokens or disable thinking")
 
         # 提取响应内容
         # 某些模型/提供商返回 list（内容块）而非 str，统一转为 str
@@ -99,7 +105,9 @@ class AIClient:
                 item.get("text", str(item)) if isinstance(item, dict) else str(item)
                 for item in content
             )
-        return content or ""
+        if not content or not content.strip():
+            raise ValueError("AI returned empty content")
+        return content
 
     def validate_config(self) -> tuple[bool, str]:
         """

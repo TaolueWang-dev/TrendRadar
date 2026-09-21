@@ -572,6 +572,9 @@ def load_config(config_path: Optional[str] = None) -> Dict[str, Any]:
     # 平台配置
     platforms_config = config_data.get("platforms", {})
     config["PLATFORMS"] = [p for p in platforms_config.get("sources", []) if p.get("enabled", True)]
+    from trendradar.crawler.financial import financial_platforms
+    config["FINANCIAL_SOURCES"] = config_data.get("financial_sources", {}) or {}
+    config["PLATFORMS"].extend(financial_platforms(config["FINANCIAL_SOURCES"]))
 
     # RSS 配置
     config["RSS"] = _load_rss_config(config_data)

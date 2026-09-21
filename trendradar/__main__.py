@@ -949,6 +949,8 @@ class NewsAnalyzer:
         ids = []
         domain_rules = {}
         for platform in self.ctx.platforms:
+            if platform.get("provider") == "financial":
+                continue
             if "name" in platform:
                 ids.append((platform["id"], platform["name"]))
             else:
@@ -966,6 +968,13 @@ class NewsAnalyzer:
         results, id_to_name, failed_ids = self.data_fetcher.crawl_websites(
             ids, self.request_interval, domain_rules=domain_rules
         )
+        from trendradar.crawler.financial import FinancialFetcher
+        financial = FinancialFetcher(self.ctx.config.get("FINANCIAL_SOURCES", {}))
+        finance_results, finance_names, finance_failed = financial.crawl()
+        results.update(finance_results)
+        id_to_name.update(finance_names)
+        failed_ids.extend(finance_failed)
+        self.financial_source_status = financial.status
 
         # 转换为 NewsData 格式并保存到存储后端
         crawl_time = self.ctx.format_time()

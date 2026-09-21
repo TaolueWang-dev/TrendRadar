@@ -1,0 +1,1967 @@
+{
+  "ai_requested": false,
+  "stats": [
+    {
+      "word": "采集预览：完整标题，不代表热点判定",
+      "count": 92,
+      "position": 0,
+      "titles": [
+        {
+          "title": "iPhone无卡化，移动却不高兴了？（中国移动）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 2,
+          "ranks": [
+            1,
+            2
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20250918173555453996610",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 1
+            },
+            {
+              "time": "16-24",
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "title": "小米集团-W（01810）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01810/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 1
+            }
+          ]
+        },
+        {
+          "title": "腾讯控股（00700）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK00700/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "title": "十部门发文，年内大涨30%的CRO再迎利好（药明生物）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918181530888212480",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 3
+            }
+          ]
+        },
+        {
+          "title": "智谱（02513）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02513/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 3
+            }
+          ]
+        },
+        {
+          "title": "小摩：中国机械板块近期跌幅未反映基本面 维持看好并建议趁低吸纳（潍柴动力）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            4
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918172020972214570",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "title": "英矽智能（03696）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            4
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK03696/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "title": "国海证券：煤价中枢上移驱动 煤企业绩同比修复（中国神华）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918173907981718010",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 5
+            }
+          ]
+        },
+        {
+          "title": "阿里巴巴-W（09988）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09988/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 5
+            }
+          ]
+        },
+        {
+          "title": "金股周报中国海洋石油入选最高收益为2.56%（中国海洋石油）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20220919175034496413650",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 6
+            }
+          ]
+        },
+        {
+          "title": "MINIMAX-W（00100）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK00100/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 6
+            }
+          ]
+        },
+        {
+          "title": "港股异动 | 燃气股继续走高 昆仑能源(00135)涨超4% 新奥能源(02688)涨超3%（新奥能源）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20230919110341233214110",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 7
+            }
+          ]
+        },
+        {
+          "title": "晶泰控股（02228）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02228/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 7
+            }
+          ]
+        },
+        {
+          "title": "药明生物(02269)9月19日斥资1754.52万港元回购146.8万股（药明生物）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20240919211105231929660",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 8
+            }
+          ]
+        },
+        {
+          "title": "泡泡玛特（09992）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09992/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 8
+            }
+          ]
+        },
+        {
+          "title": "中国移动出手！这家港股公司股价飙涨68.5%（中国移动）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20250919084125831111710",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 9
+            }
+          ]
+        },
+        {
+          "title": "兆易创新（03986）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK03986/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 9
+            }
+          ]
+        },
+        {
+          "title": "港股收盘(09.18) | 恒指收涨0.6% AI产业链、内房股等表现强势 联想集团(00992)创历史新高（联想集团）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 2,
+          "ranks": [
+            10,
+            19
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918164357006223150",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 10
+            },
+            {
+              "time": "16-24",
+              "rank": 19
+            }
+          ]
+        },
+        {
+          "title": "高盛：中国旅游行业夏季数据波动 国庆黄金周需求或现长尾效应（金沙中国有限公司）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 2,
+          "ranks": [
+            20,
+            22
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918171150291730710",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 20
+            },
+            {
+              "time": "16-24",
+              "rank": 22
+            }
+          ]
+        },
+        {
+          "title": "外卖“御三家”：狂热开始，理性收敛（京东集团-SW）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 2,
+          "ranks": [
+            23,
+            30
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918183505460054160",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 23
+            },
+            {
+              "time": "16-24",
+              "rank": 30
+            }
+          ]
+        },
+        {
+          "title": "三环集团（06951）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK06951/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 10
+            }
+          ]
+        },
+        {
+          "title": "京东物流马来西亚2号仓开仓运营 面积近1万平米（京东物流）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20240919125153109332700",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 11
+            }
+          ]
+        },
+        {
+          "title": "联想集团（00992）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK00992/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 11
+            }
+          ]
+        },
+        {
+          "title": "华人健康员工亲属控制企业或干扰独立性 与“问题”供应商合作存隐忧（国药控股）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            12
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20220919211808669931060",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 12
+            }
+          ]
+        },
+        {
+          "title": "美团-W（03690）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            12
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK03690/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 12
+            }
+          ]
+        },
+        {
+          "title": "中信集团：有不法分子冒用子公司名义设立公司（中信股份）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            13
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20230920131739230410590",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 13
+            }
+          ]
+        },
+        {
+          "title": "中创新航（03931）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            13
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK03931/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 13
+            }
+          ]
+        },
+        {
+          "title": "中国联通(00762.HK)发布8月运营数据：5G套餐用户累计到达2.83亿户（中国联通）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            14
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20240920164128273964760",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 14
+            }
+          ]
+        },
+        {
+          "title": "金斯瑞生物科技（01548）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            14
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01548/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 14
+            }
+          ]
+        },
+        {
+          "title": "药明生物(02269)注销3982.45万股已回购股份（药明生物）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            15
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918212301699612590",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 15
+            }
+          ]
+        },
+        {
+          "title": "快手-W（01024）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            15
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01024/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 15
+            }
+          ]
+        },
+        {
+          "title": "药明生物(02269.HK)9月19日耗资1754.5万港元回购146.8万股（药明生物）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            16
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20240919210827907919170",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 16
+            }
+          ]
+        },
+        {
+          "title": "宁德时代（03750）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            16
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK03750/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 16
+            }
+          ]
+        },
+        {
+          "title": "中国联通(00762)8月智慧客服客户问题解决率为98.6%（中国联通）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            17
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20240920164958298313140",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 17
+            }
+          ]
+        },
+        {
+          "title": "中芯国际（00981）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            17
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK00981/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 17
+            }
+          ]
+        },
+        {
+          "title": "海尔智家(06690)9月18日斥资619.79万港元回购30万股（海尔智家）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            18
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918174849313126860",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 18
+            }
+          ]
+        },
+        {
+          "title": "建滔积层板（01888）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            18
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01888/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 18
+            }
+          ]
+        },
+        {
+          "title": "赛力斯（09927）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            19
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09927/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 19
+            }
+          ]
+        },
+        {
+          "title": "中际旭创（03308）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            20
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK03308/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 20
+            }
+          ]
+        },
+        {
+          "title": "新世界发展(00017.HK)9月30日举行董事会会议批准刊发全年业绩（新世界发展）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            21
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918165403638223070",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 21
+            }
+          ]
+        },
+        {
+          "title": "信达生物（01801）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            21
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01801/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 21
+            }
+          ]
+        },
+        {
+          "title": "长飞光纤光缆（06869）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            22
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK06869/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 22
+            }
+          ]
+        },
+        {
+          "title": "理想汽车-W（02015）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            23
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02015/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 23
+            }
+          ]
+        },
+        {
+          "title": "医药“十五五”：FIC占全球比例不少于25%，“重磅炸弹”药物不少于5个（百济神州）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            24
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918211629620657660",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 24
+            }
+          ]
+        },
+        {
+          "title": "零跑汽车（09863）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            24
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09863/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 24
+            }
+          ]
+        },
+        {
+          "title": "洛阳钼业：更新中期股息外籍个人股东代扣税政策（洛阳钼业）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            25
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918175636213726520",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 25
+            }
+          ]
+        },
+        {
+          "title": "壁仞科技（06082）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            25
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK06082/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 25
+            }
+          ]
+        },
+        {
+          "title": "联想集团股价再创新高，CFO曾称完全被市场低估（联想集团）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            26
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918162942263010140",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 26
+            }
+          ]
+        },
+        {
+          "title": "力勤资源（02245）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            26
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02245/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 26
+            }
+          ]
+        },
+        {
+          "title": "信义玻璃(00868.HK)获执行董事董清波增持120.4万股（信义玻璃）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            27
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918221631683924270",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 27
+            }
+          ]
+        },
+        {
+          "title": "药明康德（02359）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            27
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02359/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 27
+            }
+          ]
+        },
+        {
+          "title": "董清波增持信义玻璃(00868)120.40万股 每股作价约8.45港元（信义玻璃）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            28
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918193818733611640",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 28
+            }
+          ]
+        },
+        {
+          "title": "胜宏科技（02476）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            28
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02476/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 28
+            }
+          ]
+        },
+        {
+          "title": "快手-W(01024)9月18日斥资2498.58万港元回购81.5万股（快手-W）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            29
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918200017409715180",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 29
+            }
+          ]
+        },
+        {
+          "title": "小鹏集团-W（09868）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            29
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09868/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 29
+            }
+          ]
+        },
+        {
+          "title": "优必选（09880）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            30
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09880/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 30
+            }
+          ]
+        },
+        {
+          "title": "极兔速递-W(01519)9月18日斥资1566.91万港元回购174.6万股（极兔速递-W）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            31
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918205327720826390",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 31
+            }
+          ]
+        },
+        {
+          "title": "商汤-W（00020）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            31
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK00020/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 31
+            }
+          ]
+        },
+        {
+          "title": "联想集团股价续创新高年内涨超300% AI基建打开重估空间（联想集团）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            32
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918162725150514640",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 32
+            }
+          ]
+        },
+        {
+          "title": "澜起科技（06809）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            32
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK06809/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 32
+            }
+          ]
+        },
+        {
+          "title": "AI风口下，上海蜂窝连接芯片龙头赴港IPO，阿里巴巴入股（阿里巴巴-W）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            33
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918165713731321030",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 33
+            }
+          ]
+        },
+        {
+          "title": "融创中国（01918）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            33
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01918/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 33
+            }
+          ]
+        },
+        {
+          "title": "极兔速递-W(01519.HK)9月18日耗资1566.9万港元回购174.6万股（极兔速递-W）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            34
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918204740958122160",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 34
+            }
+          ]
+        },
+        {
+          "title": "海底捞（06862）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            34
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK06862/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 34
+            }
+          ]
+        },
+        {
+          "title": "中国石油化工股份(00386)注销1.07亿股已回购股份（中国石油化工股份）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            35
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918162554357416570",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 35
+            }
+          ]
+        },
+        {
+          "title": "蜜雪集团（02097）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            35
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02097/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 35
+            }
+          ]
+        },
+        {
+          "title": "T链量产前夜！人形机器人被忽视的“隐形上游”卖铲人，浮出水面（Tesla, Inc. Common Stock）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            36
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918155022143235050",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 36
+            }
+          ]
+        },
+        {
+          "title": "地平线机器人-W（09660）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            36
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09660/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 36
+            }
+          ]
+        },
+        {
+          "title": "美股太空股本周狂欢：SpaceX(SPCX.US)星舰首次创收飞行在即 Voyager(VOYG.US)、Rocket Lab(RKLB.US)大涨（Space Exploration Technologies Corp. Class A Common Stock）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            37
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918165337959920730",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 37
+            }
+          ]
+        },
+        {
+          "title": "吉利汽车（00175）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            37
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK00175/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 37
+            }
+          ]
+        },
+        {
+          "title": "中国石油化工股份(00386.HK)9月18日注销约1.07亿股购回股份（中国石油化工股份）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            38
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918163623126122730",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 38
+            }
+          ]
+        },
+        {
+          "title": "曦智科技-P（01879）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            38
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01879/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 38
+            }
+          ]
+        },
+        {
+          "title": "快手－Ｗ(01024.HK)9月18日耗资2498.58万港元回购81.5万股（快手-W）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            39
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918195237435541370",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 39
+            }
+          ]
+        },
+        {
+          "title": "华虹宏力（01347）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            39
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01347/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 39
+            }
+          ]
+        },
+        {
+          "title": "理想汽车-W(02015.HK)9月18日耗资16万港元回购3400股（理想汽车-W）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            40
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918181700306217730",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 40
+            }
+          ]
+        },
+        {
+          "title": "蔚来-SW（09866）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            40
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09866/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 40
+            }
+          ]
+        },
+        {
+          "title": "全线爆发！这轮行情隐藏的选股线索，你抓住了吗？学习拆解核心......（阿里巴巴-W）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            41
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918184455773987260",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 41
+            }
+          ]
+        },
+        {
+          "title": "天数智芯（09903）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            41
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09903/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 41
+            }
+          ]
+        },
+        {
+          "title": "影视飓风创始人要买510万元的携程太空船票，曾称人生终极目标是去火星（携程集团-S）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            42
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918164054747613000",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 42
+            }
+          ]
+        },
+        {
+          "title": "剂泰科技-P（07666）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            42
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK07666/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 42
+            }
+          ]
+        },
+        {
+          "title": "理想汽车-W(02015)9月18日斥资15.98万港元回购3400股（理想汽车-W）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            43
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918181628317425880",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 43
+            }
+          ]
+        },
+        {
+          "title": "万科企业（02202）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            43
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02202/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 43
+            }
+          ]
+        },
+        {
+          "title": "新加坡资本来抢床位了，传凯德23亿港元购入港大周边资产，中原、华润、京东已抢先入场（京东集团-SW）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            44
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918164742842393910",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 44
+            }
+          ]
+        },
+        {
+          "title": "建滔集团（00148）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            44
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK00148/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 44
+            }
+          ]
+        },
+        {
+          "title": "创科实业(00669.HK)9月18日耗资1132.4万港元回购8.8万股（创科实业）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            45
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918175926583931540",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 45
+            }
+          ]
+        },
+        {
+          "title": "碧桂园（02007）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            45
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK02007/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 45
+            }
+          ]
+        },
+        {
+          "title": "创科实业(00669)9月18日斥资1132.43万港元回购8.8万股（创科实业）",
+          "source_name": "东财热点资讯（窗口内阅读量排序）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            46
+          ],
+          "rank_threshold": 5,
+          "url": "//caifuhao.eastmoney.com/news/20260918175818394714140",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 46
+            }
+          ]
+        },
+        {
+          "title": "农夫山泉（09633）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            46
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09633/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 46
+            }
+          ]
+        },
+        {
+          "title": "康方生物（09926）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            47
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09926/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 47
+            }
+          ]
+        },
+        {
+          "title": "江波龙（09976）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            48
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK09976/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 48
+            }
+          ]
+        },
+        {
+          "title": "比亚迪股份（01211）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            49
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK01211/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 49
+            }
+          ]
+        },
+        {
+          "title": "金山云（03896）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "first_time": "16-24",
+          "last_time": "16-24",
+          "time_display": "16:24",
+          "count": 1,
+          "ranks": [
+            50
+          ],
+          "rank_threshold": 5,
+          "url": "https://stockpage.10jqka.com.cn/HK03896/",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-24",
+              "rank": 50
+            }
+          ]
+        }
+      ],
+      "percentage": 100.0
+    }
+  ],
+  "html": "output/html/2026-09-20/16-24.html",
+  "analysis": null
+}

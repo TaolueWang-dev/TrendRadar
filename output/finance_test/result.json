@@ -1,0 +1,526 @@
+{
+  "sample": "/Users/sk/TrendRadar/output/news/2026-09-20.db",
+  "stats": [
+    {
+      "word": "美股市场",
+      "count": 1,
+      "position": 2,
+      "titles": [
+        {
+          "title": "【早报】公积金新规，今日实施；史上最大IPO，时间推迟；黄仁勋减持英伟达",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487953",
+          "mobile_url": "",
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "美股市场"
+        }
+      ]
+    },
+    {
+      "word": "货币政策",
+      "count": 1,
+      "position": 4,
+      "titles": [
+        {
+          "title": "美联储加息之际，美元创6月以来最强的一周",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782130",
+          "mobile_url": "",
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "货币政策"
+        }
+      ]
+    },
+    {
+      "word": "产业供需",
+      "count": 3,
+      "position": 6,
+      "titles": [
+        {
+          "title": "“炼油”成为全球能源瓶颈，美国距离“出口禁令”不远了？",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782139",
+          "mobile_url": "",
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "瑞银上调AI资本支出预测：2026年逼近万亿美元，九成增量来自内存涨价",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782132",
+          "mobile_url": "",
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "白鸡又白养了？旺季变淡季一只鸡亏4元 业内预计国庆节后或回暖",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487817",
+          "mobile_url": "",
+          "ranks": [
+            13
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "产业供需"
+        }
+      ]
+    },
+    {
+      "word": "监管政策",
+      "count": 4,
+      "position": 7,
+      "titles": [
+        {
+          "title": "市监总局：整治“内卷式”竞争",
+          "source_name": "今日头条",
+          "url": "https://www.toutiao.com/trending/7687435254089777193/",
+          "mobile_url": "",
+          "ranks": [
+            18
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "监管政策"
+        },
+        {
+          "title": "交易25亿，亏损9206万！中泰证券一员工代客操盘被罚",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34104455",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34104455",
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "监管政策"
+        },
+        {
+          "title": "市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34107598",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34107598",
+          "ranks": [
+            13
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "监管政策"
+        },
+        {
+          "title": "券商员工代客操盘巨亏9206万元",
+          "source_name": "今日头条",
+          "url": "https://www.toutiao.com/trending/7686435830975070271/",
+          "mobile_url": "",
+          "ranks": [
+            17
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "监管政策"
+        }
+      ]
+    },
+    {
+      "word": "资本流动",
+      "count": 1,
+      "position": 8,
+      "titles": [
+        {
+          "title": "“委内瑞拉正考虑，将40亿美元黄金储备从英国移到美国”",
+          "source_name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wYWQD93AMB",
+          "mobile_url": "",
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "资本流动"
+        }
+      ]
+    },
+    {
+      "word": "科技行业",
+      "count": 13,
+      "position": 9,
+      "titles": [
+        {
+          "title": "从“减速”到“加油”！Astra两周抢占13%份额，Anthropic考虑IPO前发布新模型应战",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782129",
+          "mobile_url": "",
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "字节跳动将飞书并入豆包，创始人张一鸣称「史上最大押注」意味着什么？",
+          "source_name": "知乎",
+          "url": "https://www.zhihu.com/question/2084372005369951973",
+          "mobile_url": "",
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "甲骨文180亿AI贷款折价滞销，AI融资链压力浮现",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782134",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "智谱ZCode偷传代码风波追踪：Agent的数据行为谁来审计？",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782133",
+          "mobile_url": "",
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "Anthropic加注AI制药 “干湿闭环”逻辑浮现 哪些“卖水人”有望受益？",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487778",
+          "mobile_url": "",
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "超100个AI药物进入临床阶段 AI制药为何仍被数据卡住？",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487802",
+          "mobile_url": "",
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487942",
+          "mobile_url": "",
+          "ranks": [
+            12
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "智谱AI偷传用户数据,滑跪开源",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%BA%E8%B0%B1AI%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%2C%E6%BB%91%E8%B7%AA%E5%BC%80%E6%BA%90&topic_id=28364848",
+          "mobile_url": "",
+          "ranks": [
+            14
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "小米18Pro系列9月23日发布",
+          "source_name": "百度热搜",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B318Pro%E7%B3%BB%E5%88%979%E6%9C%8823%E6%97%A5%E5%8F%91%E5%B8%83",
+          "mobile_url": "",
+          "ranks": [
+            15
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "AI将在2030年引发“世界末日”？黄仁勋：概率为零",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487794",
+          "mobile_url": "",
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "iPhone18首日开箱,吧友晒实况",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=iPhone18%E9%A6%96%E6%97%A5%E5%BC%80%E7%AE%B1%2C%E5%90%A7%E5%8F%8B%E6%99%92%E5%AE%9E%E5%86%B5&topic_id=28364692",
+          "mobile_url": "",
+          "ranks": [
+            27
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "小米18Fold销量",
+          "source_name": "微博",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold%E9%94%80%E9%87%8F",
+          "mobile_url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold%E9%94%80%E9%87%8F&t=31&band_rank=20&Refer=top",
+          "ranks": [
+            20
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "北大复旦校长警告 AI 依赖，对教育意味着什么？该如何应对过度依赖 AI 导致的知识虚假掌握？",
+          "source_name": "知乎",
+          "url": "https://www.zhihu.com/question/2084620847411681228",
+          "mobile_url": "",
+          "ranks": [
+            20
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "科技行业"
+        }
+      ]
+    },
+    {
+      "word": "地缘政治",
+      "count": 9,
+      "position": 10,
+      "titles": [
+        {
+          "title": "新西兰军舰过航台湾海峡 解放军跟监",
+          "source_name": "百度热搜",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%A5%BF%E5%85%B0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B7%9F%E7%9B%91",
+          "mobile_url": "",
+          "ranks": [
+            27
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "胡塞武装称对沙特首都及关键原油设施发动袭击",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782143",
+          "mobile_url": "",
+          "ranks": [
+            4
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "美对进口俄罗斯石油或天然气的第三国加征所谓“次级关税”，商务部回应",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34104940",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34104940",
+          "ranks": [
+            20
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487905",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782140",
+          "mobile_url": "",
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "沙特首都遭空袭",
+          "source_name": "bilibili 热搜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E9%81%AD%E7%A9%BA%E8%A2%AD",
+          "mobile_url": "",
+          "ranks": [
+            14
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
+          "source_name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wYWDibyN20",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "特朗普究竟是如何逼迫丹麦同意格陵兰协议的？",
+          "source_name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wZAjw655ET",
+          "mobile_url": "",
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "沙特首都利雅得遭空袭",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E9%81%AD%E7%A9%BA%E8%A2%AD&topic_id=28364806",
+          "mobile_url": "",
+          "ranks": [
+            19
+          ],
+          "rank_threshold": 5,
+          "count": 1,
+          "is_new": true,
+          "time_display": "14:03",
+          "matched_keyword": "地缘政治"
+        }
+      ]
+    }
+  ],
+  "html": "output/html/2026-09-20/15-04.html",
+  "analysis": {
+    "core_trends": "本时段热点呈「破圈扩散」态势，科技行业以13条绝对主导，AI叙事从应用爆发转向融资链风险与监管反思；地缘政治9条构成第二主线，中东冲突与美伊谈判信号交织，能源安全叙事重新抬头。\n\n【宏观主线】双线并行：AI产业从「算力狂欢」切入「金融化压力测试」，甲骨文180亿AI贷款折价滞销、智谱数据丑闻、Anthropic IPO前应战，共同指向AI资本闭环的脆弱性；地缘层面，沙特遇袭与美伊谈判同时出现，显示中东博弈进入「打谈并行」新阶段，油价与航运风险溢价将被重估。\n\n【微观领域】\n1. 能源供需裂痕：炼油瓶颈与胡塞袭击共振，美国出口禁令讨论升温。\n2. 监管与合规：市监总局整治内卷、券商代客操盘巨亏、AI数据审计缺位，三条线索指向「扩张期后遗症」。\n3. 硬件节点：小米18系列与iPhone18开箱形成消费电子小高峰，但位列中后段，未成主线。",
+    "sentiment_controversy": "【情绪光谱】AI领域呈现「精英焦虑 vs 大众乐观」断层：黄仁勋称末日概率为零与北大复旦校长警告AI依赖形成认知对峙；智谱偷传数据在贴吧遭「滑跪」嘲讽，知乎则冷静追问审计机制。\n\n【核心矛盾】\n1. 利益之争：券商员工代客操盘巨亏，公众追问谁买单。\n2. 认知之争：AI是「最大押注」还是「最大风险」，精英与大众叙事分裂。",
+    "signals": "【跨平台共振】中东冲突实现跨圈扩散：胡塞袭击沙特原油设施在华尔街见闻冲至第4，同步在B站第14、贴吧第19触达年轻与草根人群，而美伊谈判信号在凤凰网高达第2，形成「战与和」双轨共振，暗示市场对地缘缓和的定价可能过度超前。\n\n【平台温差】智谱AI数据丑闻呈现显著温差：贴吧以「滑跪开源」情绪化表达排第14，知乎以「Agent数据审计」理性追问排第9，微博完全缺席，说明该事件尚未破圈，属于开发者与极客圈层热点。\n\n【弱信号捕捉】华尔街见闻同时出现「炼油瓶颈」第3与「AI资本支出万亿美元」第7，两条看似无关的新闻共同指向「能源与算力争夺同一物理底座」——电力与炼能，未来二者的资源竞争可能成为隐性主线。",
+    "rss_insights": "",
+    "outlook_strategy": "1. 投资者：AI板块需警惕「融资链压力」从个案（甲骨文贷款滞销）向系统性传导，减持高杠杆AI基建标的，增配能源炼化与黄金对冲地缘尾部风险。\n2. 品牌方：小米18系列9月23日发布正值iPhone18开箱热度分流，建议避开苹果开箱窗口，强化「国产旗舰差异化」叙事，避免正面参数对标。\n3. 公众：对AI工具的数据行为保持审慎，优先选择开源可审计产品；对「美伊谈判」消息保持怀疑，地缘缓和信号与军事袭击同步出现，短期波动可能加剧。",
+    "standalone_summaries": {},
+    "raw_response": "```json\n{\n  \"core_trends\": \"本时段热点呈「破圈扩散」态势，科技行业以13条绝对主导，AI叙事从应用爆发转向融资链风险与监管反思；地缘政治9条构成第二主线，中东冲突与美伊谈判信号交织，能源安全叙事重新抬头。\\n\\n【宏观主线】双线并行：AI产业从「算力狂欢」切入「金融化压力测试」，甲骨文180亿AI贷款折价滞销、智谱数据丑闻、Anthropic IPO前应战，共同指向AI资本闭环的脆弱性；地缘层面，沙特遇袭与美伊谈判同时出现，显示中东博弈进入「打谈并行」新阶段，油价与航运风险溢价将被重估。\\n\\n【微观领域】\\n1. 能源供需裂痕：炼油瓶颈与胡塞袭击共振，美国出口禁令讨论升温。\\n2. 监管与合规：市监总局整治内卷、券商代客操盘巨亏、AI数据审计缺位，三条线索指向「扩张期后遗症」。\\n3. 硬件节点：小米18系列与iPhone18开箱形成消费电子小高峰，但位列中后段，未成主线。\",\n  \"sentiment_controversy\": \"【情绪光谱】AI领域呈现「精英焦虑 vs 大众乐观」断层：黄仁勋称末日概率为零与北大复旦校长警告AI依赖形成认知对峙；智谱偷传数据在贴吧遭「滑跪」嘲讽，知乎则冷静追问审计机制。\\n\\n【核心矛盾】\\n1. 利益之争：券商员工代客操盘巨亏，公众追问谁买单。\\n2. 认知之争：AI是「最大押注」还是「最大风险」，精英与大众叙事分裂。\",\n  \"signals\": \"【跨平台共振】中东冲突实现跨圈扩散：胡塞袭击沙特原油设施在华尔街见闻冲至第4，同步在B站第14、贴吧第19触达年轻与草根人群，而美伊谈判信号在凤凰网高达第2，形成「战与和」双轨共振，暗示市场对地缘缓和的定价可能过度超前。\\n\\n【平台温差】智谱AI数据丑闻呈现显著温差：贴吧以「滑跪开源」情绪化表达排第14，知乎以「Agent数据审计」理性追问排第9，微博完全缺席，说明该事件尚未破圈，属于开发者与极客圈层热点。\\n\\n【弱信号捕捉】华尔街见闻同时出现「炼油瓶颈」第3与「AI资本支出万亿美元」第7，两条看似无关的新闻共同指向「能源与算力争夺同一物理底座」——电力与炼能，未来二者的资源竞争可能成为隐性主线。\",\n  \"rss_insights\": \"暂无RSS数据\",\n  \"outlook_strategy\": \"1. 投资者：AI板块需警惕「融资链压力」从个案（甲骨文贷款滞销）向系统性传导，减持高杠杆AI基建标的，增配能源炼化与黄金对冲地缘尾部风险。\\n2. 品牌方：小米18系列9月23日发布正值iPhone18开箱热度分流，建议避开苹果开箱窗口，强化「国产旗舰差异化」叙事，避免正面参数对标。\\n3. 公众：对AI工具的数据行为保持审慎，优先选择开源可审计产品；对「美伊谈判」消息保持怀疑，地缘缓和信号与军事袭击同步出现，短期波动可能加剧。\",\n  \"standalone_summaries\": {}\n}\n```",
+    "success": true,
+    "skipped": false,
+    "error": "",
+    "total_news": 32,
+    "analyzed_news": 32,
+    "max_news_limit": 150,
+    "hotlist_count": 32,
+    "rss_count": 0,
+    "hotlist_analyzed": 32,
+    "rss_analyzed": 0,
+    "standalone_analyzed": 0,
+    "ai_mode": "current",
+    "include_rss": false,
+    "include_standalone": false
+  }
+}

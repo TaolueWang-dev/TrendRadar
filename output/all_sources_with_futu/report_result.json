@@ -1,0 +1,2221 @@
+{
+  "ai_requested": true,
+  "stats": [
+    {
+      "word": "港股市场",
+      "count": 52,
+      "position": 1,
+      "titles": [
+        {
+          "title": "腾讯控股",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/00700",
+          "mobile_url": "",
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "贵州茅台",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH600519",
+          "mobile_url": "",
+          "ranks": [
+            24
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "小米集团-W（01810）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01810/",
+          "mobile_url": "",
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "腾讯控股（00700）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00700/",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "智谱（02513）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02513/",
+          "mobile_url": "",
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "英矽智能（03696）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03696/",
+          "mobile_url": "",
+          "ranks": [
+            4
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "阿里巴巴-W（09988）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09988/",
+          "mobile_url": "",
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "MINIMAX-W（00100）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00100/",
+          "mobile_url": "",
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "晶泰控股（02228）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02228/",
+          "mobile_url": "",
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "泡泡玛特（09992）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09992/",
+          "mobile_url": "",
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "三环集团（06951）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06951/",
+          "mobile_url": "",
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "兆易创新（03986）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03986/",
+          "mobile_url": "",
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "联想集团（00992）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00992/",
+          "mobile_url": "",
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "美团-W（03690）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03690/",
+          "mobile_url": "",
+          "ranks": [
+            12
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "中创新航（03931）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03931/",
+          "mobile_url": "",
+          "ranks": [
+            13
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "金斯瑞生物科技（01548）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01548/",
+          "mobile_url": "",
+          "ranks": [
+            14
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "快手-W（01024）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01024/",
+          "mobile_url": "",
+          "ranks": [
+            15
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "中芯国际（00981）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00981/",
+          "mobile_url": "",
+          "ranks": [
+            16
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "宁德时代（03750）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03750/",
+          "mobile_url": "",
+          "ranks": [
+            17
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "建滔积层板（01888）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01888/",
+          "mobile_url": "",
+          "ranks": [
+            18
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "赛力斯（09927）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09927/",
+          "mobile_url": "",
+          "ranks": [
+            19
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "中际旭创（03308）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03308/",
+          "mobile_url": "",
+          "ranks": [
+            20
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "信达生物（01801）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01801/",
+          "mobile_url": "",
+          "ranks": [
+            21
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "长飞光纤光缆（06869）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06869/",
+          "mobile_url": "",
+          "ranks": [
+            22
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "理想汽车-W（02015）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02015/",
+          "mobile_url": "",
+          "ranks": [
+            23
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "壁仞科技（06082）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06082/",
+          "mobile_url": "",
+          "ranks": [
+            24
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "零跑汽车（09863）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09863/",
+          "mobile_url": "",
+          "ranks": [
+            25
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "药明康德（02359）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02359/",
+          "mobile_url": "",
+          "ranks": [
+            26
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "力勤资源（02245）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02245/",
+          "mobile_url": "",
+          "ranks": [
+            27
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "胜宏科技（02476）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02476/",
+          "mobile_url": "",
+          "ranks": [
+            28
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "小鹏集团-W（09868）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09868/",
+          "mobile_url": "",
+          "ranks": [
+            29
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "优必选（09880）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09880/",
+          "mobile_url": "",
+          "ranks": [
+            30
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "商汤-W（00020）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00020/",
+          "mobile_url": "",
+          "ranks": [
+            31
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "融创中国（01918）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01918/",
+          "mobile_url": "",
+          "ranks": [
+            32
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "澜起科技（06809）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06809/",
+          "mobile_url": "",
+          "ranks": [
+            33
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "海底捞（06862）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06862/",
+          "mobile_url": "",
+          "ranks": [
+            34
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "地平线机器人-W（09660）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09660/",
+          "mobile_url": "",
+          "ranks": [
+            35
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "蜜雪集团（02097）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02097/",
+          "mobile_url": "",
+          "ranks": [
+            36
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "吉利汽车（00175）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00175/",
+          "mobile_url": "",
+          "ranks": [
+            37
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "剂泰科技-P（07666）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK07666/",
+          "mobile_url": "",
+          "ranks": [
+            38
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "华虹宏力（01347）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01347/",
+          "mobile_url": "",
+          "ranks": [
+            39
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "天数智芯（09903）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09903/",
+          "mobile_url": "",
+          "ranks": [
+            40
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "建滔集团（00148）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00148/",
+          "mobile_url": "",
+          "ranks": [
+            41
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "曦智科技-P（01879）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01879/",
+          "mobile_url": "",
+          "ranks": [
+            42
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "万科企业（02202）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02202/",
+          "mobile_url": "",
+          "ranks": [
+            43
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "比亚迪股份（01211）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01211/",
+          "mobile_url": "",
+          "ranks": [
+            44
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "康方生物（09926）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09926/",
+          "mobile_url": "",
+          "ranks": [
+            45
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "蔚来-SW（09866）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09866/",
+          "mobile_url": "",
+          "ranks": [
+            46
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "碧桂园（02007）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02007/",
+          "mobile_url": "",
+          "ranks": [
+            47
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "药明生物（02269）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02269/",
+          "mobile_url": "",
+          "ranks": [
+            48
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "农夫山泉（09633）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09633/",
+          "mobile_url": "",
+          "ranks": [
+            49
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        },
+        {
+          "title": "江波龙（09976）进入港股人气榜；仅代表关注度",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09976/",
+          "mobile_url": "",
+          "ranks": [
+            50
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "港股市场"
+        }
+      ]
+    },
+    {
+      "word": "美股市场",
+      "count": 14,
+      "position": 2,
+      "titles": [
+        {
+          "title": "纳斯达克100季度调整生效在即！SpaceX权重将翻倍至2.82%",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79509379?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "每日空头追踪：SpaceX(SPCX.US)卖空量激增6,657.85万，卖空成交比例达23%",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79503727?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "Coinbase (COIN.US) 冲刺美股永续合约：苹果 (AAPL.US) 特斯拉 (TSLA.US) 英伟达 (NVDA.US) 在列",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79498307?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "AI数据中心公司Nscale公开递交美股IPO申请，英伟达持股超5%",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496249?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "纳斯达克100季度调整生效在即 SpaceX权重将翻倍至2.82%",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79510715?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "华夏纳斯达克100交易型开放式指数证券投资基金(QDII)二级市场交易价格溢价风险提示及临时停牌公告",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/notice/308163129?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            12
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "华夏标普500交易型开放式指数证券投资基金(QDII)二级市场交易价格溢价风险提示公告",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/notice/308163124?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            14
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "PowerShares标普500优质投资组合将于2026年9月21日除权除息，1股派股息0.15411USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496738?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "PowerShares标普500高股利低波动将于2026年9月21日除权除息，1股派股息0.20156USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496765?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "纳斯达克100备兑看涨期权ETF-Global X将于2026年9月21日除权除息，1股派股息0.1767USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496809?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "PowerShares标普500下行对冲组合将于2026年9月21日除权除息，1股派股息0.12448USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496754?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "标普500等权重通信服务ETF-Invesco将于2026年9月21日除权除息，1股派股息0.09991USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496907?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "PowerShares标普500BuyWrite组合将于2026年9月21日除权除息，1股派股息0.18863USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496745?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            13
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        },
+        {
+          "title": "英伟达CEO黄仁勋拒绝放缓AI开发的呼声：“我们将以最快的速度推进，但是……”",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79501229?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "ranks": [
+            4
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "美股市场"
+        }
+      ]
+    },
+    {
+      "word": "宏观经济",
+      "count": 2,
+      "position": 3,
+      "titles": [
+        {
+          "title": "从数据里读懂中国经济韧性",
+          "source_name": "微博",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%95%B0%E6%8D%AE%E9%87%8C%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7%23",
+          "mobile_url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%95%B0%E6%8D%AE%E9%87%8C%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7%23&t=31&band_rank=3&Refer=top",
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "宏观经济"
+        },
+        {
+          "title": "如何看待经济学人此前「发达国家正滑向财政危机」的报道？历史上出现财政危机的原因主要有哪些？",
+          "source_name": "知乎",
+          "url": "https://www.zhihu.com/question/2084940384157659685",
+          "mobile_url": "",
+          "ranks": [
+            13
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "宏观经济"
+        }
+      ]
+    },
+    {
+      "word": "货币政策",
+      "count": 1,
+      "position": 4,
+      "titles": [
+        {
+          "title": "高盛：市场“定价4次加息”过于悲观，年底有“全资产上涨”交易窗口",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782148",
+          "mobile_url": "",
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "货币政策"
+        }
+      ]
+    },
+    {
+      "word": "产业供需",
+      "count": 8,
+      "position": 6,
+      "titles": [
+        {
+          "title": "AI重塑MLCC供需格局！高端产品订单排至2027年 缺货涨价潮仍在延续(附股)",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879293041.html",
+          "mobile_url": "",
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "内存硬盘涨完价 显示器接力涨",
+          "source_name": "百度热搜",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E7%A1%AC%E7%9B%98%E6%B6%A8%E5%AE%8C%E4%BB%B7+%E6%98%BE%E7%A4%BA%E5%99%A8%E6%8E%A5%E5%8A%9B%E6%B6%A8",
+          "mobile_url": "",
+          "ranks": [
+            18
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "“炼油”成为全球能源瓶颈，美国距离“出口禁令”不远了？",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782139",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "超级油轮短缺！全球油运成本“从未如此之高”，“海事史上最大豪赌”赚翻了",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782146",
+          "mobile_url": "",
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "最高涨十倍！“电子工业大米”，价格飙涨",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487974",
+          "mobile_url": "",
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "“一小时一个价”！“电子工业大米” 价格飙涨！最高涨十倍",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879272237.html",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "摩根大通给出“时间表”：“厄尔尼诺”对全球农业最大影响在“明年一季度”",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782142",
+          "mobile_url": "",
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "产业供需"
+        },
+        {
+          "title": "沙特又找到一条“运油路线”，但代价高昂",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782136",
+          "mobile_url": "",
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "产业供需"
+        }
+      ]
+    },
+    {
+      "word": "监管政策",
+      "count": 3,
+      "position": 7,
+      "titles": [
+        {
+          "title": "交易25亿，亏损9206万！中泰证券一员工代客操盘被罚",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34104455",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34104455",
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "监管政策"
+        },
+        {
+          "title": "市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34107598",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34107598",
+          "ranks": [
+            12
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "监管政策"
+        },
+        {
+          "title": "上市两日暴涨1200% 沈鼓集团部分投资者遭暂停账户交易 发生了什么？",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879281496.html",
+          "mobile_url": "",
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "监管政策"
+        }
+      ]
+    },
+    {
+      "word": "资本流动",
+      "count": 4,
+      "position": 8,
+      "titles": [
+        {
+          "title": "【早报】公积金新规，今日实施；史上最大IPO，时间推迟；黄仁勋减持英伟达",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487953",
+          "mobile_url": "",
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "资本流动"
+        },
+        {
+          "title": "“委内瑞拉正考虑，将40亿美元黄金储备从英国移到美国”",
+          "source_name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wYWQD93AMB",
+          "mobile_url": "",
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "资本流动"
+        },
+        {
+          "title": "资金再次转向科技！超140亿元涌入这一方向",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609193879254152.html",
+          "mobile_url": "",
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "资本流动"
+        },
+        {
+          "title": "黄仁勋减持英伟达？被代扣4.57万股用于缴税 CFO套现765万美元",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609193879259839.html",
+          "mobile_url": "",
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "资本流动"
+        }
+      ]
+    },
+    {
+      "word": "科技行业",
+      "count": 12,
+      "position": 9,
+      "titles": [
+        {
+          "title": "长鑫科技宣布第五代技术平台正式量产",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2488091",
+          "mobile_url": "",
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "甲骨文180亿AI贷款折价滞销，AI融资链压力浮现",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782134",
+          "mobile_url": "",
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "智谱ZCode偷传代码风波追踪：Agent的数据行为谁来审计？",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782133",
+          "mobile_url": "",
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "AI四巨头遭到起诉：放缓AI发展的联合表态是非法协议",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2488018",
+          "mobile_url": "",
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "单机价值量翻3倍！折叠屏手机推新潮带热FPC AI眼镜或成放量“下一站”",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2488053",
+          "mobile_url": "",
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "智谱AI偷传用户数据,滑跪开源",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%BA%E8%B0%B1AI%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%2C%E6%BB%91%E8%B7%AA%E5%BC%80%E6%BA%90&topic_id=28364848",
+          "mobile_url": "",
+          "ranks": [
+            22
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782144",
+          "mobile_url": "",
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487942",
+          "mobile_url": "",
+          "ranks": [
+            12
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "DS中英文无缝切换戏耍用户",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DS%E4%B8%AD%E8%8B%B1%E6%96%87%E6%97%A0%E7%BC%9D%E5%88%87%E6%8D%A2%E6%88%8F%E8%80%8D%E7%94%A8%E6%88%B7&topic_id=28364923",
+          "mobile_url": "",
+          "ranks": [
+            14
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "AI剧迎严审,官方力挺真人剧",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%89%A7%E8%BF%8E%E4%B8%A5%E5%AE%A1%2C%E5%AE%98%E6%96%B9%E5%8A%9B%E6%8C%BA%E7%9C%9F%E4%BA%BA%E5%89%A7&topic_id=28364800",
+          "mobile_url": "",
+          "ranks": [
+            19
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "老板患上了 AI 狂热症，连决策都让 AI 来做，感觉公司快完蛋了，员工该怎么办？",
+          "source_name": "知乎",
+          "url": "https://www.zhihu.com/question/2084250106556067853",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        },
+        {
+          "title": "北大复旦校长警告 AI 依赖，对教育意味着什么？该如何应对过度依赖 AI 导致的知识虚假掌握？",
+          "source_name": "知乎",
+          "url": "https://www.zhihu.com/question/2084620847411681228",
+          "mobile_url": "",
+          "ranks": [
+            20
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "科技行业"
+        }
+      ]
+    },
+    {
+      "word": "地缘政治",
+      "count": 11,
+      "position": 10,
+      "titles": [
+        {
+          "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782140",
+          "mobile_url": "",
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "美对进口俄罗斯石油或天然气的第三国加征所谓“次级关税”，商务部回应",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34104940",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34104940",
+          "ranks": [
+            18
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487905",
+          "mobile_url": "",
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487946",
+          "mobile_url": "",
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "伊朗7个谈判条件曝光，增加了1项新内容",
+          "source_name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8wZarodPVy4",
+          "mobile_url": "",
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "胡塞武装称对沙特首都及关键原油设施发动袭击",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782143",
+          "mobile_url": "",
+          "ranks": [
+            4
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "沙特首都遭空袭",
+          "source_name": "bilibili 热搜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E9%81%AD%E7%A9%BA%E8%A2%AD",
+          "mobile_url": "",
+          "ranks": [
+            17
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "沙特首都利雅得遭空袭",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E9%81%AD%E7%A9%BA%E8%A2%AD&topic_id=28364806",
+          "mobile_url": "",
+          "ranks": [
+            27
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "沙特豪掷百亿购置48架F35",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B2%99%E7%89%B9%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E8%B4%AD%E7%BD%AE48%E6%9E%B6F35&topic_id=28364811",
+          "mobile_url": "",
+          "ranks": [
+            29
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "美对进口俄石油天然气第三国加征关税 商务部回应",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609193879247023.html",
+          "mobile_url": "",
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        },
+        {
+          "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
+          "source_name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wZnFcitScK",
+          "mobile_url": "",
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "地缘政治"
+        }
+      ]
+    },
+    {
+      "word": "政策动向",
+      "count": 3,
+      "position": 11,
+      "titles": [
+        {
+          "title": "明起实施！公积金功能，新变化",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487909",
+          "mobile_url": "",
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "政策动向"
+        },
+        {
+          "title": "公积金新规正式施行",
+          "source_name": "微博",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C",
+          "mobile_url": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C&t=31&band_rank=25&Refer=top",
+          "ranks": [
+            25
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "政策动向"
+        },
+        {
+          "title": "周末要闻汇总：国常会部署深入实施积极应对人口老龄化国家战略",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879356443.html",
+          "mobile_url": "",
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "count": 2,
+          "is_new": true,
+          "time_display": "17:48",
+          "matched_keyword": "政策动向"
+        }
+      ]
+    }
+  ],
+  "html": "output/html/2026-09-20/17-55.html",
+  "analysis": {
+    "core_trends": "本时段为典型的圈层热点格局，全网霸屏话题缺席，52条港股标的扎堆同花顺人气榜属榜单机制产物而非真实共振。\n\n【宏观主线】三条暗线并行：1.地缘谈判与能源断供风险交织，美伊谈判信号与胡塞袭击沙特原油设施同步出现 [[S97]][[S100]][[S102]]；2.全球供应链从芯片向基础材料蔓延，AI重塑MLCC供需、电子工业大米价格飙涨最高十倍、油运成本创新高，供给瓶颈多点爆发 [[S70]][[S74]][[S73]]；3.美联储路径与AI资本开支可持续性出现分歧，高盛看多年底全资产上涨，而甲骨文180亿AI贷款折价滞销 [[S69]][[S86]]。\n\n【微观领域】1.港股AI与半导体标的关注度集中，智谱、英矽智能、壁仞科技、天数智芯均入人气榜前列 [[S5]][[S6]][[S26]]；2.政策端公积金新规落地与反内卷监管同步推进 [[S108]][[S79]]；3.AI治理争议扩散，智谱偷传代码、北大复旦校长警告AI依赖、AI四巨头遭诉并行 [[S87]][[S96]][[S88]]。",
+    "sentiment_controversy": "【情绪光谱】机构口径普遍乐观（高盛看多年底全资产上涨、特朗普力挺AI发展），但一线反馈呈焦虑态（知乎「老板AI狂热症」登顶第2、北大复旦校长警告AI依赖），乐观叙事与执行层恐慌形成断层 [[S69]][[S92]][[S95]][[S96]]。\n\n【核心矛盾】\n1.AI提速vs安全审计：黄仁勋拒绝放缓与智谱数据泄露追责同时上榜，认知之争 [[S66]][[S87]]\n2.市场有进有出vs上市首日暴涨1200%，监管公平性之争 [[S79]][[S80]]",
+    "signals": "【跨平台共振】智谱事件从华尔街见闻技术视角延伸至贴吧情绪场「滑跪开源」，是本期唯一完成专业场到情绪场迁移的话题，其余AI争议仍困在单一圈层 [[S87]][[S90]]。\n\n【平台温差】「电子工业大米」在财联社与东方财富双榜共振，属产业圈层共识，但微博知乎零讨论，说明尚未形成大众认知 [[S74]][[S75]]；「沙特首都遭空袭」出现在B站与贴吧却缺席华尔街见闻，地缘冲击的讨论被情绪场抢先消化 [[S103]][[S104]]。\n\n【弱信号捕捉】「AI剧迎严审，官方力挺真人剧」仅在贴吧排名19，无其他平台跟进，属典型政策风向早期弱信号 [[S94]]。本期所有数据均无轨迹记录，无法判定急升或回榜，证据不足。",
+    "rss_insights": "【认知纠偏】雅虎财经RSS全部为个股基本面与分派信息，与热榜的宏观叙事几乎零重叠，说明美股讨论正从宏观转向个股现金流验证——WPM利润近乎翻倍但现金储备缩至1亿美元，是典型的「盈利与流动性背离」样本 [[S111]]。\n\n【硬核增量】热榜密集讨论AI算力与数据中心扩张，但RSS指出真正的分歧点在REITs层：Digital Realty能否从数据中心房东变成企业AI控制面板，这一商业模式跃迁是热榜完全未触及的 [[S112]]。房贷利率周末走低则为高盛「全资产上涨」判断提供了先行佐证 [[S116]]。",
+    "outlook_strategy": "1. 投资者：AI叙事正从算力订单转向融资端压力测试，甲骨文贷款折价滞销与SpaceX空头激增是同一信号的两面，短期规避AI基建高杠杆标的，关注MLCC、电子工业大米等供给瓶颈品种的涨价兑现节奏 [[S86]][[S54]][[S70]][[S74]]。\n\n2. 品牌方：智谱数据泄露事件已从技术争议升级为贴吧情绪事件，凡涉及Agent数据行为的产品需在两周内公开审计口径，否则将面临与智谱相同的信任折价 [[S87]][[S90]]。\n\n3. 公众：公积金新规已施行，需核对自身提取与贷款额度变化，勿轻信非官方解读 [[S108]][[S109]]；对AI剧严审信号保持关注，内容消费与创作方向可能面临调整 [[S94]]。",
+    "standalone_summaries": {},
+    "sources": {
+      "S1": {
+        "url": "https://xueqiu.com/s/00700",
+        "title": "腾讯控股",
+        "source": "雪球热门股票"
+      },
+      "S2": {
+        "url": "https://xueqiu.com/s/SH600519",
+        "title": "贵州茅台",
+        "source": "雪球热门股票"
+      },
+      "S3": {
+        "url": "https://stockpage.10jqka.com.cn/HK01810/",
+        "title": "小米集团-W（01810）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S4": {
+        "url": "https://stockpage.10jqka.com.cn/HK00700/",
+        "title": "腾讯控股（00700）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S5": {
+        "url": "https://stockpage.10jqka.com.cn/HK02513/",
+        "title": "智谱（02513）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S6": {
+        "url": "https://stockpage.10jqka.com.cn/HK03696/",
+        "title": "英矽智能（03696）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S7": {
+        "url": "https://stockpage.10jqka.com.cn/HK09988/",
+        "title": "阿里巴巴-W（09988）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S8": {
+        "url": "https://stockpage.10jqka.com.cn/HK00100/",
+        "title": "MINIMAX-W（00100）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S9": {
+        "url": "https://stockpage.10jqka.com.cn/HK02228/",
+        "title": "晶泰控股（02228）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S10": {
+        "url": "https://stockpage.10jqka.com.cn/HK09992/",
+        "title": "泡泡玛特（09992）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S11": {
+        "url": "https://stockpage.10jqka.com.cn/HK06951/",
+        "title": "三环集团（06951）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S12": {
+        "url": "https://stockpage.10jqka.com.cn/HK03986/",
+        "title": "兆易创新（03986）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S13": {
+        "url": "https://stockpage.10jqka.com.cn/HK00992/",
+        "title": "联想集团（00992）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S14": {
+        "url": "https://stockpage.10jqka.com.cn/HK03690/",
+        "title": "美团-W（03690）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S15": {
+        "url": "https://stockpage.10jqka.com.cn/HK03931/",
+        "title": "中创新航（03931）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S16": {
+        "url": "https://stockpage.10jqka.com.cn/HK01548/",
+        "title": "金斯瑞生物科技（01548）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S17": {
+        "url": "https://stockpage.10jqka.com.cn/HK01024/",
+        "title": "快手-W（01024）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S18": {
+        "url": "https://stockpage.10jqka.com.cn/HK00981/",
+        "title": "中芯国际（00981）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S19": {
+        "url": "https://stockpage.10jqka.com.cn/HK03750/",
+        "title": "宁德时代（03750）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S20": {
+        "url": "https://stockpage.10jqka.com.cn/HK01888/",
+        "title": "建滔积层板（01888）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S21": {
+        "url": "https://stockpage.10jqka.com.cn/HK09927/",
+        "title": "赛力斯（09927）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S22": {
+        "url": "https://stockpage.10jqka.com.cn/HK03308/",
+        "title": "中际旭创（03308）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S23": {
+        "url": "https://stockpage.10jqka.com.cn/HK01801/",
+        "title": "信达生物（01801）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S24": {
+        "url": "https://stockpage.10jqka.com.cn/HK06869/",
+        "title": "长飞光纤光缆（06869）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S25": {
+        "url": "https://stockpage.10jqka.com.cn/HK02015/",
+        "title": "理想汽车-W（02015）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S26": {
+        "url": "https://stockpage.10jqka.com.cn/HK06082/",
+        "title": "壁仞科技（06082）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S27": {
+        "url": "https://stockpage.10jqka.com.cn/HK09863/",
+        "title": "零跑汽车（09863）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S28": {
+        "url": "https://stockpage.10jqka.com.cn/HK02359/",
+        "title": "药明康德（02359）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S29": {
+        "url": "https://stockpage.10jqka.com.cn/HK02245/",
+        "title": "力勤资源（02245）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S30": {
+        "url": "https://stockpage.10jqka.com.cn/HK02476/",
+        "title": "胜宏科技（02476）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S31": {
+        "url": "https://stockpage.10jqka.com.cn/HK09868/",
+        "title": "小鹏集团-W（09868）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S32": {
+        "url": "https://stockpage.10jqka.com.cn/HK09880/",
+        "title": "优必选（09880）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S33": {
+        "url": "https://stockpage.10jqka.com.cn/HK00020/",
+        "title": "商汤-W（00020）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S34": {
+        "url": "https://stockpage.10jqka.com.cn/HK01918/",
+        "title": "融创中国（01918）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S35": {
+        "url": "https://stockpage.10jqka.com.cn/HK06809/",
+        "title": "澜起科技（06809）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S36": {
+        "url": "https://stockpage.10jqka.com.cn/HK06862/",
+        "title": "海底捞（06862）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S37": {
+        "url": "https://stockpage.10jqka.com.cn/HK09660/",
+        "title": "地平线机器人-W（09660）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S38": {
+        "url": "https://stockpage.10jqka.com.cn/HK02097/",
+        "title": "蜜雪集团（02097）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S39": {
+        "url": "https://stockpage.10jqka.com.cn/HK00175/",
+        "title": "吉利汽车（00175）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S40": {
+        "url": "https://stockpage.10jqka.com.cn/HK07666/",
+        "title": "剂泰科技-P（07666）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S41": {
+        "url": "https://stockpage.10jqka.com.cn/HK01347/",
+        "title": "华虹宏力（01347）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S42": {
+        "url": "https://stockpage.10jqka.com.cn/HK09903/",
+        "title": "天数智芯（09903）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S43": {
+        "url": "https://stockpage.10jqka.com.cn/HK00148/",
+        "title": "建滔集团（00148）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S44": {
+        "url": "https://stockpage.10jqka.com.cn/HK01879/",
+        "title": "曦智科技-P（01879）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S45": {
+        "url": "https://stockpage.10jqka.com.cn/HK02202/",
+        "title": "万科企业（02202）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S46": {
+        "url": "https://stockpage.10jqka.com.cn/HK01211/",
+        "title": "比亚迪股份（01211）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S47": {
+        "url": "https://stockpage.10jqka.com.cn/HK09926/",
+        "title": "康方生物（09926）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S48": {
+        "url": "https://stockpage.10jqka.com.cn/HK09866/",
+        "title": "蔚来-SW（09866）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S49": {
+        "url": "https://stockpage.10jqka.com.cn/HK02007/",
+        "title": "碧桂园（02007）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S50": {
+        "url": "https://stockpage.10jqka.com.cn/HK02269/",
+        "title": "药明生物（02269）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S51": {
+        "url": "https://stockpage.10jqka.com.cn/HK09633/",
+        "title": "农夫山泉（09633）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S52": {
+        "url": "https://stockpage.10jqka.com.cn/HK09976/",
+        "title": "江波龙（09976）进入港股人气榜；仅代表关注度",
+        "source": "同花顺港股人气榜（仅关注度）"
+      },
+      "S53": {
+        "url": "https://news.futunn.com/post/79509379?futusource=news_search_searchnews&src=39",
+        "title": "纳斯达克100季度调整生效在即！SpaceX权重将翻倍至2.82%",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S54": {
+        "url": "https://news.futunn.com/post/79503727?futusource=news_search_searchnews&src=39",
+        "title": "每日空头追踪：SpaceX(SPCX.US)卖空量激增6,657.85万，卖空成交比例达23%",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S55": {
+        "url": "https://news.futunn.com/post/79498307?futusource=news_search_searchnews&src=39",
+        "title": "Coinbase (COIN.US) 冲刺美股永续合约：苹果 (AAPL.US) 特斯拉 (TSLA.US) 英伟达 (NVDA.US) 在列",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S56": {
+        "url": "https://news.futunn.com/post/79496249?futusource=news_search_searchnews&src=39",
+        "title": "AI数据中心公司Nscale公开递交美股IPO申请，英伟达持股超5%",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S57": {
+        "url": "https://news.futunn.com/post/79510715?futusource=news_search_searchnews&src=39",
+        "title": "纳斯达克100季度调整生效在即 SpaceX权重将翻倍至2.82%",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S58": {
+        "url": "https://news.futunn.com/notice/308163129?futusource=news_search_searchnews&src=39",
+        "title": "华夏纳斯达克100交易型开放式指数证券投资基金(QDII)二级市场交易价格溢价风险提示及临时停牌公告",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S59": {
+        "url": "https://news.futunn.com/notice/308163124?futusource=news_search_searchnews&src=39",
+        "title": "华夏标普500交易型开放式指数证券投资基金(QDII)二级市场交易价格溢价风险提示公告",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S60": {
+        "url": "https://news.futunn.com/post/79496738?futusource=news_search_searchnews&src=39",
+        "title": "PowerShares标普500优质投资组合将于2026年9月21日除权除息，1股派股息0.15411USD",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S61": {
+        "url": "https://news.futunn.com/post/79496765?futusource=news_search_searchnews&src=39",
+        "title": "PowerShares标普500高股利低波动将于2026年9月21日除权除息，1股派股息0.20156USD",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S62": {
+        "url": "https://news.futunn.com/post/79496809?futusource=news_search_searchnews&src=39",
+        "title": "纳斯达克100备兑看涨期权ETF-Global X将于2026年9月21日除权除息，1股派股息0.1767USD",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S63": {
+        "url": "https://news.futunn.com/post/79496754?futusource=news_search_searchnews&src=39",
+        "title": "PowerShares标普500下行对冲组合将于2026年9月21日除权除息，1股派股息0.12448USD",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S64": {
+        "url": "https://news.futunn.com/post/79496907?futusource=news_search_searchnews&src=39",
+        "title": "标普500等权重通信服务ETF-Invesco将于2026年9月21日除权除息，1股派股息0.09991USD",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S65": {
+        "url": "https://news.futunn.com/post/79496745?futusource=news_search_searchnews&src=39",
+        "title": "PowerShares标普500BuyWrite组合将于2026年9月21日除权除息，1股派股息0.18863USD",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S66": {
+        "url": "https://news.futunn.com/post/79501229?futusource=news_search_searchnews&src=39",
+        "title": "英伟达CEO黄仁勋拒绝放缓AI开发的呼声：“我们将以最快的速度推进，但是……”",
+        "source": "富途资讯（采样窗口内阅读量排序）"
+      },
+      "S67": {
+        "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%95%B0%E6%8D%AE%E9%87%8C%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7%23",
+        "title": "从数据里读懂中国经济韧性",
+        "source": "微博"
+      },
+      "S68": {
+        "url": "https://www.zhihu.com/question/2084940384157659685",
+        "title": "如何看待经济学人此前「发达国家正滑向财政危机」的报道？历史上出现财政危机的原因主要有哪些？",
+        "source": "知乎"
+      },
+      "S69": {
+        "url": "https://wallstreetcn.com/articles/3782148",
+        "title": "高盛：市场“定价4次加息”过于悲观，年底有“全资产上涨”交易窗口",
+        "source": "华尔街见闻"
+      },
+      "S70": {
+        "url": "https://finance.eastmoney.com/a/202609203879293041.html",
+        "title": "AI重塑MLCC供需格局！高端产品订单排至2027年 缺货涨价潮仍在延续(附股)",
+        "source": "东方财富·网友点击排行榜"
+      },
+      "S71": {
+        "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E7%A1%AC%E7%9B%98%E6%B6%A8%E5%AE%8C%E4%BB%B7+%E6%98%BE%E7%A4%BA%E5%99%A8%E6%8E%A5%E5%8A%9B%E6%B6%A8",
+        "title": "内存硬盘涨完价 显示器接力涨",
+        "source": "百度热搜"
+      },
+      "S72": {
+        "url": "https://wallstreetcn.com/articles/3782139",
+        "title": "“炼油”成为全球能源瓶颈，美国距离“出口禁令”不远了？",
+        "source": "华尔街见闻"
+      },
+      "S73": {
+        "url": "https://wallstreetcn.com/articles/3782146",
+        "title": "超级油轮短缺！全球油运成本“从未如此之高”，“海事史上最大豪赌”赚翻了",
+        "source": "华尔街见闻"
+      },
+      "S74": {
+        "url": "https://www.cls.cn/detail/2487974",
+        "title": "最高涨十倍！“电子工业大米”，价格飙涨",
+        "source": "财联社热门"
+      },
+      "S75": {
+        "url": "https://finance.eastmoney.com/a/202609203879272237.html",
+        "title": "“一小时一个价”！“电子工业大米” 价格飙涨！最高涨十倍",
+        "source": "东方财富·网友点击排行榜"
+      },
+      "S76": {
+        "url": "https://wallstreetcn.com/articles/3782142",
+        "title": "摩根大通给出“时间表”：“厄尔尼诺”对全球农业最大影响在“明年一季度”",
+        "source": "华尔街见闻"
+      },
+      "S77": {
+        "url": "https://wallstreetcn.com/articles/3782136",
+        "title": "沙特又找到一条“运油路线”，但代价高昂",
+        "source": "华尔街见闻"
+      },
+      "S78": {
+        "url": "https://www.thepaper.cn/newsDetail_forward_34104455",
+        "title": "交易25亿，亏损9206万！中泰证券一员工代客操盘被罚",
+        "source": "澎湃新闻"
+      },
+      "S79": {
+        "url": "https://www.thepaper.cn/newsDetail_forward_34107598",
+        "title": "市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争",
+        "source": "澎湃新闻"
+      },
+      "S80": {
+        "url": "https://finance.eastmoney.com/a/202609203879281496.html",
+        "title": "上市两日暴涨1200% 沈鼓集团部分投资者遭暂停账户交易 发生了什么？",
+        "source": "东方财富·网友点击排行榜"
+      },
+      "S81": {
+        "url": "https://www.cls.cn/detail/2487953",
+        "title": "【早报】公积金新规，今日实施；史上最大IPO，时间推迟；黄仁勋减持英伟达",
+        "source": "财联社热门"
+      },
+      "S82": {
+        "url": "https://news.ifeng.com/c/8wYWQD93AMB",
+        "title": "“委内瑞拉正考虑，将40亿美元黄金储备从英国移到美国”",
+        "source": "凤凰网"
+      },
+      "S83": {
+        "url": "https://finance.eastmoney.com/a/202609193879254152.html",
+        "title": "资金再次转向科技！超140亿元涌入这一方向",
+        "source": "东方财富·网友点击排行榜"
+      },
+      "S84": {
+        "url": "https://finance.eastmoney.com/a/202609193879259839.html",
+        "title": "黄仁勋减持英伟达？被代扣4.57万股用于缴税 CFO套现765万美元",
+        "source": "东方财富·网友点击排行榜"
+      },
+      "S85": {
+        "url": "https://www.cls.cn/detail/2488091",
+        "title": "长鑫科技宣布第五代技术平台正式量产",
+        "source": "财联社热门"
+      },
+      "S86": {
+        "url": "https://wallstreetcn.com/articles/3782134",
+        "title": "甲骨文180亿AI贷款折价滞销，AI融资链压力浮现",
+        "source": "华尔街见闻"
+      },
+      "S87": {
+        "url": "https://wallstreetcn.com/articles/3782133",
+        "title": "智谱ZCode偷传代码风波追踪：Agent的数据行为谁来审计？",
+        "source": "华尔街见闻"
+      },
+      "S88": {
+        "url": "https://www.cls.cn/detail/2488018",
+        "title": "AI四巨头遭到起诉：放缓AI发展的联合表态是非法协议",
+        "source": "财联社热门"
+      },
+      "S89": {
+        "url": "https://www.cls.cn/detail/2488053",
+        "title": "单机价值量翻3倍！折叠屏手机推新潮带热FPC AI眼镜或成放量“下一站”",
+        "source": "财联社热门"
+      },
+      "S90": {
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%BA%E8%B0%B1AI%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%2C%E6%BB%91%E8%B7%AA%E5%BC%80%E6%BA%90&topic_id=28364848",
+        "title": "智谱AI偷传用户数据,滑跪开源",
+        "source": "贴吧"
+      },
+      "S91": {
+        "url": "https://wallstreetcn.com/articles/3782144",
+        "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
+        "source": "华尔街见闻"
+      },
+      "S92": {
+        "url": "https://www.cls.cn/detail/2487942",
+        "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
+        "source": "财联社热门"
+      },
+      "S93": {
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DS%E4%B8%AD%E8%8B%B1%E6%96%87%E6%97%A0%E7%BC%9D%E5%88%87%E6%8D%A2%E6%88%8F%E8%80%8D%E7%94%A8%E6%88%B7&topic_id=28364923",
+        "title": "DS中英文无缝切换戏耍用户",
+        "source": "贴吧"
+      },
+      "S94": {
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%89%A7%E8%BF%8E%E4%B8%A5%E5%AE%A1%2C%E5%AE%98%E6%96%B9%E5%8A%9B%E6%8C%BA%E7%9C%9F%E4%BA%BA%E5%89%A7&topic_id=28364800",
+        "title": "AI剧迎严审,官方力挺真人剧",
+        "source": "贴吧"
+      },
+      "S95": {
+        "url": "https://www.zhihu.com/question/2084250106556067853",
+        "title": "老板患上了 AI 狂热症，连决策都让 AI 来做，感觉公司快完蛋了，员工该怎么办？",
+        "source": "知乎"
+      },
+      "S96": {
+        "url": "https://www.zhihu.com/question/2084620847411681228",
+        "title": "北大复旦校长警告 AI 依赖，对教育意味着什么？该如何应对过度依赖 AI 导致的知识虚假掌握？",
+        "source": "知乎"
+      },
+      "S97": {
+        "url": "https://wallstreetcn.com/articles/3782140",
+        "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
+        "source": "华尔街见闻"
+      },
+      "S98": {
+        "url": "https://www.thepaper.cn/newsDetail_forward_34104940",
+        "title": "美对进口俄罗斯石油或天然气的第三国加征所谓“次级关税”，商务部回应",
+        "source": "澎湃新闻"
+      },
+      "S99": {
+        "url": "https://www.cls.cn/detail/2487905",
+        "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
+        "source": "财联社热门"
+      },
+      "S100": {
+        "url": "https://www.cls.cn/detail/2487946",
+        "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
+        "source": "财联社热门"
+      },
+      "S101": {
+        "url": "https://original.ifeng.com/c/8wZarodPVy4",
+        "title": "伊朗7个谈判条件曝光，增加了1项新内容",
+        "source": "凤凰网"
+      },
+      "S102": {
+        "url": "https://wallstreetcn.com/articles/3782143",
+        "title": "胡塞武装称对沙特首都及关键原油设施发动袭击",
+        "source": "华尔街见闻"
+      },
+      "S103": {
+        "url": "https://search.bilibili.com/all?keyword=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E9%81%AD%E7%A9%BA%E8%A2%AD",
+        "title": "沙特首都遭空袭",
+        "source": "bilibili 热搜"
+      },
+      "S104": {
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E9%81%AD%E7%A9%BA%E8%A2%AD&topic_id=28364806",
+        "title": "沙特首都利雅得遭空袭",
+        "source": "贴吧"
+      },
+      "S105": {
+        "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B2%99%E7%89%B9%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E8%B4%AD%E7%BD%AE48%E6%9E%B6F35&topic_id=28364811",
+        "title": "沙特豪掷百亿购置48架F35",
+        "source": "贴吧"
+      },
+      "S106": {
+        "url": "https://finance.eastmoney.com/a/202609193879247023.html",
+        "title": "美对进口俄石油天然气第三国加征关税 商务部回应",
+        "source": "东方财富·网友点击排行榜"
+      },
+      "S107": {
+        "url": "https://news.ifeng.com/c/8wZnFcitScK",
+        "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
+        "source": "凤凰网"
+      },
+      "S108": {
+        "url": "https://www.cls.cn/detail/2487909",
+        "title": "明起实施！公积金功能，新变化",
+        "source": "财联社热门"
+      },
+      "S109": {
+        "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C",
+        "title": "公积金新规正式施行",
+        "source": "微博"
+      },
+      "S110": {
+        "url": "https://finance.eastmoney.com/a/202609203879356443.html",
+        "title": "周末要闻汇总：国常会部署深入实施积极应对人口老龄化国家战略",
+        "source": "东方财富·网友点击排行榜"
+      },
+      "S111": {
+        "url": "https://finance.yahoo.com/markets/commodities/articles/wheaton-wpm-profits-nearly-doubled-102712259.html",
+        "title": "Wheaton’s (WPM) Profits Nearly Doubled While Its Cash Pile Shrank To $100M",
+        "source": "雅虎财经"
+      },
+      "S112": {
+        "url": "https://finance.yahoo.com/technology/ai/articles/digital-realty-dlr-data-center-103118086.html",
+        "title": "Digital Realty (DLR): Can a Data Center Landlord Become the Control Panel for Enterprise AI?",
+        "source": "雅虎财经"
+      },
+      "S113": {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-rsg-winning-price-104333739.html",
+        "title": "Republic Services (RSG) Is Winning On Price While Volumes Slip",
+        "source": "雅虎财经"
+      },
+      "S114": {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-1-25b-104710556.html",
+        "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
+        "source": "雅虎财经"
+      },
+      "S115": {
+        "url": "https://finance.yahoo.com/real-estate/articles/simon-property-spg-group-raised-105326029.html",
+        "title": "Simon Property (SPG) Group Raised Its Outlook Again",
+        "source": "雅虎财经"
+      },
+      "S116": {
+        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
+        "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
+        "source": "雅虎财经"
+      }
+    },
+    "raw_response": "```json\n{\n  \"core_trends\": \"本时段为典型的圈层热点格局，全网霸屏话题缺席，52条港股标的扎堆同花顺人气榜属榜单机制产物而非真实共振。\\n\\n【宏观主线】三条暗线并行：1.地缘谈判与能源断供风险交织，美伊谈判信号与胡塞袭击沙特原油设施同步出现 [[S97]][[S100]][[S102]]；2.全球供应链从芯片向基础材料蔓延，AI重塑MLCC供需、电子工业大米价格飙涨最高十倍、油运成本创新高，供给瓶颈多点爆发 [[S70]][[S74]][[S73]]；3.美联储路径与AI资本开支可持续性出现分歧，高盛看多年底全资产上涨，而甲骨文180亿AI贷款折价滞销 [[S69]][[S86]]。\\n\\n【微观领域】1.港股AI与半导体标的关注度集中，智谱、英矽智能、壁仞科技、天数智芯均入人气榜前列 [[S5]][[S6]][[S26]]；2.政策端公积金新规落地与反内卷监管同步推进 [[S108]][[S79]]；3.AI治理争议扩散，智谱偷传代码、北大复旦校长警告AI依赖、AI四巨头遭诉并行 [[S87]][[S96]][[S88]]。\",\n  \"sentiment_controversy\": \"【情绪光谱】机构口径普遍乐观（高盛看多年底全资产上涨、特朗普力挺AI发展），但一线反馈呈焦虑态（知乎「老板AI狂热症」登顶第2、北大复旦校长警告AI依赖），乐观叙事与执行层恐慌形成断层 [[S69]][[S92]][[S95]][[S96]]。\\n\\n【核心矛盾】\\n1.AI提速vs安全审计：黄仁勋拒绝放缓与智谱数据泄露追责同时上榜，认知之争 [[S66]][[S87]]\\n2.市场有进有出vs上市首日暴涨1200%，监管公平性之争 [[S79]][[S80]]\",\n  \"signals\": \"【跨平台共振】智谱事件从华尔街见闻技术视角延伸至贴吧情绪场「滑跪开源」，是本期唯一完成专业场到情绪场迁移的话题，其余AI争议仍困在单一圈层 [[S87]][[S90]]。\\n\\n【平台温差】「电子工业大米」在财联社与东方财富双榜共振，属产业圈层共识，但微博知乎零讨论，说明尚未形成大众认知 [[S74]][[S75]]；「沙特首都遭空袭」出现在B站与贴吧却缺席华尔街见闻，地缘冲击的讨论被情绪场抢先消化 [[S103]][[S104]]。\\n\\n【弱信号捕捉】「AI剧迎严审，官方力挺真人剧」仅在贴吧排名19，无其他平台跟进，属典型政策风向早期弱信号 [[S94]]。本期所有数据均无轨迹记录，无法判定急升或回榜，证据不足。\",\n  \"rss_insights\": \"【认知纠偏】雅虎财经RSS全部为个股基本面与分派信息，与热榜的宏观叙事几乎零重叠，说明美股讨论正从宏观转向个股现金流验证——WPM利润近乎翻倍但现金储备缩至1亿美元，是典型的「盈利与流动性背离」样本 [[S111]]。\\n\\n【硬核增量】热榜密集讨论AI算力与数据中心扩张，但RSS指出真正的分歧点在REITs层：Digital Realty能否从数据中心房东变成企业AI控制面板，这一商业模式跃迁是热榜完全未触及的 [[S112]]。房贷利率周末走低则为高盛「全资产上涨」判断提供了先行佐证 [[S116]]。\",\n  \"outlook_strategy\": \"1. 投资者：AI叙事正从算力订单转向融资端压力测试，甲骨文贷款折价滞销与SpaceX空头激增是同一信号的两面，短期规避AI基建高杠杆标的，关注MLCC、电子工业大米等供给瓶颈品种的涨价兑现节奏 [[S86]][[S54]][[S70]][[S74]]。\\n\\n2. 品牌方：智谱数据泄露事件已从技术争议升级为贴吧情绪事件，凡涉及Agent数据行为的产品需在两周内公开审计口径，否则将面临与智谱相同的信任折价 [[S87]][[S90]]。\\n\\n3. 公众：公积金新规已施行，需核对自身提取与贷款额度变化，勿轻信非官方解读 [[S108]][[S109]]；对AI剧严审信号保持关注，内容消费与创作方向可能面临调整 [[S94]]。\",\n  \"standalone_summaries\": {\n    \"同花顺港股人气榜（仅关注度）\": \"人气榜前20以AI与半导体标的为主，小米、腾讯居前二，智谱、英矽智能、MINIMAX、晶泰控股包揽第3至第7，显示港股AI叙事集中于模型与生物计算方向；榜单仅代表关注度，不支持资金流向或涨跌原因 [[S3]][[S4]][[S5]][[S6]][[S8]][[S9]]。\",\n    \"雪球热门股票\": \"腾讯控股排名11、贵州茅台排名24，均为出现2次，未见排名突变；两者分别代表科技与消费的机构底仓，在人气榜中位置稳定 [[S1]][[S2]]。\",\n    \"富途资讯（采样窗口内阅读量排序）\": \"纳斯达克100季度调整是核心事件，SpaceX权重翻倍至2.82%且空头同步激增，形成「被动资金加仓vs主动做空」的对峙结构；Nscale递交IPO申请并有英伟达持股超5%，为AI算力上市潮再添一例；多只标普500系列ETF集中除权除息，为技术性安排 [[S53]][[S54]][[S57]][[S56]][[S60]][[S61]]。\",\n    \"华尔街见闻\": \"全球能源与融资双线承压：炼油成瓶颈、油轮短缺推高油运成本、沙特另寻运油路线代价高昂，地缘端美伊谈判与胡塞袭沙特原油设施并存；AI端甲骨文贷款折价滞销与智谱数据审计是热榜盲区 [[S72]][[S73]][[S77]][[S97]][[S102]][[S86]][[S87]]。\",\n    \"财联社热门\": \"早报聚合公积金新规、史上最大IPO推迟、黄仁勋减持三条线索；长鑫科技第五代技术平台量产与「电子工业大米」价格飙涨分列第9、第5，显示半导体与基础材料供给紧张是财联社本轮主要关切 [[S81]][[S85]][[S74]]。\",\n    \"东方财富·网友点击排行榜\": \"AI重塑MLCC供需、高端订单排至2027年居第7，与「电子工业大米」一小时一个价的第2位形成产业链涨价双击；上市两日暴涨1200%的沈鼓集团遭暂停账户交易居第8，是本期唯一监管介入个案 [[S70]][[S75]][[S80]]。\",\n    \"知乎\": \"「老板患上AI狂热症」位列第2，是全部数据中排名最高的人文类话题，反映一线执行层对AI决策替代的真实焦虑；北大复旦校长警告AI依赖排第20，经济学人财政危机讨论排13，均属精英场深度议题，与大众热榜几无交集 [[S95]][[S96]][[S68]]。\",\n    \"贴吧\": \"智谱AI偷传用户数据「滑跪开源」排22、AI剧迎严审排19，是本平台独有内容；DS中英文无缝切换戏耍用户排14、沙特首都遭空袭排27、沙特豪掷百亿购置48架F35排29，显示贴吧同时承载技术吐槽与地缘情绪，话题结构最杂 [[S90]][[S94]][[S93]][[S104]][[S105]]。\"\n  }\n}\n```",
+    "success": true,
+    "skipped": false,
+    "error": "",
+    "total_news": 116,
+    "analyzed_news": 116,
+    "max_news_limit": 150,
+    "hotlist_count": 110,
+    "rss_count": 6,
+    "hotlist_analyzed": 110,
+    "rss_analyzed": 6,
+    "standalone_analyzed": 0,
+    "ai_mode": "current",
+    "include_rss": true,
+    "include_standalone": false
+  }
+}

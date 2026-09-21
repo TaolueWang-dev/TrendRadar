@@ -1,0 +1,1024 @@
+{
+  "collected_at": "2026-09-20T15:21:35.846127+08:00",
+  "status": {
+    "xueqiu": "unavailable: opencli is absent on the execution host; no historical substitution",
+    "time_windows": "index timestamps",
+    "futu": {
+      "hotlist_counts": {
+        "us": 200,
+        "hk": 200
+      },
+      "nonempty_news_symbols": 5,
+      "news_status": "partial: US news returned ret=-1 and the existing client stopped after 5 failures; index queries were not reached; no further news retries",
+      "successful_news_symbols": 5,
+      "planned_news_symbols": 24
+    },
+    "ths": "ok",
+    "dongcai": {
+      "latest_in_database": "2026-09-20 05:53:00",
+      "window_rows": 154,
+      "sample_rows": 33
+    }
+  },
+  "windows": {
+    "hk_start": "2026-09-18T16:00:00+08:00",
+    "us_start": "2026-09-19T04:00:00+08:00"
+  },
+  "universe_counts": {
+    "hsi": 119,
+    "ndx": 101
+  },
+  "constituents": {
+    "hsi": [
+      {
+        "code": "HK.00700",
+        "name": "腾讯控股"
+      },
+      {
+        "code": "HK.09988",
+        "name": "阿里巴巴-W"
+      },
+      {
+        "code": "HK.03690",
+        "name": "美团-W"
+      },
+      {
+        "code": "HK.01810",
+        "name": "小米集团-W"
+      },
+      {
+        "code": "HK.03750",
+        "name": "宁德时代"
+      },
+      {
+        "code": "HK.00992",
+        "name": "联想集团"
+      },
+      {
+        "code": "HK.01024",
+        "name": "快手-W"
+      },
+      {
+        "code": "HK.09992",
+        "name": "泡泡玛特"
+      },
+      {
+        "code": "HK.00005",
+        "name": "汇丰控股"
+      },
+      {
+        "code": "HK.01211",
+        "name": "比亚迪股份"
+      }
+    ],
+    "ndx": [
+      {
+        "code": "US.SNDK",
+        "name": "Sandisk Corporation Common Stock"
+      },
+      {
+        "code": "US.NVDA",
+        "name": "NVIDIA Corporation Common Stock"
+      },
+      {
+        "code": "US.SPCX",
+        "name": "Space Exploration Technologies Corp. Class A Common Stock"
+      },
+      {
+        "code": "US.MU",
+        "name": "Micron Technology, Inc. Common Stock"
+      },
+      {
+        "code": "US.MSTR",
+        "name": "Strategy Inc Common Stock Class A"
+      },
+      {
+        "code": "US.TSLA",
+        "name": "Tesla, Inc. Common Stock"
+      },
+      {
+        "code": "US.AVGO",
+        "name": "Broadcom Inc. Common Stock"
+      },
+      {
+        "code": "US.INTC",
+        "name": "Intel Corporation Common Stock"
+      },
+      {
+        "code": "US.GOOG",
+        "name": "Alphabet Inc. Class C Capital Stock"
+      },
+      {
+        "code": "US.AAPL",
+        "name": "Apple Inc. Common Stock"
+      }
+    ]
+  },
+  "hot_list": {
+    "us": [
+      {
+        "security": "US.SNDK",
+        "name": "闪迪",
+        "trade_heat": 0.0,
+        "trade_heat_change": -2960.0,
+        "search_heat": 9998958.0,
+        "search_heat_change": 0.0,
+        "news_heat": 9999969.0,
+        "news_heat_change": 0.0,
+        "average_heat": 6666309.0,
+        "average_heat_change": 0.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.NVDA",
+        "name": "英伟达",
+        "trade_heat": 0.0,
+        "trade_heat_change": -2384.0,
+        "search_heat": 6145193.0,
+        "search_heat_change": 1.0,
+        "news_heat": 5951213.0,
+        "news_heat_change": 0.0,
+        "average_heat": 4032135.0,
+        "average_heat_change": 1.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.SPCX",
+        "name": "SpaceX",
+        "trade_heat": 0.0,
+        "trade_heat_change": -2290.0,
+        "search_heat": 5624414.0,
+        "search_heat_change": 0.0,
+        "news_heat": 4098903.0,
+        "news_heat_change": 1.0,
+        "average_heat": 3241105.0,
+        "average_heat_change": 1.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.MU",
+        "name": "美光科技",
+        "trade_heat": 0.0,
+        "trade_heat_change": -967.0,
+        "search_heat": 7103427.0,
+        "search_heat_change": -1.0,
+        "news_heat": 2040362.0,
+        "news_heat_change": -7.0,
+        "average_heat": 3047929.0,
+        "average_heat_change": -3.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.MSTR",
+        "name": "Strategy",
+        "trade_heat": 0.0,
+        "trade_heat_change": -2447.0,
+        "search_heat": 5520258.0,
+        "search_heat_change": -5.0,
+        "news_heat": 1831625.0,
+        "news_heat_change": -8.0,
+        "average_heat": 2450627.0,
+        "average_heat_change": -2.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.TSLA",
+        "name": "特斯拉",
+        "trade_heat": 0.0,
+        "trade_heat_change": 1.0,
+        "search_heat": 4270389.0,
+        "search_heat_change": -2.0,
+        "news_heat": 2730512.0,
+        "news_heat_change": -1.0,
+        "average_heat": 2333633.0,
+        "average_heat_change": 0.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.AVGO",
+        "name": "博通",
+        "trade_heat": 0.0,
+        "trade_heat_change": 7.0,
+        "search_heat": 5832726.0,
+        "search_heat_change": 1.0,
+        "news_heat": 1147116.0,
+        "news_heat_change": -9.0,
+        "average_heat": 2326614.0,
+        "average_heat_change": 0.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.INTC",
+        "name": "英特尔",
+        "trade_heat": 0.0,
+        "trade_heat_change": -29.0,
+        "search_heat": 5832726.0,
+        "search_heat_change": -1.0,
+        "news_heat": 1045568.0,
+        "news_heat_change": 7.0,
+        "average_heat": 2292764.0,
+        "average_heat_change": -4.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.GOOG",
+        "name": "谷歌-C",
+        "trade_heat": 0.0,
+        "trade_heat_change": -2378.0,
+        "search_heat": 4291220.0,
+        "search_heat_change": 2.0,
+        "news_heat": 1690586.0,
+        "news_heat_change": -6.0,
+        "average_heat": 1993935.0,
+        "average_heat_change": -1.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "US.AAPL",
+        "name": "苹果",
+        "trade_heat": 0.0,
+        "trade_heat_change": -897.0,
+        "search_heat": 3874596.0,
+        "search_heat_change": 7.0,
+        "news_heat": 925842.0,
+        "news_heat_change": 0.0,
+        "average_heat": 1600146.0,
+        "average_heat_change": 12.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      }
+    ],
+    "hk": [
+      {
+        "security": "HK.00700",
+        "name": "腾讯控股",
+        "trade_heat": 0.0,
+        "trade_heat_change": -1684.0,
+        "search_heat": 7664112.0,
+        "search_heat_change": -1.0,
+        "news_heat": 9999895.0,
+        "news_heat_change": 1.0,
+        "average_heat": 5888002.0,
+        "average_heat_change": -1.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.09988",
+        "name": "阿里巴巴-W",
+        "trade_heat": 0.0,
+        "trade_heat_change": -202.0,
+        "search_heat": 5664778.0,
+        "search_heat_change": -3.0,
+        "news_heat": 9684905.0,
+        "news_heat_change": 1.0,
+        "average_heat": 5116561.0,
+        "average_heat_change": 1.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.03690",
+        "name": "美团-W",
+        "trade_heat": 0.0,
+        "trade_heat_change": -215.0,
+        "search_heat": 5664778.0,
+        "search_heat_change": 4.0,
+        "news_heat": 6579099.0,
+        "news_heat_change": 0.0,
+        "average_heat": 4081292.0,
+        "average_heat_change": 0.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.01810",
+        "name": "小米集团-W",
+        "trade_heat": 0.0,
+        "trade_heat_change": -220.0,
+        "search_heat": 7330890.0,
+        "search_heat_change": 3.0,
+        "news_heat": 3750486.0,
+        "news_heat_change": -1.0,
+        "average_heat": 3693792.0,
+        "average_heat_change": 0.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.03750",
+        "name": "宁德时代",
+        "trade_heat": 0.0,
+        "trade_heat_change": 1199.0,
+        "search_heat": 5998001.0,
+        "search_heat_change": 7.0,
+        "news_heat": 1232662.0,
+        "news_heat_change": 6.0,
+        "average_heat": 2410221.0,
+        "average_heat_change": 3.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.00992",
+        "name": "联想集团",
+        "trade_heat": 0.0,
+        "trade_heat_change": -35.0,
+        "search_heat": 5331556.0,
+        "search_heat_change": 1.0,
+        "news_heat": 1598051.0,
+        "news_heat_change": -1.0,
+        "average_heat": 2309869.0,
+        "average_heat_change": 1.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.01024",
+        "name": "快手-W",
+        "trade_heat": 0.0,
+        "trade_heat_change": 1134.0,
+        "search_heat": 3665445.0,
+        "search_heat_change": -3.0,
+        "news_heat": 2362428.0,
+        "news_heat_change": -1.0,
+        "average_heat": 2009291.0,
+        "average_heat_change": -3.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.09992",
+        "name": "泡泡玛特",
+        "trade_heat": 0.0,
+        "trade_heat_change": -184.0,
+        "search_heat": 4665112.0,
+        "search_heat_change": -1.0,
+        "news_heat": 157495.0,
+        "news_heat_change": 3.0,
+        "average_heat": 1607535.0,
+        "average_heat_change": 0.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.00005",
+        "name": "汇丰控股",
+        "trade_heat": 0.0,
+        "trade_heat_change": 534.0,
+        "search_heat": 4331889.0,
+        "search_heat_change": 2.0,
+        "news_heat": 461986.0,
+        "news_heat_change": -15.0,
+        "average_heat": 1597958.0,
+        "average_heat_change": 1.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      },
+      {
+        "security": "HK.01211",
+        "name": "比亚迪股份",
+        "trade_heat": 0.0,
+        "trade_heat_change": -1685.0,
+        "search_heat": 3332223.0,
+        "search_heat_change": 6.0,
+        "news_heat": 926072.0,
+        "news_heat_change": 17.0,
+        "average_heat": 1419431.0,
+        "average_heat_change": 7.0,
+        "news_type": "N/A",
+        "news_title": "N/A",
+        "news_url": "N/A"
+      }
+    ]
+  },
+  "news": {
+    "HK.00700": [
+      {
+        "title": "云学堂 | SC 13G：超过5%持股股东披露文件-Tencent Holdings Limited(18.3%),Image Frame Investment (HK) Limited(18.3%)",
+        "news_sub_type": "NOTICE",
+        "source": "美股SEC公告",
+        "publish_time": "11/13",
+        "view_count": 347,
+        "related_securities": [
+          "US.YXT"
+        ],
+        "url": "https://news.futunn.com/notice/301266303?futusource=news_search_searchnews&src=39"
+      }
+    ],
+    "HK.09988": [],
+    "HK.03690": [],
+    "HK.01810": [],
+    "HK.03750": [
+      {
+        "title": "宁德时代(3750.HK)：产能利用提升 生产旺盛且份额稳定",
+        "news_sub_type": "RATING",
+        "source": "恒生聚源",
+        "publish_time": "11/12",
+        "view_count": 791,
+        "related_securities": [
+          "HK.03750"
+        ],
+        "url": "https://news.futunn.com/post/64760150?futusource=news_search_searchnews&src=39"
+      },
+      {
+        "title": "里昂证券维持对宁德时代（3750.HK）的买入评级。",
+        "news_sub_type": "RATING",
+        "source": "TipRanks",
+        "publish_time": "11/20",
+        "view_count": 363,
+        "related_securities": [
+          "SZ.300750"
+        ],
+        "url": "https://www.tipranks.com/news/blurbs/clsa-sticks-to-its-buy-rating-for-contemporary-amperex-technology-co-limited-class-h-3750-blurbs?futusource=news_search_searchnews&src=39&utm_medium=referral&utm_source=news.futunn.com"
+      },
+      {
+        "title": "宁德时代(3750.HK)：公司三季报业绩超预期 正在积极扩张产能 建议“买进”",
+        "news_sub_type": "RATING",
+        "source": "群益证券(香港)",
+        "publish_time": "10/21",
+        "view_count": 342,
+        "related_securities": [
+          "HK.03750"
+        ],
+        "url": "https://news.futunn.com/post/63676405?futusource=news_search_searchnews&src=39"
+      },
+      {
+        "title": "宁德时代(03750.HK)交接覆盖：3Q2025业绩点评 经营质量稳健提升 紧抓储能发展机遇",
+        "news_sub_type": "RATING",
+        "source": "海通国际",
+        "publish_time": "10/22",
+        "view_count": 302,
+        "related_securities": [
+          "HK.03750"
+        ],
+        "url": "https://news.futunn.com/post/63638156?futusource=news_search_searchnews&src=39"
+      }
+    ],
+    "HK.00992": [
+      {
+        "title": "联想集团(00992.HK)：重申长期净利率目标 超节点商业化提速",
+        "news_sub_type": "NEWS",
+        "source": "中金公司",
+        "publish_time": "9/19",
+        "view_count": 874,
+        "related_securities": [],
+        "url": "https://news.futunn.com/post/79501842?futusource=news_search_searchnews&src=39"
+      }
+    ],
+    "HK.01024": [],
+    "HK.09992": [],
+    "HK.00005": [
+      {
+        "title": "汇丰控股(00005.HK)：汇丰控股私有化收购恒丰银行事件解读",
+        "news_sub_type": "RATING",
+        "source": "中金公司",
+        "publish_time": "10/10",
+        "view_count": 2749,
+        "related_securities": [
+          "HK.00005"
+        ],
+        "url": "https://news.futunn.com/post/63089069?futusource=news_search_searchnews&src=39"
+      },
+      {
+        "title": "汇丰控股(0005.HK)：营收、利润均超预期 上调全年ROTE指引",
+        "news_sub_type": "RATING",
+        "source": "中信建投证券",
+        "publish_time": "10/29",
+        "view_count": 1348,
+        "related_securities": [
+          "HK.00005"
+        ],
+        "url": "https://news.futunn.com/post/63958727?futusource=news_search_searchnews&src=39"
+      },
+      {
+        "title": "汇丰控股(0005.HK)：锚定亚洲 变中求进",
+        "news_sub_type": "RATING",
+        "source": "华泰证券",
+        "publish_time": "9/28",
+        "view_count": 357,
+        "related_securities": [
+          "HK.00005"
+        ],
+        "url": "https://news.futunn.com/post/62711771?futusource=news_search_searchnews&src=39"
+      },
+      {
+        "title": "汇丰控股(0005.HK)：私有化恒生银行 盈利能力和战略竞争力再上台阶",
+        "news_sub_type": "RATING",
+        "source": "中信建投证券",
+        "publish_time": "10/9",
+        "view_count": 236,
+        "related_securities": [
+          "HK.00005"
+        ],
+        "url": "https://news.futunn.com/post/63086867?futusource=news_search_searchnews&src=39"
+      }
+    ],
+    "HK.01211": [
+      {
+        "title": "《大行报告》野村降比亚迪(01211.HK)目标价至276元 下调盈测",
+        "news_sub_type": "RATING",
+        "source": "AASTOCKS",
+        "publish_time": "2/29",
+        "view_count": 1008,
+        "related_securities": [
+          "HK.81211"
+        ],
+        "url": "https://news.futunn.com/post/38643976?futusource=news_search_searchnews&src=39"
+      }
+    ],
+    "US.SNDK": []
+  },
+  "ths": [
+    {
+      "symbol": "01810",
+      "name": "小米集团-W",
+      "rank": 1,
+      "heat": 25634848,
+      "changePercent": 0.9946
+    },
+    {
+      "symbol": "00700",
+      "name": "腾讯控股",
+      "rank": 2,
+      "heat": 23783118,
+      "changePercent": -1.6432
+    },
+    {
+      "symbol": "09988",
+      "name": "阿里巴巴-W",
+      "rank": 5,
+      "heat": 10597759,
+      "changePercent": 3.9962
+    },
+    {
+      "symbol": "09992",
+      "name": "泡泡玛特",
+      "rank": 8,
+      "heat": 7068539,
+      "changePercent": 1.2402
+    },
+    {
+      "symbol": "00992",
+      "name": "联想集团",
+      "rank": 11,
+      "heat": 6208297,
+      "changePercent": 9.4988
+    },
+    {
+      "symbol": "03690",
+      "name": "美团-W",
+      "rank": 12,
+      "heat": 5935383,
+      "changePercent": 0.4115
+    },
+    {
+      "symbol": "01024",
+      "name": "快手-W",
+      "rank": 15,
+      "heat": 4322366,
+      "changePercent": 2.672
+    },
+    {
+      "symbol": "03750",
+      "name": "宁德时代",
+      "rank": 16,
+      "heat": 4193734,
+      "changePercent": 0
+    },
+    {
+      "symbol": "01211",
+      "name": "比亚迪股份",
+      "rank": 47,
+      "heat": 1747484,
+      "changePercent": 0.4313
+    }
+  ],
+  "dongcai": [
+    {
+      "event_id": "dongcai_usTSLA_1775208193",
+      "stock_code": "TSLA",
+      "stock_name": "Tesla, Inc. Common Stock",
+      "title": "美股深夜，芯片股拉升，闪迪涨超3.5%，希捷科技涨超2.8%；中国资产暴涨，南茂涨7.42%，再鼎医药涨5%；科技七巨头涨跌不一，谷歌涨3.5%",
+      "published_at": "2026-09-18 22:01:40",
+      "source": "资讯",
+      "read_count": 2988,
+      "comment_count": 5,
+      "detail_url": "/news,ustsla,1775208193.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk00992_1775154908",
+      "stock_code": "00992",
+      "stock_name": "联想集团",
+      "title": "港股复盘|一度暴涨25% 股价创历史新高 港股惊现“无厘头”炒作",
+      "published_at": "2026-09-18 16:56:10",
+      "source": "资讯",
+      "read_count": 2912,
+      "comment_count": 2,
+      "detail_url": "/news,hk00992,1775154908.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk01211_1775159470",
+      "stock_code": "01211",
+      "stock_name": "比亚迪股份",
+      "title": "比亚迪：二季度净利润同比增长30% 毛利率达18.9%",
+      "published_at": "2026-09-18 17:16:40",
+      "source": "资讯",
+      "read_count": 2627,
+      "comment_count": 7,
+      "detail_url": "/news,hk01211,1775159470.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk09988_1775154908",
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "title": "港股复盘|一度暴涨25% 股价创历史新高 港股惊现“无厘头”炒作",
+      "published_at": "2026-09-18 16:56:10",
+      "source": "资讯",
+      "read_count": 2599,
+      "comment_count": 1,
+      "detail_url": "/news,hk09988,1775154908.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk01211_1775179702",
+      "stock_code": "01211",
+      "stock_name": "比亚迪股份",
+      "title": "存在安全隐患！超18万辆比亚迪被召回",
+      "published_at": "2026-09-18 19:14:00",
+      "source": "资讯",
+      "read_count": 2242,
+      "comment_count": 21,
+      "detail_url": "/news,hk01211,1775179702.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usSNDK_1775156753",
+      "stock_code": "SNDK",
+      "stock_name": "Sandisk Corporation Common Stock",
+      "title": "英特尔、SK海力士、闪迪，芯片股又涨了！",
+      "published_at": "2026-09-18 17:04:39",
+      "source": "资讯",
+      "read_count": 2067,
+      "comment_count": 3,
+      "detail_url": "/news,ussndk,1775156753.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk09992_1775228804",
+      "stock_code": "09992",
+      "stock_name": "泡泡玛特",
+      "title": "叶国富“下战书”：名创优品叫板泡泡玛特",
+      "published_at": "2026-09-19 04:54:11",
+      "source": "资讯",
+      "read_count": 1736,
+      "comment_count": 9,
+      "detail_url": "/news,hk09992,1775228804.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk09988_1775174659",
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "title": "晚报丨日央行加息25基点至1.25%；人民币升破6.7关口，多重因素构成强支撑；财政部：1—8月证券交易印花税同比增长82%；Gemini 4 Pro偷跑上线，碾压Astra和Fable；Anthropic称Claude已主导其26%内部AI研发",
+      "published_at": "2026-09-18 18:38:30",
+      "source": "资讯",
+      "read_count": 1650,
+      "comment_count": 4,
+      "detail_url": "/news,hk09988,1775174659.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usTSLA_1775212535",
+      "stock_code": "TSLA",
+      "stock_name": "Tesla, Inc. Common Stock",
+      "title": "比特币大涨冲上8万美元！美股三大指数齐跌，英伟达、苹果、特斯拉、SpaceX下挫；中概股逆势上涨，阿里、京东、蔚小理齐涨丨美股开盘",
+      "published_at": "2026-09-18 22:28:10",
+      "source": "资讯",
+      "read_count": 1427,
+      "comment_count": 2,
+      "detail_url": "/news,ustsla,1775212535.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk09988_1775163884",
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "title": "南向资金净买近12亿港元 净买入百度集团-W近43亿港元",
+      "published_at": "2026-09-18 17:38:20",
+      "source": "资讯",
+      "read_count": 1310,
+      "comment_count": 2,
+      "detail_url": "/news,hk09988,1775163884.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk01024_1775183267",
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "title": "市场监管部门与淘天、抖音、快手、美团、小红书、支付宝等8家平台企业签署协议",
+      "published_at": "2026-09-18 19:36:39",
+      "source": "资讯",
+      "read_count": 1221,
+      "comment_count": 1,
+      "detail_url": "/news,hk01024,1775183267.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usSNDK_1775174659",
+      "stock_code": "SNDK",
+      "stock_name": "Sandisk Corporation Common Stock",
+      "title": "晚报丨日央行加息25基点至1.25%；人民币升破6.7关口，多重因素构成强支撑；财政部：1—8月证券交易印花税同比增长82%；Gemini 4 Pro偷跑上线，碾压Astra和Fable；Anthropic称Claude已主导其26%内部AI研发",
+      "published_at": "2026-09-18 18:38:30",
+      "source": "资讯",
+      "read_count": 1209,
+      "comment_count": 4,
+      "detail_url": "/news,ussndk,1775174659.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usSNDK_1775143352",
+      "stock_code": "SNDK",
+      "stock_name": "Sandisk Corporation Common Stock",
+      "title": "美股存储芯片股盘前小幅走高",
+      "published_at": "2026-09-18 16:08:10",
+      "source": "资讯",
+      "read_count": 1078,
+      "comment_count": 0,
+      "detail_url": "/news,ussndk,1775143352.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk01211_1775159385",
+      "stock_code": "01211",
+      "stock_name": "比亚迪股份",
+      "title": "多车企发布召回公告，比亚迪涉超18万辆老款车型",
+      "published_at": "2026-09-18 17:16:20",
+      "source": "资讯",
+      "read_count": 994,
+      "comment_count": 7,
+      "detail_url": "/news,hk01211,1775159385.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk01211_1775156543",
+      "stock_code": "01211",
+      "stock_name": "比亚迪股份",
+      "title": "比亚迪：二季度净利润同比增长30%，毛利率达18.9%创近一年新高",
+      "published_at": "2026-09-18 17:03:40",
+      "source": "资讯",
+      "read_count": 939,
+      "comment_count": 7,
+      "detail_url": "/news,hk01211,1775156543.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk01211_1775202071",
+      "stock_code": "01211",
+      "stock_name": "比亚迪股份",
+      "title": "比亚迪召回超18万辆汽车",
+      "published_at": "2026-09-18 21:26:19",
+      "source": "资讯",
+      "read_count": 831,
+      "comment_count": 6,
+      "detail_url": "/news,hk01211,1775202071.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk09988_1775177374",
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
+      "published_at": "2026-09-18 18:57:29",
+      "source": "资讯",
+      "read_count": 765,
+      "comment_count": 1,
+      "detail_url": "/news,hk09988,1775177374.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk09988_1775181866",
+      "stock_code": "09988",
+      "stock_name": "阿里巴巴-W",
+      "title": "南向资金追踪｜近两周连续逆势加仓超320亿港元 短线买入智谱和百度减持阿里",
+      "published_at": "2026-09-18 19:27:39",
+      "source": "资讯",
+      "read_count": 676,
+      "comment_count": 0,
+      "detail_url": "/news,hk09988,1775181866.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usSNDK_1775165639",
+      "stock_code": "SNDK",
+      "stock_name": "Sandisk Corporation Common Stock",
+      "title": "美股盘前，存储、光通信延续强势",
+      "published_at": "2026-09-18 17:46:30",
+      "source": "资讯",
+      "read_count": 595,
+      "comment_count": 0,
+      "detail_url": "/news,ussndk,1775165639.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usTSLA_1775204875",
+      "stock_code": "TSLA",
+      "stock_name": "Tesla, Inc. Common Stock",
+      "title": "美股“科技七巨头”盘初涨跌不一，英伟达跌0.07%，苹果涨0.16%",
+      "published_at": "2026-09-18 21:41:40",
+      "source": "资讯",
+      "read_count": 494,
+      "comment_count": 0,
+      "detail_url": "/news,ustsla,1775204875.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk01024_1775157840",
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "title": "市场监管部门与平台企业签署协议，共同支持个体工商户发展",
+      "published_at": "2026-09-18 17:10:00",
+      "source": "资讯",
+      "read_count": 468,
+      "comment_count": 0,
+      "detail_url": "/news,hk01024,1775157840.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usSPCX_1775168446",
+      "stock_code": "SPCX",
+      "stock_name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "title": "期权智投播报 | Circle盘前升逾3% SEC推出代币化股票创新豁免 今晚三巫日 期权合约集中到期",
+      "published_at": "2026-09-18 18:01:10",
+      "source": "资讯",
+      "read_count": 432,
+      "comment_count": 0,
+      "detail_url": "/news,usspcx,1775168446.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usSNDK_1775149244",
+      "stock_code": "SNDK",
+      "stock_name": "Sandisk Corporation Common Stock",
+      "title": "美股盘前：存储芯片、光通信板块走强，SK海力士、闪迪涨2%；三大股指期货集体上涨；大型科技股普涨，谷歌涨近2%；现货黄金上涨",
+      "published_at": "2026-09-18 16:32:30",
+      "source": "资讯",
+      "read_count": 423,
+      "comment_count": 1,
+      "detail_url": "/news,ussndk,1775149244.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk00992_1775146651",
+      "stock_code": "00992",
+      "stock_name": "联想集团",
+      "title": "港股收评：恒指涨，恒科大涨超2%；半导体爆发，黄金股大涨，煤炭下跌；MINIMAX大涨超18%，联想大涨超9%，阿里、智谱、零跑集体上涨",
+      "published_at": "2026-09-18 16:20:52",
+      "source": "资讯",
+      "read_count": 384,
+      "comment_count": 1,
+      "detail_url": "/news,hk00992,1775146651.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk01024_1775166392",
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "title": "市场监管部门与8家平台企业签署协议，共同支持个体工商户发展",
+      "published_at": "2026-09-18 17:50:00",
+      "source": "资讯",
+      "read_count": 368,
+      "comment_count": 0,
+      "detail_url": "/news,hk01024,1775166392.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usTSLA_1775146124",
+      "stock_code": "TSLA",
+      "stock_name": "Tesla, Inc. Common Stock",
+      "title": "美股大型科技股盘前涨跌互现，谷歌A涨超1%",
+      "published_at": "2026-09-18 16:18:29",
+      "source": "资讯",
+      "read_count": 302,
+      "comment_count": 2,
+      "detail_url": "/news,ustsla,1775146124.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_usTSLA_1775204619",
+      "stock_code": "TSLA",
+      "stock_name": "Tesla, Inc. Common Stock",
+      "title": "美股“科技七巨头”盘初涨跌不一",
+      "published_at": "2026-09-18 21:40:19",
+      "source": "资讯",
+      "read_count": 284,
+      "comment_count": 0,
+      "detail_url": "/news,ustsla,1775204619.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk00992_1775151998",
+      "stock_code": "00992",
+      "stock_name": "联想集团",
+      "title": "港股收盘(09.18) | 恒指收涨0.6% AI产业链、内房股等表现强势 联想集团(00992)创历史新高",
+      "published_at": "2026-09-18 16:43:57",
+      "source": "热点",
+      "read_count": 255,
+      "comment_count": 0,
+      "detail_url": "//caifuhao.eastmoney.com/news/20260918164357006223150",
+      "dat_type": "trending"
+    },
+    {
+      "event_id": "dongcai_hk00992_1775147207",
+      "stock_code": "00992",
+      "stock_name": "联想集团",
+      "title": "港股收盘｜恒指涨0.6% MINIMAX大涨近19%",
+      "published_at": "2026-09-18 16:23:30",
+      "source": "资讯",
+      "read_count": 206,
+      "comment_count": 0,
+      "detail_url": "/news,hk00992,1775147207.html",
+      "dat_type": "news"
+    },
+    {
+      "event_id": "dongcai_hk00992_1775148635",
+      "stock_code": "00992",
+      "stock_name": "联想集团",
+      "title": "联想集团股价再创新高，CFO曾称完全被市场低估",
+      "published_at": "2026-09-18 16:29:42",
+      "source": "热点",
+      "read_count": 151,
+      "comment_count": 0,
+      "detail_url": "//caifuhao.eastmoney.com/news/20260918162942263010140",
+      "dat_type": "trending"
+    },
+    {
+      "event_id": "dongcai_hk01024_1775187034",
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "title": "快手-W(01024)9月18日斥资2498.58万港元回购81.5万股",
+      "published_at": "2026-09-18 20:00:17",
+      "source": "热点",
+      "read_count": 109,
+      "comment_count": 0,
+      "detail_url": "//caifuhao.eastmoney.com/news/20260918200017409715180",
+      "dat_type": "trending"
+    },
+    {
+      "event_id": "dongcai_usSPCX_1775154308",
+      "stock_code": "SPCX",
+      "stock_name": "Space Exploration Technologies Corp. Class A Common Stock",
+      "title": "美股太空股本周狂欢：SpaceX(SPCX.US)星舰首次创收飞行在即 Voyager(VOYG.US)、Rocket Lab(RKLB.US)大涨",
+      "published_at": "2026-09-18 16:53:37",
+      "source": "热点",
+      "read_count": 70,
+      "comment_count": 0,
+      "detail_url": "//caifuhao.eastmoney.com/news/20260918165337959920730",
+      "dat_type": "trending"
+    },
+    {
+      "event_id": "dongcai_hk01024_1775185800",
+      "stock_code": "01024",
+      "stock_name": "快手-W",
+      "title": "快手－Ｗ(01024.HK)9月18日耗资2498.58万港元回购81.5万股",
+      "published_at": "2026-09-18 19:52:37",
+      "source": "热点",
+      "read_count": 63,
+      "comment_count": 0,
+      "detail_url": "//caifuhao.eastmoney.com/news/20260918195237435541370",
+      "dat_type": "trending"
+    }
+  ],
+  "news_collected_at": "2026-09-20T15:20:38.810042+08:00"
+}

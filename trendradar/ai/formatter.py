@@ -7,6 +7,7 @@ AI 分析结果格式化模块
 
 import html as html_lib
 import re
+from urllib.parse import urlparse
 from .analyzer import AIAnalysisResult
 
 
@@ -280,6 +281,21 @@ def get_ai_analysis_renderer(channel: str):
     return renderers.get(channel, render_ai_analysis_markdown)
 
 
+def _render_citations(text, sources):
+    def link(match):
+        key = match.group(1)
+        entry = sources.get(key, {})
+        url = entry.get('url', '')
+        parsed = urlparse(url)
+        if parsed.scheme not in ('http', 'https') or not parsed.hostname or parsed.username or parsed.password:
+            return '<span class="ai-citation-missing">[来源待核实]</span>'
+        label = f"[{key} · {entry.get('source') or '原文'}]"
+        return (f'<a class="ai-citation" href="{_escape_html(url)}" '
+                f'title="{_escape_html(entry.get("title", ""))}" target="_blank" '
+                f'rel="noopener noreferrer">{_escape_html(label)}</a>')
+    return re.sub(r'\[\[(S\d+)\]\]', link, _escape_html(text)).replace('\n', '<br>')
+
+
 def render_ai_analysis_html_rich(result: AIAnalysisResult) -> str:
     """渲染为丰富样式的 HTML 格式（HTML 报告用）"""
     if not result:
@@ -308,7 +324,7 @@ def render_ai_analysis_html_rich(result: AIAnalysisResult) -> str:
 
     if result.core_trends:
         content = _format_list_content(result.core_trends)
-        content_html = _escape_html(content).replace("\n", "<br>")
+        content_html = _render_citations(content, result.sources)
         ai_html += f"""
                     <div class="ai-block">
                         <div class="ai-block-title">核心热点态势</div>
@@ -317,7 +333,7 @@ def render_ai_analysis_html_rich(result: AIAnalysisResult) -> str:
 
     if result.sentiment_controversy:
         content = _format_list_content(result.sentiment_controversy)
-        content_html = _escape_html(content).replace("\n", "<br>")
+        content_html = _render_citations(content, result.sources)
         ai_html += f"""
                     <div class="ai-block">
                         <div class="ai-block-title">舆论风向争议</div>
@@ -326,7 +342,7 @@ def render_ai_analysis_html_rich(result: AIAnalysisResult) -> str:
 
     if result.signals:
         content = _format_list_content(result.signals)
-        content_html = _escape_html(content).replace("\n", "<br>")
+        content_html = _render_citations(content, result.sources)
         ai_html += f"""
                     <div class="ai-block">
                         <div class="ai-block-title">异动与弱信号</div>
@@ -335,7 +351,7 @@ def render_ai_analysis_html_rich(result: AIAnalysisResult) -> str:
 
     if result.rss_insights:
         content = _format_list_content(result.rss_insights)
-        content_html = _escape_html(content).replace("\n", "<br>")
+        content_html = _render_citations(content, result.sources)
         ai_html += f"""
                     <div class="ai-block">
                         <div class="ai-block-title">RSS 深度洞察</div>
@@ -344,7 +360,7 @@ def render_ai_analysis_html_rich(result: AIAnalysisResult) -> str:
 
     if result.outlook_strategy:
         content = _format_list_content(result.outlook_strategy)
-        content_html = _escape_html(content).replace("\n", "<br>")
+        content_html = _render_citations(content, result.sources)
         ai_html += f"""
                     <div class="ai-block">
                         <div class="ai-block-title">研判策略建议</div>
@@ -354,7 +370,7 @@ def render_ai_analysis_html_rich(result: AIAnalysisResult) -> str:
     if result.standalone_summaries:
         summaries_text = _format_standalone_summaries(result.standalone_summaries)
         if summaries_text:
-            summaries_html = _escape_html(summaries_text).replace("\n", "<br>")
+            summaries_html = _render_citations(summaries_text, result.sources)
             ai_html += f"""
                     <div class="ai-block">
                         <div class="ai-block-title">独立源点速览</div>

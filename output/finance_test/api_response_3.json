@@ -1,0 +1,20 @@
+{
+  "model": "deepseek-flash",
+  "finish_reason": "stop",
+  "content": "```json\n[\n  {\"id\": 226, \"tag_id\": 1, \"score\": 0.6},\n  {\"id\": 237, \"tag_id\": 9, \"score\": 0.6},\n  {\"id\": 246, \"tag_id\": 9, \"score\": 0.9},\n  {\"id\": 255, \"tag_id\": 9, \"score\": 0.7}\n]\n```",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1728,
+    "total_tokens": 1822,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 384,
+      "text_tokens": null,
+      "image_tokens": null,
+      "video_tokens": null
+    },
+    "prompt_cache_hit_tokens": 384,
+    "prompt_cache_miss_tokens": 1344
+  }
+}

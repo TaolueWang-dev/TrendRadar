@@ -1,0 +1,54 @@
+配置文件加载成功: /Users/sk/TrendRadar/config/config.yaml
+[调度] timeline.yaml 加载成功: /Users/sk/TrendRadar/config/timeline.yaml
+未配置任何通知渠道
+TrendRadar v6.10.0 配置加载完成
+监控平台数量: 11
+时区: Asia/Shanghai
+本地环境，未启用代理
+[存储管理器] 使用本地存储后端 (数据目录: /Users/sk/TrendRadar/output/finance_test/output)
+存储后端: local
+TEST: 2026-09-20 stored snapshot; financial prompt; notifications disabled
+[存储] 从存储后端检测到 255 条新增标题
+当前监控平台: ['toutiao', 'baidu', 'wallstreetcn-hot', 'thepaper', 'bilibili-hot-search', 'cls-hot', 'ifeng', 'tieba', 'weibo', 'douyin', 'zhihu']
+[存储] 已从存储后端读取 255 条标题
+读取到 255 个标题（已按当前监控平台过滤）
+[存储] 从存储后端检测到 255 条新增标题
+current模式：使用过滤后的历史数据，包含平台：['baidu', 'bilibili-hot-search', 'cls-hot', 'douyin', 'ifeng', 'thepaper', 'tieba', 'toutiao', 'wallstreetcn-hot', 'weibo', 'zhihu']
+[筛选] 使用 AI 智能筛选策略
+[AI筛选] 首次运行 (finance_test.txt)，提取标签...
+[AI筛选] 提取到 12 个标签
+   港股市场: 香港股市行情、恒生指数、港股个股、南向资金、港股IPO及港交所相关政策动态
+   美股市场: 美国股市行情、道琼斯/纳斯达克/标普500指数、美股个股、中概股、美股IPO及退市动态
+   宏观经济: 全球及主要经济体GDP、通胀、就业、消费、PMI等经济数据与增长前景讨论
+   货币政策: 美联储、中国人民银行、欧洲央行等央行的利率决议、QE/QT、流动性操作及官员讲话
+   企业业绩: 上市公司财报、业绩预告、盈利指引、营收利润变化及分析师评级调整
+   产业供需: 行业供需格局、产能变化、库存周期、价格走势（如芯片、能源、原材料、新能源等）
+   监管政策: 证券监管、反垄断、行业整顿、合规要求、跨境审计及上市公司相关法规变化
+   资本流动: 外资进出、跨境资金流向、南向/北向资金、美元流动性及全球资产配置动向
+   科技行业: 半导体、人工智能、互联网、消费电子、软件云计算等科技产业与公司动态
+   地缘政治: 中美关系、贸易摩擦、制裁出口管制、地区冲突等对金融市场和行业有影响的地缘事件
+   公司动态: 上市公司并购重组、分拆上市、管理层变动、股权融资、回购分红等重大企业事件
+   金融市场: 债券、汇率、大宗商品、加密货币等跨资产市场走势及其对股港美市场的影响
+[AI筛选] 已保存 12 个标签 (版本 1)
+[AI筛选] 使用 12 个标签
+[AI筛选] 热榜: 总计 255 条, 已分析跳过 0 条, 本次发送AI分析 255 条
+[AI筛选] 热榜批次 1: 200 条 → 51 条匹配
+[AI筛选] 批次间隔等待 2 秒...
+[AI筛选] 热榜批次 2: 55 条 → 4 条匹配
+[AI筛选] 保存 55 条分类结果
+[AI筛选] 已记录 255 条新闻分析状态 (匹配 55, 不匹配 200)
+[筛选] AI 筛选完成: 55 条匹配, 10 个标签
+[AI筛选] current 模式：最新时间 14-03，过滤已下榜新闻
+[AI筛选] 分数过滤：min_score=0.7，保留 32 条 score≥0.7 (热榜 32 条)
+[AI] 正在进行 AI 分析...
+[AI] 模型: deepseek/​deepseek-v4-flash
+[AI] Key : sk-de******
+[AI] 参数: timeout=120, max_tokens=5000
+[AI] 分析完成
+新增热点过滤后：32 条保留（原始 255 条）
+HTML报告已生成: output/html/2026-09-20/15-04.html
+最新报告已更新: output/html/latest/current.html
+跳过当前榜单通知：通知功能已禁用
+TEST_REPORT: output/html/2026-09-20/15-04.html
+[本地存储] 关闭数据库连接: /Users/sk/TrendRadar/output/finance_test/output/news/2026-09-20.db
+[本地存储] 关闭数据库连接: /Users/sk/TrendRadar/output/finance_test/output/rss/2026-09-20.db

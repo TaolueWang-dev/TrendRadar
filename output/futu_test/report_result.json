@@ -1,0 +1,309 @@
+{
+  "ai_requested": false,
+  "stats": [
+    {
+      "word": "采集预览：完整标题，不代表热点判定",
+      "count": 14,
+      "position": 0,
+      "titles": [
+        {
+          "title": "纳斯达克100季度调整生效在即！SpaceX权重将翻倍至2.82%",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79509379?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 1
+            }
+          ]
+        },
+        {
+          "title": "每日空头追踪：SpaceX(SPCX.US)卖空量激增6,657.85万，卖空成交比例达23%",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79503727?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "title": "Coinbase (COIN.US) 冲刺美股永续合约：苹果 (AAPL.US) 特斯拉 (TSLA.US) 英伟达 (NVDA.US) 在列",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79498307?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 3
+            }
+          ]
+        },
+        {
+          "title": "英伟达CEO黄仁勋拒绝放缓AI开发的呼声：“我们将以最快的速度推进，但是……”",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            4
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79501229?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "title": "AI数据中心公司Nscale公开递交美股IPO申请，英伟达持股超5%",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79496249?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 5
+            }
+          ]
+        },
+        {
+          "title": "PowerShares标普500优质投资组合将于2026年9月21日除权除息，1股派股息0.15411USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79496738?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 6
+            }
+          ]
+        },
+        {
+          "title": "纳斯达克100季度调整生效在即 SpaceX权重将翻倍至2.82%",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79510715?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 7
+            }
+          ]
+        },
+        {
+          "title": "PowerShares标普500高股利低波动将于2026年9月21日除权除息，1股派股息0.20156USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79496765?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 8
+            }
+          ]
+        },
+        {
+          "title": "纳斯达克100备兑看涨期权ETF-Global X将于2026年9月21日除权除息，1股派股息0.1767USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79496809?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 9
+            }
+          ]
+        },
+        {
+          "title": "PowerShares标普500下行对冲组合将于2026年9月21日除权除息，1股派股息0.12448USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79496754?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 10
+            }
+          ]
+        },
+        {
+          "title": "标普500等权重通信服务ETF-Invesco将于2026年9月21日除权除息，1股派股息0.09991USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            11
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79496907?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 11
+            }
+          ]
+        },
+        {
+          "title": "华夏纳斯达克100交易型开放式指数证券投资基金(QDII)二级市场交易价格溢价风险提示及临时停牌公告",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            12
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/notice/308163129?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 12
+            }
+          ]
+        },
+        {
+          "title": "PowerShares标普500BuyWrite组合将于2026年9月21日除权除息，1股派股息0.18863USD",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            13
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/post/79496745?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 13
+            }
+          ]
+        },
+        {
+          "title": "华夏标普500交易型开放式指数证券投资基金(QDII)二级市场交易价格溢价风险提示公告",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "first_time": "16-48",
+          "last_time": "16-48",
+          "time_display": "16:48",
+          "count": 1,
+          "ranks": [
+            14
+          ],
+          "rank_threshold": 5,
+          "url": "https://news.futunn.com/notice/308163124?futusource=news_search_searchnews&src=39",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-48",
+              "rank": 14
+            }
+          ]
+        }
+      ],
+      "percentage": 100.0
+    }
+  ],
+  "html": "output/html/2026-09-20/16-48.html",
+  "analysis": null
+}

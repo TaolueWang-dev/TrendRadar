@@ -20,6 +20,9 @@ dependencies = [
 trendradar = "trendradar.__main__:main"
 trendradar-mcp = "mcp_server.server:run_server"
 
+[project.optional-dependencies]
+futu = ["futu-api==10.10.7008"]
+
 [dependency-groups]
 dev = []
 

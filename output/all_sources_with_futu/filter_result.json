@@ -1,0 +1,2674 @@
+{
+  "tags": [
+    {
+      "tag": "港股市场",
+      "description": "港股大盘走势、恒生指数、港股通资金流向、港股个股异动等香港股票市场相关新闻",
+      "position": 1,
+      "count": 80,
+      "items": [
+        {
+          "title": "腾讯控股",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/00700",
+          "mobile_url": "",
+          "rank": 11,
+          "ranks": [
+            11
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "贵州茅台",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH600519",
+          "mobile_url": "",
+          "rank": 24,
+          "ranks": [
+            24
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "小米集团-W（01810）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01810/",
+          "mobile_url": "",
+          "rank": 1,
+          "ranks": [
+            1
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "腾讯控股（00700）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00700/",
+          "mobile_url": "",
+          "rank": 2,
+          "ranks": [
+            2
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "智谱（02513）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02513/",
+          "mobile_url": "",
+          "rank": 3,
+          "ranks": [
+            3
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "英矽智能（03696）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03696/",
+          "mobile_url": "",
+          "rank": 4,
+          "ranks": [
+            4
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "阿里巴巴-W（09988）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09988/",
+          "mobile_url": "",
+          "rank": 5,
+          "ranks": [
+            5
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "MINIMAX-W（00100）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00100/",
+          "mobile_url": "",
+          "rank": 6,
+          "ranks": [
+            6
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "晶泰控股（02228）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02228/",
+          "mobile_url": "",
+          "rank": 7,
+          "ranks": [
+            7
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "泡泡玛特（09992）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09992/",
+          "mobile_url": "",
+          "rank": 8,
+          "ranks": [
+            8
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "三环集团（06951）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06951/",
+          "mobile_url": "",
+          "rank": 9,
+          "ranks": [
+            9
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "兆易创新（03986）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03986/",
+          "mobile_url": "",
+          "rank": 10,
+          "ranks": [
+            10
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "联想集团（00992）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00992/",
+          "mobile_url": "",
+          "rank": 11,
+          "ranks": [
+            11
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "美团-W（03690）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03690/",
+          "mobile_url": "",
+          "rank": 12,
+          "ranks": [
+            12
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "中创新航（03931）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03931/",
+          "mobile_url": "",
+          "rank": 13,
+          "ranks": [
+            13
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "金斯瑞生物科技（01548）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01548/",
+          "mobile_url": "",
+          "rank": 14,
+          "ranks": [
+            14
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "快手-W（01024）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01024/",
+          "mobile_url": "",
+          "rank": 15,
+          "ranks": [
+            15
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "中芯国际（00981）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00981/",
+          "mobile_url": "",
+          "rank": 16,
+          "ranks": [
+            16
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "宁德时代（03750）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03750/",
+          "mobile_url": "",
+          "rank": 17,
+          "ranks": [
+            17
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "建滔积层板（01888）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01888/",
+          "mobile_url": "",
+          "rank": 18,
+          "ranks": [
+            18
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "赛力斯（09927）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09927/",
+          "mobile_url": "",
+          "rank": 19,
+          "ranks": [
+            19
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "中际旭创（03308）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK03308/",
+          "mobile_url": "",
+          "rank": 20,
+          "ranks": [
+            20
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "信达生物（01801）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01801/",
+          "mobile_url": "",
+          "rank": 21,
+          "ranks": [
+            21
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "长飞光纤光缆（06869）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06869/",
+          "mobile_url": "",
+          "rank": 22,
+          "ranks": [
+            22
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "理想汽车-W（02015）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02015/",
+          "mobile_url": "",
+          "rank": 23,
+          "ranks": [
+            23
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "壁仞科技（06082）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06082/",
+          "mobile_url": "",
+          "rank": 24,
+          "ranks": [
+            24
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "零跑汽车（09863）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09863/",
+          "mobile_url": "",
+          "rank": 25,
+          "ranks": [
+            25
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "药明康德（02359）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02359/",
+          "mobile_url": "",
+          "rank": 26,
+          "ranks": [
+            26
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "力勤资源（02245）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02245/",
+          "mobile_url": "",
+          "rank": 27,
+          "ranks": [
+            27
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "胜宏科技（02476）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02476/",
+          "mobile_url": "",
+          "rank": 28,
+          "ranks": [
+            28
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "小鹏集团-W（09868）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09868/",
+          "mobile_url": "",
+          "rank": 29,
+          "ranks": [
+            29
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "优必选（09880）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09880/",
+          "mobile_url": "",
+          "rank": 30,
+          "ranks": [
+            30
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "商汤-W（00020）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00020/",
+          "mobile_url": "",
+          "rank": 31,
+          "ranks": [
+            31
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "融创中国（01918）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01918/",
+          "mobile_url": "",
+          "rank": 32,
+          "ranks": [
+            32
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "澜起科技（06809）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06809/",
+          "mobile_url": "",
+          "rank": 33,
+          "ranks": [
+            33
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "海底捞（06862）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK06862/",
+          "mobile_url": "",
+          "rank": 34,
+          "ranks": [
+            34
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "地平线机器人-W（09660）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09660/",
+          "mobile_url": "",
+          "rank": 35,
+          "ranks": [
+            35
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "蜜雪集团（02097）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02097/",
+          "mobile_url": "",
+          "rank": 36,
+          "ranks": [
+            36
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "吉利汽车（00175）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00175/",
+          "mobile_url": "",
+          "rank": 37,
+          "ranks": [
+            37
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "剂泰科技-P（07666）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK07666/",
+          "mobile_url": "",
+          "rank": 38,
+          "ranks": [
+            38
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "华虹宏力（01347）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01347/",
+          "mobile_url": "",
+          "rank": 39,
+          "ranks": [
+            39
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "天数智芯（09903）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09903/",
+          "mobile_url": "",
+          "rank": 40,
+          "ranks": [
+            40
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "建滔集团（00148）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK00148/",
+          "mobile_url": "",
+          "rank": 41,
+          "ranks": [
+            41
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "曦智科技-P（01879）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01879/",
+          "mobile_url": "",
+          "rank": 42,
+          "ranks": [
+            42
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "万科企业（02202）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02202/",
+          "mobile_url": "",
+          "rank": 43,
+          "ranks": [
+            43
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "比亚迪股份（01211）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK01211/",
+          "mobile_url": "",
+          "rank": 44,
+          "ranks": [
+            44
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "康方生物（09926）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09926/",
+          "mobile_url": "",
+          "rank": 45,
+          "ranks": [
+            45
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "蔚来-SW（09866）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09866/",
+          "mobile_url": "",
+          "rank": 46,
+          "ranks": [
+            46
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "碧桂园（02007）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02007/",
+          "mobile_url": "",
+          "rank": 47,
+          "ranks": [
+            47
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "药明生物（02269）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK02269/",
+          "mobile_url": "",
+          "rank": 48,
+          "ranks": [
+            48
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "农夫山泉（09633）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09633/",
+          "mobile_url": "",
+          "rank": 49,
+          "ranks": [
+            49
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "江波龙（09976）进入港股人气榜；仅代表关注度",
+          "source_id": "finance-ths",
+          "source_name": "同花顺港股人气榜（仅关注度）",
+          "url": "https://stockpage.10jqka.com.cn/HK09976/",
+          "mobile_url": "",
+          "rank": 50,
+          "ranks": [
+            50
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "A股或迎牛市第三阶段 普通人怎么应对",
+          "source_id": "toutiao",
+          "source_name": "今日头条",
+          "url": "https://www.toutiao.com/trending/7687484876357897755/",
+          "mobile_url": "",
+          "rank": 4,
+          "ranks": [
+            4
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "中钨高新",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ000657",
+          "mobile_url": "",
+          "rank": 1,
+          "ranks": [
+            1
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "C沈鼓",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH601091",
+          "mobile_url": "",
+          "rank": 2,
+          "ranks": [
+            2
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "阳光电源",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ300274",
+          "mobile_url": "",
+          "rank": 3,
+          "ranks": [
+            3
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "胜蓝股份",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ300843",
+          "mobile_url": "",
+          "rank": 4,
+          "ranks": [
+            4
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "长鑫科技",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH688825",
+          "mobile_url": "",
+          "rank": 5,
+          "ranks": [
+            5
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "会稽山",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH601579",
+          "mobile_url": "",
+          "rank": 6,
+          "ranks": [
+            6
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "招商轮船",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH601872",
+          "mobile_url": "",
+          "rank": 7,
+          "ranks": [
+            7
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "宁德时代",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ300750",
+          "mobile_url": "",
+          "rank": 8,
+          "ranks": [
+            8
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "智谱",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/02513",
+          "mobile_url": "",
+          "rank": 9,
+          "ranks": [
+            9
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "五粮液",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ000858",
+          "mobile_url": "",
+          "rank": 10,
+          "ranks": [
+            10
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "罗博特科",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ300757",
+          "mobile_url": "",
+          "rank": 12,
+          "ranks": [
+            12
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "胜宏科技",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ300476",
+          "mobile_url": "",
+          "rank": 13,
+          "ranks": [
+            13
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "药明康德",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH603259",
+          "mobile_url": "",
+          "rank": 14,
+          "ranks": [
+            14
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "新华传媒",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH600825",
+          "mobile_url": "",
+          "rank": 15,
+          "ranks": [
+            15
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "比亚迪",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ002594",
+          "mobile_url": "",
+          "rank": 16,
+          "ranks": [
+            16
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "兆易创新",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH603986",
+          "mobile_url": "",
+          "rank": 17,
+          "ranks": [
+            17
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "中际旭创",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ300308",
+          "mobile_url": "",
+          "rank": 18,
+          "ranks": [
+            18
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "紫金矿业",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH601899",
+          "mobile_url": "",
+          "rank": 19,
+          "ranks": [
+            19
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "中信出版",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ300788",
+          "mobile_url": "",
+          "rank": 20,
+          "ranks": [
+            20
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "中船特气",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH688146",
+          "mobile_url": "",
+          "rank": 21,
+          "ranks": [
+            21
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "风华高科",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ000636",
+          "mobile_url": "",
+          "rank": 22,
+          "ranks": [
+            22
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "剑桥科技",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH603083",
+          "mobile_url": "",
+          "rank": 23,
+          "ranks": [
+            23
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "盛和资源",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SH600392",
+          "mobile_url": "",
+          "rank": 25,
+          "ranks": [
+            25
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "康方生物",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/09926",
+          "mobile_url": "",
+          "rank": 26,
+          "ranks": [
+            26
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "英矽智能",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/03696",
+          "mobile_url": "",
+          "rank": 27,
+          "ranks": [
+            27
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "格力电器",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ000651",
+          "mobile_url": "",
+          "rank": 29,
+          "ranks": [
+            29
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "三环集团",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SZ300408",
+          "mobile_url": "",
+          "rank": 30,
+          "ranks": [
+            30
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        }
+      ]
+    },
+    {
+      "tag": "美股市场",
+      "description": "美股大盘走势、标普500、纳斯达克、道琼斯、中概股、美股个股表现等美国股票市场相关新闻",
+      "position": 2,
+      "count": 21,
+      "items": [
+        {
+          "title": "纳斯达克100季度调整生效在即！SpaceX权重将翻倍至2.82%",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79509379?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 1,
+          "ranks": [
+            1
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "每日空头追踪：SpaceX(SPCX.US)卖空量激增6,657.85万，卖空成交比例达23%",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79503727?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 2,
+          "ranks": [
+            2
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "Coinbase (COIN.US) 冲刺美股永续合约：苹果 (AAPL.US) 特斯拉 (TSLA.US) 英伟达 (NVDA.US) 在列",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79498307?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 3,
+          "ranks": [
+            3
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "AI数据中心公司Nscale公开递交美股IPO申请，英伟达持股超5%",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496249?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 5,
+          "ranks": [
+            5
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "纳斯达克100季度调整生效在即 SpaceX权重将翻倍至2.82%",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79510715?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 7,
+          "ranks": [
+            7
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "华夏纳斯达克100交易型开放式指数证券投资基金(QDII)二级市场交易价格溢价风险提示及临时停牌公告",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/notice/308163129?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 12,
+          "ranks": [
+            12
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "华夏标普500交易型开放式指数证券投资基金(QDII)二级市场交易价格溢价风险提示公告",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/notice/308163124?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 14,
+          "ranks": [
+            14
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "PowerShares标普500优质投资组合将于2026年9月21日除权除息，1股派股息0.15411USD",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496738?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 6,
+          "ranks": [
+            6
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "PowerShares标普500高股利低波动将于2026年9月21日除权除息，1股派股息0.20156USD",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496765?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 8,
+          "ranks": [
+            8
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "纳斯达克100备兑看涨期权ETF-Global X将于2026年9月21日除权除息，1股派股息0.1767USD",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496809?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 9,
+          "ranks": [
+            9
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "PowerShares标普500下行对冲组合将于2026年9月21日除权除息，1股派股息0.12448USD",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496754?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 10,
+          "ranks": [
+            10
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "标普500等权重通信服务ETF-Invesco将于2026年9月21日除权除息，1股派股息0.09991USD",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496907?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 11,
+          "ranks": [
+            11
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "PowerShares标普500BuyWrite组合将于2026年9月21日除权除息，1股派股息0.18863USD",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79496745?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 13,
+          "ranks": [
+            13
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "英伟达CEO黄仁勋拒绝放缓AI开发的呼声：“我们将以最快的速度推进，但是……”",
+          "source_id": "finance-futu-news",
+          "source_name": "富途资讯（采样窗口内阅读量排序）",
+          "url": "https://news.futunn.com/post/79501229?futusource=news_search_searchnews&src=39",
+          "mobile_url": "",
+          "rank": 4,
+          "ranks": [
+            4
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "闪迪",
+          "source_id": "xueqiu-hotstock",
+          "source_name": "雪球热门股票",
+          "url": "https://xueqiu.com/s/SNDK",
+          "mobile_url": "",
+          "rank": 28,
+          "ranks": [
+            28
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "Wheaton’s (WPM) Profits Nearly Doubled While Its Cash Pile Shrank To $100M",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/wheaton-wpm-profits-nearly-doubled-102712259.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:27:12",
+          "last_time": "2026-09-19T10:27:12",
+          "count": 1,
+          "relevance_score": 0.8,
+          "source_type": "rss"
+        },
+        {
+          "title": "Digital Realty (DLR): Can a Data Center Landlord Become the Control Panel for Enterprise AI?",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/technology/ai/articles/digital-realty-dlr-data-center-103118086.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:31:18",
+          "last_time": "2026-09-19T10:31:18",
+          "count": 1,
+          "relevance_score": 0.8,
+          "source_type": "rss"
+        },
+        {
+          "title": "Republic Services (RSG) Is Winning On Price While Volumes Slip",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-rsg-winning-price-104333739.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:43:33",
+          "last_time": "2026-09-19T10:43:33",
+          "count": 1,
+          "relevance_score": 0.8,
+          "source_type": "rss"
+        },
+        {
+          "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-1-25b-104710556.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:47:10",
+          "last_time": "2026-09-19T10:47:10",
+          "count": 1,
+          "relevance_score": 0.8,
+          "source_type": "rss"
+        },
+        {
+          "title": "Simon Property (SPG) Group Raised Its Outlook Again",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/real-estate/articles/simon-property-spg-group-raised-105326029.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:53:26",
+          "last_time": "2026-09-19T10:53:26",
+          "count": 1,
+          "relevance_score": 0.8,
+          "source_type": "rss"
+        },
+        {
+          "title": "80-year-old discount fashion chain closing 120 stores",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T23:02:22",
+          "last_time": "2026-09-19T23:02:22",
+          "count": 1,
+          "relevance_score": 0.6,
+          "source_type": "rss"
+        }
+      ]
+    },
+    {
+      "tag": "宏观经济",
+      "description": "全球及主要经济体GDP、通胀、就业、消费、PMI等经济数据与增长前景讨论",
+      "position": 3,
+      "count": 7,
+      "items": [
+        {
+          "title": "从数据里读懂中国经济韧性",
+          "source_id": "weibo",
+          "source_name": "微博",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%95%B0%E6%8D%AE%E9%87%8C%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7%23",
+          "mobile_url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%95%B0%E6%8D%AE%E9%87%8C%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7%23&t=31&band_rank=3&Refer=top",
+          "rank": 3,
+          "ranks": [
+            3
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "如何看待经济学人此前「发达国家正滑向财政危机」的报道？历史上出现财政危机的原因主要有哪些？",
+          "source_id": "zhihu",
+          "source_name": "知乎",
+          "url": "https://www.zhihu.com/question/2084940384157659685",
+          "mobile_url": "",
+          "rank": 13,
+          "ranks": [
+            13
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "7000亿蒸发背后 城市大洗牌开始",
+          "source_id": "baidu",
+          "source_name": "百度热搜",
+          "url": "https://www.baidu.com/s?wd=7000%E4%BA%BF%E8%92%B8%E5%8F%91%E8%83%8C%E5%90%8E+%E5%9F%8E%E5%B8%82%E5%A4%A7%E6%B4%97%E7%89%8C%E5%BC%80%E5%A7%8B",
+          "mobile_url": "",
+          "rank": 30,
+          "ranks": [
+            30
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "A股中长期利好！“三高”席卷全球 中国逆势突围的背后逻辑",
+          "source_id": "finance-dongcai-hotnews",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879276788.html",
+          "mobile_url": "",
+          "rank": 4,
+          "ranks": [
+            4
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "名古屋亚运会漏算中国首金",
+          "source_id": "weibo",
+          "source_name": "微博",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%BC%8F%E7%AE%97%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%87%91%23",
+          "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%BC%8F%E7%AE%97%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%87%91%23&t=31&band_rank=26&Refer=top",
+          "rank": 26,
+          "ranks": [
+            26
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.4,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "Americans say they’re ready for retirement — but most aren’t actually prepared. How to know which camp you belong to",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/markets/articles/americans-ready-retirement-most-aren-100000604.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:00:00",
+          "last_time": "2026-09-19T10:00:00",
+          "count": 1,
+          "relevance_score": 0.5,
+          "source_type": "rss"
+        },
+        {
+          "title": "Americans lose up to $2,400 a year to 'ghost charges' — 4 steps to find every phantom drain and redirect the cash",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/markets/articles/americans-lose-2-400-ghost-103000327.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:30:00",
+          "last_time": "2026-09-19T10:30:00",
+          "count": 1,
+          "relevance_score": 0.5,
+          "source_type": "rss"
+        }
+      ]
+    },
+    {
+      "tag": "货币政策",
+      "description": "美联储、欧洲央行、中国人民银行等央行的利率决议、加息降息、QE、缩表及流动性操作",
+      "position": 4,
+      "count": 5,
+      "items": [
+        {
+          "title": "高盛：市场“定价4次加息”过于悲观，年底有“全资产上涨”交易窗口",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782148",
+          "mobile_url": "",
+          "rank": 7,
+          "ranks": [
+            7
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "银行存款的春天回来了吗",
+          "source_id": "toutiao",
+          "source_name": "今日头条",
+          "url": "https://www.toutiao.com/trending/7687467030584233515/",
+          "mobile_url": "",
+          "rank": 6,
+          "ranks": [
+            6
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.5,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "你的存款该如何保值",
+          "source_id": "toutiao",
+          "source_name": "今日头条",
+          "url": "https://www.toutiao.com/trending/7687527706895846931/",
+          "mobile_url": "",
+          "rank": 24,
+          "ranks": [
+            24
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.5,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:00:00",
+          "last_time": "2026-09-19T10:00:00",
+          "count": 1,
+          "relevance_score": 0.7,
+          "source_type": "rss"
+        },
+        {
+          "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:00:00",
+          "last_time": "2026-09-19T10:00:00",
+          "count": 1,
+          "relevance_score": 0.6,
+          "source_type": "rss"
+        }
+      ]
+    },
+    {
+      "tag": "产业供需",
+      "description": "行业产能、库存、订单、供应链、原材料价格、供需格局变化等产业基本面新闻",
+      "position": 6,
+      "count": 8,
+      "items": [
+        {
+          "title": "AI重塑MLCC供需格局！高端产品订单排至2027年 缺货涨价潮仍在延续(附股)",
+          "source_id": "finance-dongcai-hotnews",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879293041.html",
+          "mobile_url": "",
+          "rank": 7,
+          "ranks": [
+            7
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "内存硬盘涨完价 显示器接力涨",
+          "source_id": "baidu",
+          "source_name": "百度热搜",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E7%A1%AC%E7%9B%98%E6%B6%A8%E5%AE%8C%E4%BB%B7+%E6%98%BE%E7%A4%BA%E5%99%A8%E6%8E%A5%E5%8A%9B%E6%B6%A8",
+          "mobile_url": "",
+          "rank": 18,
+          "ranks": [
+            18
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "“炼油”成为全球能源瓶颈，美国距离“出口禁令”不远了？",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782139",
+          "mobile_url": "",
+          "rank": 2,
+          "ranks": [
+            2
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "超级油轮短缺！全球油运成本“从未如此之高”，“海事史上最大豪赌”赚翻了",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782146",
+          "mobile_url": "",
+          "rank": 8,
+          "ranks": [
+            8
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "最高涨十倍！“电子工业大米”，价格飙涨",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487974",
+          "mobile_url": "",
+          "rank": 5,
+          "ranks": [
+            5
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "“一小时一个价”！“电子工业大米” 价格飙涨！最高涨十倍",
+          "source_id": "finance-dongcai-hotnews",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879272237.html",
+          "mobile_url": "",
+          "rank": 2,
+          "ranks": [
+            2
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "摩根大通给出“时间表”：“厄尔尼诺”对全球农业最大影响在“明年一季度”",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782142",
+          "mobile_url": "",
+          "rank": 3,
+          "ranks": [
+            3
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "沙特又找到一条“运油路线”，但代价高昂",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782136",
+          "mobile_url": "",
+          "rank": 6,
+          "ranks": [
+            6
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        }
+      ]
+    },
+    {
+      "tag": "监管政策",
+      "description": "证券监管、行业整顿、反垄断、合规处罚、上市退市规则等监管层面动态",
+      "position": 7,
+      "count": 7,
+      "items": [
+        {
+          "title": "交易25亿，亏损9206万！中泰证券一员工代客操盘被罚",
+          "source_id": "thepaper",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34104455",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34104455",
+          "rank": 6,
+          "ranks": [
+            6
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争",
+          "source_id": "thepaper",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34107598",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34107598",
+          "rank": 12,
+          "ranks": [
+            12
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "上市两日暴涨1200% 沈鼓集团部分投资者遭暂停账户交易 发生了什么？",
+          "source_id": "finance-dongcai-hotnews",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879281496.html",
+          "mobile_url": "",
+          "rank": 8,
+          "ranks": [
+            8
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "马上评｜退休警察“代持”上亿股权，能用法院判决洗白？",
+          "source_id": "thepaper",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34108588",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34108588",
+          "rank": 11,
+          "ranks": [
+            11
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "西贝被曝将倒闭,贾国龙揽债务",
+          "source_id": "tieba",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%A5%BF%E8%B4%9D%E8%A2%AB%E6%9B%9D%E5%B0%86%E5%80%92%E9%97%AD%2C%E8%B4%BE%E5%9B%BD%E9%BE%99%E6%8F%BD%E5%80%BA%E5%8A%A1&topic_id=28364860",
+          "mobile_url": "",
+          "rank": 18,
+          "ranks": [
+            18
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "“装毒花生电动车被盗”系谣言",
+          "source_id": "douyin",
+          "source_name": "抖音",
+          "url": "https://www.douyin.com/hot/2657529",
+          "mobile_url": "",
+          "rank": 13,
+          "ranks": [
+            13
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "曝西贝已起诉",
+          "source_id": "weibo",
+          "source_name": "微博",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%A5%BF%E8%B4%9D%E5%B7%B2%E8%B5%B7%E8%AF%89",
+          "mobile_url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%A5%BF%E8%B4%9D%E5%B7%B2%E8%B5%B7%E8%AF%89&t=31&band_rank=7&Refer=top",
+          "rank": 7,
+          "ranks": [
+            7
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.5,
+          "source_type": "hotlist"
+        }
+      ]
+    },
+    {
+      "tag": "资本流动",
+      "description": "北向资金、南向资金、跨境资金流向、外资增减持、IPO与再融资等资金动向",
+      "position": 8,
+      "count": 4,
+      "items": [
+        {
+          "title": "【早报】公积金新规，今日实施；史上最大IPO，时间推迟；黄仁勋减持英伟达",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487953",
+          "mobile_url": "",
+          "rank": 1,
+          "ranks": [
+            1
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "“委内瑞拉正考虑，将40亿美元黄金储备从英国移到美国”",
+          "source_id": "ifeng",
+          "source_name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wYWQD93AMB",
+          "mobile_url": "",
+          "rank": 7,
+          "ranks": [
+            7
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "资金再次转向科技！超140亿元涌入这一方向",
+          "source_id": "finance-dongcai-hotnews",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609193879254152.html",
+          "mobile_url": "",
+          "rank": 3,
+          "ranks": [
+            3
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "黄仁勋减持英伟达？被代扣4.57万股用于缴税 CFO套现765万美元",
+          "source_id": "finance-dongcai-hotnews",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609193879259839.html",
+          "mobile_url": "",
+          "rank": 10,
+          "ranks": [
+            10
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        }
+      ]
+    },
+    {
+      "tag": "科技行业",
+      "description": "半导体、人工智能、互联网平台、消费电子、云计算、新能源科技等科技产业及上市公司相关新闻",
+      "position": 9,
+      "count": 15,
+      "items": [
+        {
+          "title": "长鑫科技宣布第五代技术平台正式量产",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2488091",
+          "mobile_url": "",
+          "rank": 9,
+          "ranks": [
+            9
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "甲骨文180亿AI贷款折价滞销，AI融资链压力浮现",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782134",
+          "mobile_url": "",
+          "rank": 1,
+          "ranks": [
+            1
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "智谱ZCode偷传代码风波追踪：Agent的数据行为谁来审计？",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782133",
+          "mobile_url": "",
+          "rank": 9,
+          "ranks": [
+            9
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "AI四巨头遭到起诉：放缓AI发展的联合表态是非法协议",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2488018",
+          "mobile_url": "",
+          "rank": 10,
+          "ranks": [
+            10
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "单机价值量翻3倍！折叠屏手机推新潮带热FPC AI眼镜或成放量“下一站”",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2488053",
+          "mobile_url": "",
+          "rank": 11,
+          "ranks": [
+            11
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "智谱AI偷传用户数据,滑跪开源",
+          "source_id": "tieba",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%99%BA%E8%B0%B1AI%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%2C%E6%BB%91%E8%B7%AA%E5%BC%80%E6%BA%90&topic_id=28364848",
+          "mobile_url": "",
+          "rank": 22,
+          "ranks": [
+            22
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782144",
+          "mobile_url": "",
+          "rank": 10,
+          "ranks": [
+            10
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487942",
+          "mobile_url": "",
+          "rank": 12,
+          "ranks": [
+            12
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "DS中英文无缝切换戏耍用户",
+          "source_id": "tieba",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DS%E4%B8%AD%E8%8B%B1%E6%96%87%E6%97%A0%E7%BC%9D%E5%88%87%E6%8D%A2%E6%88%8F%E8%80%8D%E7%94%A8%E6%88%B7&topic_id=28364923",
+          "mobile_url": "",
+          "rank": 14,
+          "ranks": [
+            14
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "AI剧迎严审,官方力挺真人剧",
+          "source_id": "tieba",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E5%89%A7%E8%BF%8E%E4%B8%A5%E5%AE%A1%2C%E5%AE%98%E6%96%B9%E5%8A%9B%E6%8C%BA%E7%9C%9F%E4%BA%BA%E5%89%A7&topic_id=28364800",
+          "mobile_url": "",
+          "rank": 19,
+          "ranks": [
+            19
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "老板患上了 AI 狂热症，连决策都让 AI 来做，感觉公司快完蛋了，员工该怎么办？",
+          "source_id": "zhihu",
+          "source_name": "知乎",
+          "url": "https://www.zhihu.com/question/2084250106556067853",
+          "mobile_url": "",
+          "rank": 2,
+          "ranks": [
+            2
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "北大复旦校长警告 AI 依赖，对教育意味着什么？该如何应对过度依赖 AI 导致的知识虚假掌握？",
+          "source_id": "zhihu",
+          "source_name": "知乎",
+          "url": "https://www.zhihu.com/question/2084620847411681228",
+          "mobile_url": "",
+          "rank": 20,
+          "ranks": [
+            20
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "苹果闹钟终于认中国调休了",
+          "source_id": "toutiao",
+          "source_name": "今日头条",
+          "url": "https://www.toutiao.com/trending/7686857734779883049/",
+          "mobile_url": "",
+          "rank": 21,
+          "ranks": [
+            21
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "美军轻信AI假情报,险冲中国船",
+          "source_id": "tieba",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8E%E5%86%9B%E8%BD%BB%E4%BF%A1AI%E5%81%87%E6%83%85%E6%8A%A5%2C%E9%99%A9%E5%86%B2%E4%B8%AD%E5%9B%BD%E8%88%B9&topic_id=28364870",
+          "mobile_url": "",
+          "rank": 21,
+          "ranks": [
+            21
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "小米18Pro星河蓝",
+          "source_id": "weibo",
+          "source_name": "微博",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Pro%E6%98%9F%E6%B2%B3%E8%93%9D%23",
+          "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Pro%E6%98%9F%E6%B2%B3%E8%93%9D%23&t=31&band_rank=20&Refer=top",
+          "rank": 20,
+          "ranks": [
+            20
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.6,
+          "source_type": "hotlist"
+        }
+      ]
+    },
+    {
+      "tag": "地缘政治",
+      "description": "中美关系、俄乌冲突、中东局势、贸易摩擦、出口管制等地缘事件对行业与上市公司的影响",
+      "position": 10,
+      "count": 12,
+      "items": [
+        {
+          "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782140",
+          "mobile_url": "",
+          "rank": 5,
+          "ranks": [
+            5
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "美对进口俄罗斯石油或天然气的第三国加征所谓“次级关税”，商务部回应",
+          "source_id": "thepaper",
+          "source_name": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34104940",
+          "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34104940",
+          "rank": 18,
+          "ranks": [
+            18
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487905",
+          "mobile_url": "",
+          "rank": 2,
+          "ranks": [
+            2
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487946",
+          "mobile_url": "",
+          "rank": 8,
+          "ranks": [
+            8
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "伊朗7个谈判条件曝光，增加了1项新内容",
+          "source_id": "ifeng",
+          "source_name": "凤凰网",
+          "url": "https://original.ifeng.com/c/8wZarodPVy4",
+          "mobile_url": "",
+          "rank": 6,
+          "ranks": [
+            6
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.9,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "胡塞武装称对沙特首都及关键原油设施发动袭击",
+          "source_id": "wallstreetcn-hot",
+          "source_name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3782143",
+          "mobile_url": "",
+          "rank": 4,
+          "ranks": [
+            4
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "沙特首都遭空袭",
+          "source_id": "bilibili-hot-search",
+          "source_name": "bilibili 热搜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E9%81%AD%E7%A9%BA%E8%A2%AD",
+          "mobile_url": "",
+          "rank": 17,
+          "ranks": [
+            17
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "沙特首都利雅得遭空袭",
+          "source_id": "tieba",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E9%81%AD%E7%A9%BA%E8%A2%AD&topic_id=28364806",
+          "mobile_url": "",
+          "rank": 27,
+          "ranks": [
+            27
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "沙特豪掷百亿购置48架F35",
+          "source_id": "tieba",
+          "source_name": "贴吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B2%99%E7%89%B9%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E8%B4%AD%E7%BD%AE48%E6%9E%B6F35&topic_id=28364811",
+          "mobile_url": "",
+          "rank": 29,
+          "ranks": [
+            29
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "美对进口俄石油天然气第三国加征关税 商务部回应",
+          "source_id": "finance-dongcai-hotnews",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609193879247023.html",
+          "mobile_url": "",
+          "rank": 5,
+          "ranks": [
+            5
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
+          "source_id": "ifeng",
+          "source_name": "凤凰网",
+          "url": "https://news.ifeng.com/c/8wZnFcitScK",
+          "mobile_url": "",
+          "rank": 5,
+          "ranks": [
+            5
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "董建华公祭仪式在港举行",
+          "source_id": "douyin",
+          "source_name": "抖音",
+          "url": "https://www.douyin.com/hot/2657422",
+          "mobile_url": "",
+          "rank": 14,
+          "ranks": [
+            14
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.5,
+          "source_type": "hotlist"
+        }
+      ]
+    },
+    {
+      "tag": "政策动向",
+      "description": "财政政策、产业扶持政策、补贴、税收优惠、政府规划等对特定行业或上市公司有明确关联的政策新闻",
+      "position": 11,
+      "count": 4,
+      "items": [
+        {
+          "title": "明起实施！公积金功能，新变化",
+          "source_id": "cls-hot",
+          "source_name": "财联社热门",
+          "url": "https://www.cls.cn/detail/2487909",
+          "mobile_url": "",
+          "rank": 3,
+          "ranks": [
+            3
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.8,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "公积金新规正式施行",
+          "source_id": "weibo",
+          "source_name": "微博",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C",
+          "mobile_url": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C&t=31&band_rank=25&Refer=top",
+          "rank": 25,
+          "ranks": [
+            25
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "周末要闻汇总：国常会部署深入实施积极应对人口老龄化国家战略",
+          "source_id": "finance-dongcai-hotnews",
+          "source_name": "东方财富·网友点击排行榜",
+          "url": "https://finance.eastmoney.com/a/202609203879356443.html",
+          "mobile_url": "",
+          "rank": 9,
+          "ranks": [
+            9
+          ],
+          "first_time": "17-48",
+          "last_time": "17-48",
+          "count": 2,
+          "relevance_score": 0.7,
+          "source_type": "hotlist"
+        },
+        {
+          "title": "The US is being forced to reset Social Security — protect yourself now (especially if you're young or middle-aged)",
+          "source_id": "yahoo-finance",
+          "source_name": "雅虎财经",
+          "url": "https://finance.yahoo.com/economy/policy/articles/us-being-forced-reset-social-103500367.html",
+          "mobile_url": "",
+          "rank": 0,
+          "ranks": [],
+          "first_time": "2026-09-19T10:35:00",
+          "last_time": "2026-09-19T10:35:00",
+          "count": 1,
+          "relevance_score": 0.6,
+          "source_type": "rss"
+        }
+      ]
+    }
+  ],
+  "total_matched": 163,
+  "total_processed": 0,
+  "success": true,
+  "error": ""
+}

@@ -1,0 +1,20 @@
+{
+  "model": "deepseek-flash",
+  "finish_reason": "stop",
+  "content": "{\n  \"tags\": [\n    {\"tag\": \"港股市场\", \"description\": \"香港股市行情、恒生指数、港股个股、南向资金、港股IPO及港交所相关政策动态\"},\n    {\"tag\": \"美股市场\", \"description\": \"美国股市行情、道琼斯/纳斯达克/标普500指数、美股个股、中概股、美股IPO及退市动态\"},\n    {\"tag\": \"宏观经济\", \"description\": \"全球及主要经济体GDP、通胀、就业、消费、PMI等经济数据与增长前景讨论\"},\n    {\"tag\": \"货币政策\", \"description\": \"美联储、中国人民银行、欧洲央行等央行的利率决议、QE/QT、流动性操作及官员讲话\"},\n    {\"tag\": \"企业业绩\", \"description\": \"上市公司财报、业绩预告、盈利指引、营收利润变化及分析师评级调整\"},\n    {\"tag\": \"产业供需\", \"description\": \"行业供需格局、产能变化、库存周期、价格走势（如芯片、能源、原材料、新能源等）\"},\n    {\"tag\": \"监管政策\", \"description\": \"证券监管、反垄断、行业整顿、合规要求、跨境审计及上市公司相关法规变化\"},\n    {\"tag\": \"资本流动\", \"description\": \"外资进出、跨境资金流向、南向/北向资金、美元流动性及全球资产配置动向\"},\n    {\"tag\": \"科技行业\", \"description\": \"半导体、人工智能、互联网、消费电子、软件云计算等科技产业与公司动态\"},\n    {\"tag\": \"地缘政治\", \"description\": \"中美关系、贸易摩擦、制裁出口管制、地区冲突等对金融市场和行业有影响的地缘事件\"},\n    {\"tag\": \"公司动态\", \"description\": \"上市公司并购重组、分拆上市、管理层变动、股权融资、回购分红等重大企业事件\"},\n    {\"tag\": \"金融市场\", \"description\": \"债券、汇率、大宗商品、加密货币等跨资产市场走势及其对股港美市场的影响\"}\n  ]\n}",
+  "usage": {
+    "completion_tokens": 415,
+    "prompt_tokens": 257,
+    "total_tokens": 672,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "text_tokens": null,
+      "image_tokens": null,
+      "video_tokens": null
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 257
+  }
+}

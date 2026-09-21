@@ -1,0 +1,225 @@
+{
+  "ai_requested": false,
+  "stats": [
+    {
+      "word": "采集预览：完整标题，不代表热点判定",
+      "count": 10,
+      "position": 0,
+      "titles": [
+        {
+          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            1
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609203879266892.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 1
+            }
+          ]
+        },
+        {
+          "title": "“一小时一个价”！“电子工业大米” 价格飙涨！最高涨十倍",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            2
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609203879272237.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 2
+            }
+          ]
+        },
+        {
+          "title": "资金再次转向科技！超140亿元涌入这一方向",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            3
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609193879254152.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 3
+            }
+          ]
+        },
+        {
+          "title": "A股中长期利好！“三高”席卷全球 中国逆势突围的背后逻辑",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            4
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609203879276788.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 4
+            }
+          ]
+        },
+        {
+          "title": "美对进口俄石油天然气第三国加征关税 商务部回应",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            5
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609193879247023.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 5
+            }
+          ]
+        },
+        {
+          "title": "长鑫科技宣布第五代技术平台正式量产",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            6
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609203879304729.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 6
+            }
+          ]
+        },
+        {
+          "title": "AI重塑MLCC供需格局！高端产品订单排至2027年 缺货涨价潮仍在延续(附股)",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            7
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609203879293041.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 7
+            }
+          ]
+        },
+        {
+          "title": "上市两日暴涨1200% 沈鼓集团部分投资者遭暂停账户交易 发生了什么？",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            8
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609203879281496.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 8
+            }
+          ]
+        },
+        {
+          "title": "黄仁勋减持英伟达？被代扣4.57万股用于缴税 CFO套现765万美元",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            9
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609193879259839.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 9
+            }
+          ]
+        },
+        {
+          "title": "9月LPR不变：1年期3.0% 5年期以上3.5%",
+          "source_name": "东方财富·网友点击排行榜",
+          "first_time": "16-36",
+          "last_time": "16-36",
+          "time_display": "16:36",
+          "count": 1,
+          "ranks": [
+            10
+          ],
+          "rank_threshold": 5,
+          "url": "https://finance.eastmoney.com/a/202609203879283870.html",
+          "mobileUrl": "",
+          "is_new": true,
+          "rank_timeline": [
+            {
+              "time": "16-36",
+              "rank": 10
+            }
+          ]
+        }
+      ],
+      "percentage": 100.0
+    }
+  ],
+  "html": "output/html/2026-09-20/16-36.html",
+  "analysis": null
+}

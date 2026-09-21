@@ -1,0 +1,88 @@
+{
+  "results": {
+    "finance-dongcai-hotnews": {
+      "伊朗已向美方提出停战条件 等待特朗普政府回应": {
+        "ranks": [
+          1
+        ],
+        "url": "https://finance.eastmoney.com/a/202609203879266892.html",
+        "mobileUrl": ""
+      },
+      "“一小时一个价”！“电子工业大米” 价格飙涨！最高涨十倍": {
+        "ranks": [
+          2
+        ],
+        "url": "https://finance.eastmoney.com/a/202609203879272237.html",
+        "mobileUrl": ""
+      },
+      "资金再次转向科技！超140亿元涌入这一方向": {
+        "ranks": [
+          3
+        ],
+        "url": "https://finance.eastmoney.com/a/202609193879254152.html",
+        "mobileUrl": ""
+      },
+      "A股中长期利好！“三高”席卷全球 中国逆势突围的背后逻辑": {
+        "ranks": [
+          4
+        ],
+        "url": "https://finance.eastmoney.com/a/202609203879276788.html",
+        "mobileUrl": ""
+      },
+      "美对进口俄石油天然气第三国加征关税 商务部回应": {
+        "ranks": [
+          5
+        ],
+        "url": "https://finance.eastmoney.com/a/202609193879247023.html",
+        "mobileUrl": ""
+      },
+      "长鑫科技宣布第五代技术平台正式量产": {
+        "ranks": [
+          6
+        ],
+        "url": "https://finance.eastmoney.com/a/202609203879304729.html",
+        "mobileUrl": ""
+      },
+      "AI重塑MLCC供需格局！高端产品订单排至2027年 缺货涨价潮仍在延续(附股)": {
+        "ranks": [
+          7
+        ],
+        "url": "https://finance.eastmoney.com/a/202609203879293041.html",
+        "mobileUrl": ""
+      },
+      "上市两日暴涨1200% 沈鼓集团部分投资者遭暂停账户交易 发生了什么？": {
+        "ranks": [
+          8
+        ],
+        "url": "https://finance.eastmoney.com/a/202609203879281496.html",
+        "mobileUrl": ""
+      },
+      "黄仁勋减持英伟达？被代扣4.57万股用于缴税 CFO套现765万美元": {
+        "ranks": [
+          9
+        ],
+        "url": "https://finance.eastmoney.com/a/202609193879259839.html",
+        "mobileUrl": ""
+      },
+      "9月LPR不变：1年期3.0% 5年期以上3.5%": {
+        "ranks": [
+          10
+        ],
+        "url": "https://finance.eastmoney.com/a/202609203879283870.html",
+        "mobileUrl": ""
+      }
+    }
+  },
+  "names": {
+    "finance-dongcai-hotnews": "东方财富·网友点击排行榜"
+  },
+  "failed": [],
+  "status": {
+    "finance-dongcai-hotnews": {
+      "ok": true,
+      "count": 10
+    }
+  },
+  "crawl_date": "2026-09-20",
+  "crawl_time": "16-36"
+}

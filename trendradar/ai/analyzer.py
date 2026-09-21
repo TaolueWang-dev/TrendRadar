@@ -7,6 +7,7 @@ AI 分析器模块
 """
 
 import json
+from urllib.parse import urlparse
 from dataclasses import dataclass, field
 from typing import Any, Callable, Dict, List, NamedTuple, Optional
 
@@ -24,6 +25,7 @@ class AIAnalysisResult:
     rss_insights: str = ""               # RSS 深度洞察
     outlook_strategy: str = ""           # 研判与策略建议
     standalone_summaries: Dict[str, str] = field(default_factory=dict)  # 独立展示区概括 {源ID: 概括}
+    sources: Dict[str, Dict[str, str]] = field(default_factory=dict)
 
     # 基础元数据
     raw_response: str = ""               # 原始响应
@@ -149,6 +151,7 @@ class AIAnalyzer:
             )
 
         # 准备新闻内容并获取统计数据
+        self._sources = {}
         prepared = self._prepare_news_content(stats, rss_stats)
         total_news = prepared.hotlist_total + prepared.rss_total
 
@@ -227,6 +230,7 @@ class AIAnalyzer:
                 result.standalone_summaries = {}
 
             # 填充统计数据
+            result.sources = dict(self._sources)
             result.total_news = total_news
             result.hotlist_count = prepared.hotlist_total
             result.rss_count = prepared.rss_total
@@ -251,6 +255,23 @@ class AIAnalyzer:
                 success=False,
                 error=friendly_msg
             )
+
+    def _citation(self, item, source=""):
+        """Only register evidence actually sent to the model; URLs never come from AI."""
+        url = item.get('url') or item.get('mobile_url') or ''
+        if not isinstance(url, str):
+            return ''
+        parsed = urlparse(url)
+        if parsed.scheme not in ('http', 'https') or not parsed.hostname or parsed.username or parsed.password:
+            return ''
+        if not hasattr(self, '_sources'):
+            self._sources = {}
+        for key, entry in self._sources.items():
+            if entry['url'] == url:
+                return f' | 来源编号:[[{key}]]'
+        key = f'S{len(self._sources) + 1}'
+        self._sources[key] = {'url': url, 'title': item.get('title', ''), 'source': source}
+        return f' | 来源编号:[[{key}]]'
 
     def _prepare_news_content(
         self,
@@ -312,6 +333,7 @@ class AIAnalyzer:
                             timeline_str = self._format_rank_timeline(rank_timeline)
                             line += f" | 轨迹:{timeline_str}"
 
+                        line += self._citation(t, source)
                         news_lines.append(line)
 
                         news_count += 1
@@ -350,6 +372,7 @@ class AIAnalyzer:
                             line = f"- {title}"
                         if time_display:
                             line += f" | {time_display}"
+                        line += self._citation(t, source)
                         rss_lines.append(line)
 
                         rss_count += 1
@@ -375,6 +398,13 @@ class AIAnalyzer:
         messages = []
         if self.system_prompt:
             messages.append({"role": "system", "content": self.system_prompt})
+        messages.append({"role": "system", "content": (
+            '来源引用要求：输入中的 [[S数字]] 是可信来源编号。每条具体事实或总结要点后必须标注'
+            '直接支持它的编号，例如 [[S1]][[S3]]；只能使用该条输入实际提供的编号。'
+            '不得生成网址，不得编造编号，不得用不相关来源为结论背书。没有对应来源时明确写证据不足。'
+            '推测须标明推测，引用仅支持其事实前提；股票人气榜仅支持关注度，不支持资金流向或涨跌原因。'
+            '来源编号是允许的引用格式，不受其他禁止 Markdown 的排版规则限制。保持原 JSON 输出结构。'
+        )})
         messages.append({"role": "user", "content": user_prompt})
 
         return self.client.chat(messages)
@@ -522,6 +552,7 @@ class AIAnalyzer:
                         timeline_str = self._format_rank_timeline(rank_timeline)
                         line += f" | 轨迹:{timeline_str}"
 
+                line += self._citation(item, platform_name)
                 lines.append(line)
             lines.append("")
 
@@ -544,6 +575,7 @@ class AIAnalyzer:
                 if published_at:
                     line += f" | {published_at}"
 
+                line += self._citation(item, feed_name)
                 lines.append(line)
             lines.append("")
 

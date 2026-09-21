@@ -1,0 +1,770 @@
+{
+  "collected_at": "2026-09-20T15:21:35.846127+08:00",
+  "scope": "最新接口试跑 · 服务器最新成分股名单中的港美股热度各前10只",
+  "limitations": "采集时间：2026-09-20 15:21:35（北京时间）。富途港美股热榜各返回200只；本次只选成分股中各前10只。富途资讯成功获取11条（5只港股），东财原始样本33条，按各自市场窗口对齐后保留21条。雪球未采集：执行环境缺少opencli。富途美股资讯连续ret=-1，指数资讯未执行；不能将缺失解读为没有关注。东财使用服务器数据库最新记录，库中最新时间为2026-09-20 05:53；未启动东财上游抓取。本次未采集财报日历、评级、指数与期货行情。单次快照不支持升温、降温或全市场情绪判断。",
+  "windows": {
+    "hk_start": "2026-09-18T16:00:00+08:00",
+    "us_start": "2026-09-19T04:00:00+08:00"
+  },
+  "hot_stocks": [
+    {
+      "security": "US.SNDK",
+      "name": "闪迪",
+      "trade_heat": 0.0,
+      "trade_heat_change": -2960.0,
+      "search_heat": 9998958.0,
+      "search_heat_change": 0.0,
+      "news_heat": 9999969.0,
+      "news_heat_change": 0.0,
+      "average_heat": 6666309.0,
+      "average_heat_change": 0.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.NVDA",
+      "name": "英伟达",
+      "trade_heat": 0.0,
+      "trade_heat_change": -2384.0,
+      "search_heat": 6145193.0,
+      "search_heat_change": 1.0,
+      "news_heat": 5951213.0,
+      "news_heat_change": 0.0,
+      "average_heat": 4032135.0,
+      "average_heat_change": 1.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.SPCX",
+      "name": "SpaceX",
+      "trade_heat": 0.0,
+      "trade_heat_change": -2290.0,
+      "search_heat": 5624414.0,
+      "search_heat_change": 0.0,
+      "news_heat": 4098903.0,
+      "news_heat_change": 1.0,
+      "average_heat": 3241105.0,
+      "average_heat_change": 1.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.MU",
+      "name": "美光科技",
+      "trade_heat": 0.0,
+      "trade_heat_change": -967.0,
+      "search_heat": 7103427.0,
+      "search_heat_change": -1.0,
+      "news_heat": 2040362.0,
+      "news_heat_change": -7.0,
+      "average_heat": 3047929.0,
+      "average_heat_change": -3.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.MSTR",
+      "name": "Strategy",
+      "trade_heat": 0.0,
+      "trade_heat_change": -2447.0,
+      "search_heat": 5520258.0,
+      "search_heat_change": -5.0,
+      "news_heat": 1831625.0,
+      "news_heat_change": -8.0,
+      "average_heat": 2450627.0,
+      "average_heat_change": -2.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.TSLA",
+      "name": "特斯拉",
+      "trade_heat": 0.0,
+      "trade_heat_change": 1.0,
+      "search_heat": 4270389.0,
+      "search_heat_change": -2.0,
+      "news_heat": 2730512.0,
+      "news_heat_change": -1.0,
+      "average_heat": 2333633.0,
+      "average_heat_change": 0.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.AVGO",
+      "name": "博通",
+      "trade_heat": 0.0,
+      "trade_heat_change": 7.0,
+      "search_heat": 5832726.0,
+      "search_heat_change": 1.0,
+      "news_heat": 1147116.0,
+      "news_heat_change": -9.0,
+      "average_heat": 2326614.0,
+      "average_heat_change": 0.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.INTC",
+      "name": "英特尔",
+      "trade_heat": 0.0,
+      "trade_heat_change": -29.0,
+      "search_heat": 5832726.0,
+      "search_heat_change": -1.0,
+      "news_heat": 1045568.0,
+      "news_heat_change": 7.0,
+      "average_heat": 2292764.0,
+      "average_heat_change": -4.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.GOOG",
+      "name": "谷歌-C",
+      "trade_heat": 0.0,
+      "trade_heat_change": -2378.0,
+      "search_heat": 4291220.0,
+      "search_heat_change": 2.0,
+      "news_heat": 1690586.0,
+      "news_heat_change": -6.0,
+      "average_heat": 1993935.0,
+      "average_heat_change": -1.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "US.AAPL",
+      "name": "苹果",
+      "trade_heat": 0.0,
+      "trade_heat_change": -897.0,
+      "search_heat": 3874596.0,
+      "search_heat_change": 7.0,
+      "news_heat": 925842.0,
+      "news_heat_change": 0.0,
+      "average_heat": 1600146.0,
+      "average_heat_change": 12.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.00700",
+      "name": "腾讯控股",
+      "trade_heat": 0.0,
+      "trade_heat_change": -1684.0,
+      "search_heat": 7664112.0,
+      "search_heat_change": -1.0,
+      "news_heat": 9999895.0,
+      "news_heat_change": 1.0,
+      "average_heat": 5888002.0,
+      "average_heat_change": -1.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.09988",
+      "name": "阿里巴巴-W",
+      "trade_heat": 0.0,
+      "trade_heat_change": -202.0,
+      "search_heat": 5664778.0,
+      "search_heat_change": -3.0,
+      "news_heat": 9684905.0,
+      "news_heat_change": 1.0,
+      "average_heat": 5116561.0,
+      "average_heat_change": 1.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.03690",
+      "name": "美团-W",
+      "trade_heat": 0.0,
+      "trade_heat_change": -215.0,
+      "search_heat": 5664778.0,
+      "search_heat_change": 4.0,
+      "news_heat": 6579099.0,
+      "news_heat_change": 0.0,
+      "average_heat": 4081292.0,
+      "average_heat_change": 0.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.01810",
+      "name": "小米集团-W",
+      "trade_heat": 0.0,
+      "trade_heat_change": -220.0,
+      "search_heat": 7330890.0,
+      "search_heat_change": 3.0,
+      "news_heat": 3750486.0,
+      "news_heat_change": -1.0,
+      "average_heat": 3693792.0,
+      "average_heat_change": 0.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.03750",
+      "name": "宁德时代",
+      "trade_heat": 0.0,
+      "trade_heat_change": 1199.0,
+      "search_heat": 5998001.0,
+      "search_heat_change": 7.0,
+      "news_heat": 1232662.0,
+      "news_heat_change": 6.0,
+      "average_heat": 2410221.0,
+      "average_heat_change": 3.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.00992",
+      "name": "联想集团",
+      "trade_heat": 0.0,
+      "trade_heat_change": -35.0,
+      "search_heat": 5331556.0,
+      "search_heat_change": 1.0,
+      "news_heat": 1598051.0,
+      "news_heat_change": -1.0,
+      "average_heat": 2309869.0,
+      "average_heat_change": 1.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.01024",
+      "name": "快手-W",
+      "trade_heat": 0.0,
+      "trade_heat_change": 1134.0,
+      "search_heat": 3665445.0,
+      "search_heat_change": -3.0,
+      "news_heat": 2362428.0,
+      "news_heat_change": -1.0,
+      "average_heat": 2009291.0,
+      "average_heat_change": -3.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.09992",
+      "name": "泡泡玛特",
+      "trade_heat": 0.0,
+      "trade_heat_change": -184.0,
+      "search_heat": 4665112.0,
+      "search_heat_change": -1.0,
+      "news_heat": 157495.0,
+      "news_heat_change": 3.0,
+      "average_heat": 1607535.0,
+      "average_heat_change": 0.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.00005",
+      "name": "汇丰控股",
+      "trade_heat": 0.0,
+      "trade_heat_change": 534.0,
+      "search_heat": 4331889.0,
+      "search_heat_change": 2.0,
+      "news_heat": 461986.0,
+      "news_heat_change": -15.0,
+      "average_heat": 1597958.0,
+      "average_heat_change": 1.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    },
+    {
+      "security": "HK.01211",
+      "name": "比亚迪股份",
+      "trade_heat": 0.0,
+      "trade_heat_change": -1685.0,
+      "search_heat": 3332223.0,
+      "search_heat_change": 6.0,
+      "news_heat": 926072.0,
+      "news_heat_change": 17.0,
+      "average_heat": 1419431.0,
+      "average_heat_change": 7.0,
+      "news_type": "N/A",
+      "news_title": "",
+      "news_url": "N/A",
+      "source": "富途热榜"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "title": "云学堂 | SC 13G：超过5%持股股东披露文件-Tencent Holdings Limited(18.3%),Image Frame Investment (HK) Limited(18.3%)",
+      "url": "https://news.futunn.com/notice/301266303?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 美股SEC公告",
+      "stocks": [
+        "HK.00700"
+      ],
+      "published_at": "11/13",
+      "metric": {
+        "views": 347
+      }
+    },
+    {
+      "id": "E2",
+      "title": "宁德时代(3750.HK)：产能利用提升 生产旺盛且份额稳定",
+      "url": "https://news.futunn.com/post/64760150?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 恒生聚源",
+      "stocks": [
+        "HK.03750"
+      ],
+      "published_at": "11/12",
+      "metric": {
+        "views": 791
+      }
+    },
+    {
+      "id": "E3",
+      "title": "里昂证券维持对宁德时代（3750.HK）的买入评级。",
+      "url": "https://www.tipranks.com/news/blurbs/clsa-sticks-to-its-buy-rating-for-contemporary-amperex-technology-co-limited-class-h-3750-blurbs?futusource=news_search_searchnews&src=39&utm_medium=referral&utm_source=news.futunn.com",
+      "source": "富途资讯 / TipRanks",
+      "stocks": [
+        "HK.03750"
+      ],
+      "published_at": "11/20",
+      "metric": {
+        "views": 363
+      }
+    },
+    {
+      "id": "E4",
+      "title": "宁德时代(3750.HK)：公司三季报业绩超预期 正在积极扩张产能 建议“买进”",
+      "url": "https://news.futunn.com/post/63676405?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 群益证券(香港)",
+      "stocks": [
+        "HK.03750"
+      ],
+      "published_at": "10/21",
+      "metric": {
+        "views": 342
+      }
+    },
+    {
+      "id": "E5",
+      "title": "宁德时代(03750.HK)交接覆盖：3Q2025业绩点评 经营质量稳健提升 紧抓储能发展机遇",
+      "url": "https://news.futunn.com/post/63638156?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 海通国际",
+      "stocks": [
+        "HK.03750"
+      ],
+      "published_at": "10/22",
+      "metric": {
+        "views": 302
+      }
+    },
+    {
+      "id": "E6",
+      "title": "联想集团(00992.HK)：重申长期净利率目标 超节点商业化提速",
+      "url": "https://news.futunn.com/post/79501842?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 中金公司",
+      "stocks": [
+        "HK.00992"
+      ],
+      "published_at": "9/19",
+      "metric": {
+        "views": 874
+      }
+    },
+    {
+      "id": "E7",
+      "title": "汇丰控股(00005.HK)：汇丰控股私有化收购恒丰银行事件解读",
+      "url": "https://news.futunn.com/post/63089069?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 中金公司",
+      "stocks": [
+        "HK.00005"
+      ],
+      "published_at": "10/10",
+      "metric": {
+        "views": 2749
+      }
+    },
+    {
+      "id": "E8",
+      "title": "汇丰控股(0005.HK)：营收、利润均超预期 上调全年ROTE指引",
+      "url": "https://news.futunn.com/post/63958727?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 中信建投证券",
+      "stocks": [
+        "HK.00005"
+      ],
+      "published_at": "10/29",
+      "metric": {
+        "views": 1348
+      }
+    },
+    {
+      "id": "E9",
+      "title": "汇丰控股(0005.HK)：锚定亚洲 变中求进",
+      "url": "https://news.futunn.com/post/62711771?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 华泰证券",
+      "stocks": [
+        "HK.00005"
+      ],
+      "published_at": "9/28",
+      "metric": {
+        "views": 357
+      }
+    },
+    {
+      "id": "E10",
+      "title": "汇丰控股(0005.HK)：私有化恒生银行 盈利能力和战略竞争力再上台阶",
+      "url": "https://news.futunn.com/post/63086867?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / 中信建投证券",
+      "stocks": [
+        "HK.00005"
+      ],
+      "published_at": "10/9",
+      "metric": {
+        "views": 236
+      }
+    },
+    {
+      "id": "E11",
+      "title": "《大行报告》野村降比亚迪(01211.HK)目标价至276元 下调盈测",
+      "url": "https://news.futunn.com/post/38643976?futusource=news_search_searchnews&src=39",
+      "source": "富途资讯 / AASTOCKS",
+      "stocks": [
+        "HK.01211"
+      ],
+      "published_at": "2/29",
+      "metric": {
+        "views": 1008
+      }
+    },
+    {
+      "id": "E12",
+      "title": "港股复盘|一度暴涨25% 股价创历史新高 港股惊现“无厘头”炒作",
+      "url": "/news,hk00992,1775154908.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.00992"
+      ],
+      "published_at": "2026-09-18 16:56:10",
+      "metric": {
+        "reads": 2912,
+        "comments": 2
+      }
+    },
+    {
+      "id": "E13",
+      "title": "比亚迪：二季度净利润同比增长30% 毛利率达18.9%",
+      "url": "/news,hk01211,1775159470.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.01211"
+      ],
+      "published_at": "2026-09-18 17:16:40",
+      "metric": {
+        "reads": 2627,
+        "comments": 7
+      }
+    },
+    {
+      "id": "E14",
+      "title": "港股复盘|一度暴涨25% 股价创历史新高 港股惊现“无厘头”炒作",
+      "url": "/news,hk09988,1775154908.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.09988"
+      ],
+      "published_at": "2026-09-18 16:56:10",
+      "metric": {
+        "reads": 2599,
+        "comments": 1
+      }
+    },
+    {
+      "id": "E15",
+      "title": "存在安全隐患！超18万辆比亚迪被召回",
+      "url": "/news,hk01211,1775179702.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.01211"
+      ],
+      "published_at": "2026-09-18 19:14:00",
+      "metric": {
+        "reads": 2242,
+        "comments": 21
+      }
+    },
+    {
+      "id": "E16",
+      "title": "叶国富“下战书”：名创优品叫板泡泡玛特",
+      "url": "/news,hk09992,1775228804.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.09992"
+      ],
+      "published_at": "2026-09-19 04:54:11",
+      "metric": {
+        "reads": 1736,
+        "comments": 9
+      }
+    },
+    {
+      "id": "E17",
+      "title": "晚报丨日央行加息25基点至1.25%；人民币升破6.7关口，多重因素构成强支撑；财政部：1—8月证券交易印花税同比增长82%；Gemini 4 Pro偷跑上线，碾压Astra和Fable；Anthropic称Claude已主导其26%内部AI研发",
+      "url": "/news,hk09988,1775174659.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.09988"
+      ],
+      "published_at": "2026-09-18 18:38:30",
+      "metric": {
+        "reads": 1650,
+        "comments": 4
+      }
+    },
+    {
+      "id": "E18",
+      "title": "南向资金净买近12亿港元 净买入百度集团-W近43亿港元",
+      "url": "/news,hk09988,1775163884.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.09988"
+      ],
+      "published_at": "2026-09-18 17:38:20",
+      "metric": {
+        "reads": 1310,
+        "comments": 2
+      }
+    },
+    {
+      "id": "E19",
+      "title": "市场监管部门与淘天、抖音、快手、美团、小红书、支付宝等8家平台企业签署协议",
+      "url": "/news,hk01024,1775183267.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.01024"
+      ],
+      "published_at": "2026-09-18 19:36:39",
+      "metric": {
+        "reads": 1221,
+        "comments": 1
+      }
+    },
+    {
+      "id": "E20",
+      "title": "多车企发布召回公告，比亚迪涉超18万辆老款车型",
+      "url": "/news,hk01211,1775159385.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.01211"
+      ],
+      "published_at": "2026-09-18 17:16:20",
+      "metric": {
+        "reads": 994,
+        "comments": 7
+      }
+    },
+    {
+      "id": "E21",
+      "title": "比亚迪：二季度净利润同比增长30%，毛利率达18.9%创近一年新高",
+      "url": "/news,hk01211,1775156543.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.01211"
+      ],
+      "published_at": "2026-09-18 17:03:40",
+      "metric": {
+        "reads": 939,
+        "comments": 7
+      }
+    },
+    {
+      "id": "E22",
+      "title": "比亚迪召回超18万辆汽车",
+      "url": "/news,hk01211,1775202071.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.01211"
+      ],
+      "published_at": "2026-09-18 21:26:19",
+      "metric": {
+        "reads": 831,
+        "comments": 6
+      }
+    },
+    {
+      "id": "E23",
+      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
+      "url": "/news,hk09988,1775177374.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.09988"
+      ],
+      "published_at": "2026-09-18 18:57:29",
+      "metric": {
+        "reads": 765,
+        "comments": 1
+      }
+    },
+    {
+      "id": "E24",
+      "title": "南向资金追踪｜近两周连续逆势加仓超320亿港元 短线买入智谱和百度减持阿里",
+      "url": "/news,hk09988,1775181866.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.09988"
+      ],
+      "published_at": "2026-09-18 19:27:39",
+      "metric": {
+        "reads": 676,
+        "comments": 0
+      }
+    },
+    {
+      "id": "E25",
+      "title": "市场监管部门与平台企业签署协议，共同支持个体工商户发展",
+      "url": "/news,hk01024,1775157840.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.01024"
+      ],
+      "published_at": "2026-09-18 17:10:00",
+      "metric": {
+        "reads": 468,
+        "comments": 0
+      }
+    },
+    {
+      "id": "E26",
+      "title": "港股收评：恒指涨，恒科大涨超2%；半导体爆发，黄金股大涨，煤炭下跌；MINIMAX大涨超18%，联想大涨超9%，阿里、智谱、零跑集体上涨",
+      "url": "/news,hk00992,1775146651.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.00992"
+      ],
+      "published_at": "2026-09-18 16:20:52",
+      "metric": {
+        "reads": 384,
+        "comments": 1
+      }
+    },
+    {
+      "id": "E27",
+      "title": "市场监管部门与8家平台企业签署协议，共同支持个体工商户发展",
+      "url": "/news,hk01024,1775166392.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.01024"
+      ],
+      "published_at": "2026-09-18 17:50:00",
+      "metric": {
+        "reads": 368,
+        "comments": 0
+      }
+    },
+    {
+      "id": "E28",
+      "title": "港股收盘(09.18) | 恒指收涨0.6% AI产业链、内房股等表现强势 联想集团(00992)创历史新高",
+      "url": "//caifuhao.eastmoney.com/news/20260918164357006223150",
+      "source": "东财 / 热点",
+      "stocks": [
+        "HK.00992"
+      ],
+      "published_at": "2026-09-18 16:43:57",
+      "metric": {
+        "reads": 255,
+        "comments": 0
+      }
+    },
+    {
+      "id": "E29",
+      "title": "港股收盘｜恒指涨0.6% MINIMAX大涨近19%",
+      "url": "/news,hk00992,1775147207.html",
+      "source": "东财 / 资讯",
+      "stocks": [
+        "HK.00992"
+      ],
+      "published_at": "2026-09-18 16:23:30",
+      "metric": {
+        "reads": 206,
+        "comments": 0
+      }
+    },
+    {
+      "id": "E30",
+      "title": "联想集团股价再创新高，CFO曾称完全被市场低估",
+      "url": "//caifuhao.eastmoney.com/news/20260918162942263010140",
+      "source": "东财 / 热点",
+      "stocks": [
+        "HK.00992"
+      ],
+      "published_at": "2026-09-18 16:29:42",
+      "metric": {
+        "reads": 151,
+        "comments": 0
+      }
+    },
+    {
+      "id": "E31",
+      "title": "快手-W(01024)9月18日斥资2498.58万港元回购81.5万股",
+      "url": "//caifuhao.eastmoney.com/news/20260918200017409715180",
+      "source": "东财 / 热点",
+      "stocks": [
+        "HK.01024"
+      ],
+      "published_at": "2026-09-18 20:00:17",
+      "metric": {
+        "reads": 109,
+        "comments": 0
+      }
+    },
+    {
+      "id": "E32",
+      "title": "快手－Ｗ(01024.HK)9月18日耗资2498.58万港元回购81.5万股",
+      "url": "//caifuhao.eastmoney.com/news/20260918195237435541370",
+      "source": "东财 / 热点",
+      "stocks": [
+        "HK.01024"
+      ],
+      "published_at": "2026-09-18 19:52:37",
+      "metric": {
+        "reads": 63,
+        "comments": 0
+      }
+    }
+  ]
+}

